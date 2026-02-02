@@ -2,6 +2,7 @@ var WORDS = [
 
   
   
+/* Quân đội & Cấp bậc */
 {ko:"군", vi:"Quân đội"},
 {ko:"계급", vi:"Cấp bậc"},
 {ko:"군종", vi:"Chủng loại quân (lục quân, hải quân…)"},
@@ -45,8 +46,9 @@ var WORDS = [
 {ko:"폭탄", vi:"Bom"},
 {ko:"군용품", vi:"Trang bị quân dụng"},
 
-
-
+  
+  
+/* Nghề nghiệp & Con người */
 {ko:"군인", vi:"Quân nhân"},
 {ko:"의사", vi:"Bác sĩ"},
 {ko:"간호사", vi:"Y tá"},
@@ -90,7 +92,7 @@ var WORDS = [
 {ko:"여자", vi:"Nữ giới"},
 
 
-
+/* Địa điểm & Giao thông */
 {ko:"나라", vi:"Đất nước"},
 {ko:"국가", vi:"Quốc gia"},
 {ko:"국적", vi:"Quốc tịch"},
@@ -151,7 +153,7 @@ var WORDS = [
 
 
 
-
+/* Đồ dùng & Gia dụng */
 {ko:"냉장고", vi:"Tủ lạnh"},
 {ko:"냉동실", vi:"Ngăn đông"},
 {ko:"냉장실", vi:"Ngăn mát"},
@@ -225,7 +227,7 @@ var WORDS = [
 
 
 
-
+/* Thực phẩm & Nguyên liệu */
 {ko:"밥", vi:"Cơm"},
 {ko:"볶음밥", vi:"Cơm rang"},
 {ko:"라면", vi:"Mì ăn liền"},
@@ -279,7 +281,7 @@ var WORDS = [
 
 
 
-
+/* Thời gian & Số lượng */
 {ko:"하루", vi:"Một ngày"},
 {ko:"아침", vi:"Buổi sáng"},
 {ko:"낮", vi:"Ban ngày / buổi trưa"},
@@ -317,7 +319,7 @@ var WORDS = [
 
 
 
-
+/* Màu sắc */
 {ko:"하얗다", vi:"Trắng"},
 {ko:"검다", vi:"Đen"},
 {ko:"빨갛다", vi:"Đỏ"},
@@ -340,7 +342,7 @@ var WORDS = [
 
 
 
-
+/* Động từ & Tính từ */
 {ko:"가다", vi:"Đi"},
 {ko:"오다", vi:"Đến"},
 {ko:"먹다", vi:"Ăn"},
@@ -418,7 +420,7 @@ var WORDS = [
 
 
 
-
+/* Học tập & Khác */
 {ko:"한글", vi:"Chữ Hàn"},
 {ko:"모음", vi:"Nguyên âm"},
 {ko:"자음", vi:"Phụ âm"},
