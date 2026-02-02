@@ -90,7 +90,7 @@ var WORDS = [
 {ko:"한국인", vi:"Người Hàn Quốc, Korean"},
 {ko:"아이", vi:"Trẻ em, Child"},
 {ko:"남자", vi:"Nam giới, Man"},
-{ko:"여자", vi:"Nữ giới, Woman"}
+{ko:"여자", vi:"Nữ giới, Woman"},
 
 
 
@@ -151,7 +151,7 @@ var WORDS = [
 {ko:"도착", vi:"Đến nơi, Arrival"},
 {ko:"도착하다", vi:"Đến nơi, Arrive"},
 {ko:"표", vi:"Vé, Ticket"},
-{ko:"운전면허증", vi:"Bằng lái xe, Driver’s license"}
+{ko:"운전면허증", vi:"Bằng lái xe, Driver’s license"},
 
 
 
@@ -233,7 +233,7 @@ var WORDS = [
 {ko:"침대", vi:"Giường, Bed"},
 {ko:"책상", vi:"Bàn học/làm việc, Desk"},
 {ko:"의자", vi:"Ghế, Chair"},
-{ko:"탁자", vi:"Bàn, Table"}
+{ko:"탁자", vi:"Bàn, Table"},
 
 
 
@@ -296,7 +296,7 @@ var WORDS = [
 {ko:"커피", vi:"Cà phê, Coffee"},
 {ko:"차", vi:"Trà, Tea"},
 {ko:"술", vi:"Rượu, Alcohol"},
-{ko:"맥주", vi:"Bia, Beer"}
+{ko:"맥주", vi:"Bia, Beer"},
 
 
 
@@ -340,7 +340,7 @@ var WORDS = [
 {ko:"요금", vi:"Phí, Fee"},
 {ko:"요금표", vi:"Bảng giá, Price list"},
 {ko:"돈", vi:"Tiền, Money"},
-{ko:"화폐", vi:"Tiền tệ, Currency"}
+{ko:"화폐", vi:"Tiền tệ, Currency"},
 
 
 
@@ -440,7 +440,7 @@ var WORDS = [
 {ko:"같다", vi:"Giống, Same"},
 {ko:"어떻다", vi:"Như thế nào, How"},
 {ko:"어떠하다", vi:"Như thế nào (trang trọng), How (formal)"},
-{ko:"천천히 하다", vi:"Làm chậm rãi, Do slowly"}
+{ko:"천천히 하다", vi:"Làm chậm rãi, Do slowly"},
 
 
 
