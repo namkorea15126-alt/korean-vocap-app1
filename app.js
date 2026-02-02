@@ -2,8 +2,8 @@ document.addEventListener("DOMContentLoaded", function () {
     var words = WORDS;
     var memoryData = JSON.parse(localStorage.getItem("memoryData")) || {};
 
-    var meaning = document.getElementById("meaning");
     var korean = document.getElementById("korean");
+    var vietnamese = document.getElementById("vietnamese");
     var statusText = document.getElementById("statusText");
     var progressText = document.getElementById("progress");
 
@@ -29,9 +29,9 @@ document.addEventListener("DOMContentLoaded", function () {
         var remainingWords = getUnlearnedWords();
 
         if (remainingWords.length === 0) {
-            meaning.textContent = "🎉 Finished!";
-            korean.textContent = "";
-            korean.classList.add("hidden");
+            korean.textContent = "🎉 Finished!";
+            vietnamese.textContent = "";
+            vietnamese.classList.add("hidden");
             statusText.textContent = "";
             progressText.textContent =
                 "Remembered: " + words.length + " / " + words.length + " (100%)";
@@ -41,9 +41,9 @@ document.addEventListener("DOMContentLoaded", function () {
         currentWord =
             remainingWords[Math.floor(Math.random() * remainingWords.length)];
 
-        meaning.textContent = currentWord.vi;
         korean.textContent = currentWord.ko;
-        korean.classList.add("hidden"); // Ẩn chữ Hàn khi sang từ mới
+        vietnamese.textContent = currentWord.vi;
+        vietnamese.classList.add("hidden"); // ẨN nghĩa khi sang từ mới
 
         if (memoryData[currentWord.ko] === "known")
             statusText.textContent = "✅ Remembered";
@@ -52,7 +52,7 @@ document.addEventListener("DOMContentLoaded", function () {
         else statusText.textContent = "🤔 Unmarked";
 
         updateProgress();
-        playAudio(currentWord); // 🔊 tự phát âm tiếng Hàn
+        playAudio(currentWord); // 🔊 tự phát khi hiện từ
     }
 
     function saveWordStatus(status) {
@@ -78,9 +78,9 @@ document.addEventListener("DOMContentLoaded", function () {
         }
     }
 
-    // 👆 CLICK NGHĨA → HIỆN / ẨN CHỮ HÀN
-    meaning.addEventListener("click", function () {
-        korean.classList.toggle("hidden");
+    // 👆 CLICK VÀO TỪ HÀN → HIỆN NGHĨA
+    korean.addEventListener("click", function () {
+        vietnamese.classList.toggle("hidden");
     });
 
     knownBtn.addEventListener("click", function () {
