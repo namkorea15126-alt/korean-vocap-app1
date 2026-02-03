@@ -1,6 +1,4 @@
 var WORDS = [
-
-  
   
   /* Quân đội & Cấp bậc */
 {ko:"군", vi:"Quân đội, Military"},
@@ -554,7 +552,7 @@ var WORDS = [
 
   
 /* Vị trí */
-{ko:"위치", vi:"Vị trí, Position"}
+{ko:"위치", vi:"Vị trí, Position"},
 {ko:"층", vi:"Tầng, Floor"},
 
 
@@ -565,5 +563,4 @@ var WORDS = [
 {ko:"맞은편", vi:"Đối diện, Opposite"},
 {ko:"밑", vi:"Bên dưới, Under"},
 {ko:"옆", vi:"Bên cạnh, Next to"}
-
 ];
