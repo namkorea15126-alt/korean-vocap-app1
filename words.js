@@ -1,7 +1,18 @@
 var WORDS = [
   
   /* Quân đội & Cấp bậc */
+{ko:"분대", vi:"Tiểu đội, Squad"},
+{ko:"소대", vi:"Trung đội, Platoon"},
+{ko:"중대", vi:"Đại đội, Company"},
+{ko:"대대", vi:"Tiểu đoàn, Battalion"},
+{ko:"연대", vi:"Trung đoàn, Regiment"},
+{ko:"여단", vi:"Lữ đoàn, Brigade"},
+{ko:"사단", vi:"Sư đoàn, Division"},
+{ko:"군단", vi:"Quân đoàn, Corps"},
+{ko:"군구", vi:"Quân khu, Military district"},
 {ko:"군", vi:"Quân đội, Military"},
+{ko:"국방부", vi:"Bộ Quốc phòng, Ministry of National Defense"},
+{ko:"사령부", vi:"Bộ tư lệnh, Command headquarters"},
 {ko:"계급", vi:"Cấp bậc, Rank"},
 {ko:"군종", vi:"Chủng loại quân, Military branch"},
 {ko:"장교", vi:"Sĩ quan, Officer"},
@@ -17,14 +28,8 @@ var WORDS = [
 {ko:"중위", vi:"Trung úy, First lieutenant"},
 {ko:"소위", vi:"Thiếu úy, Second lieutenant"},
 {ko:"준위", vi:"Chuẩn úy, Warrant officer"},
-{ko:"원사", vi:"Nguyên sĩ, Master sergeant"},
-{ko:"상사", vi:"Thượng sĩ, Sergeant first class"},
-{ko:"중사", vi:"Trung sĩ, Sergeant"},
-{ko:"하사", vi:"Hạ sĩ, Staff sergeant"},
-{ko:"병장", vi:"Binh nhất, Sergeant"},
-{ko:"상병", vi:"Nhất binh, Corporal"},
-{ko:"일병", vi:"Nhị binh, Private first class"},
-{ko:"이병", vi:"Binh nhì, Private"},
+{ko:"하사-중사-상사-원사", vi:"Hạ sĩ-Trung sĩ-Thượng sĩ-Đại sĩ"},
+{ko:"이병-일병-상병-병장", vi:"Binh nhì-Binh nhất-...."},
 {ko:"생도", vi:"Học viên quân sự, Cadet"},
 {ko:"소대장", vi:"Trung đội trưởng, Platoon leader"},
 {ko:"부대", vi:"Đơn vị, Unit"},
@@ -39,9 +44,14 @@ var WORDS = [
 {ko:"제대", vi:"Xuất ngũ, Discharge"},
 {ko:"숙소", vi:"Nơi ở, Barracks"},
 {ko:"군용품", vi:"Trang bị quân dụng, Military equipment"},
+
 {ko:"군복", vi:"Quân phục, Military uniform"},
-{ko:"군장", vi:"Trang bị quân đội, Military gear"},
-{ko:"근무모", vi:"Mũ trực quân đội, Duty cap"},
+{ko:"군장", vi:"Quân trang, Military gear"},
+{ko:"근무모", vi:"Mũ công vụ, Duty cap"},
+{ko:"근무화", vi:"Giày công vụ, Duty shoes"},
+{ko:"근무복", vi:"Quân phục công vụ, Duty uniform"},
+{ko:"전투모", vi:"Mũ chiến đấu, Combat helmet"},
+{ko:"전투복", vi:"Quân phục chiến đấu, Combat uniform"},
 {ko:"전투화", vi:"Giày chiến đấu, Combat boots"},  
 
   
@@ -109,8 +119,8 @@ var WORDS = [
 {ko:"여자", vi:"Nữ giới, Woman"},
 
 
-
-/* Địa điểm & Giao thông */
+  
+  /* Địa điểm */
 {ko:"나라", vi:"Đất nước, Country"},
 {ko:"국가", vi:"Quốc gia, Nation"},
 {ko:"국적", vi:"Quốc tịch, Nationality"},
@@ -150,10 +160,20 @@ var WORDS = [
 {ko:"화장실", vi:"Nhà vệ sinh, Restroom"},
 {ko:"술집", vi:"Quán rượu, Bar"},
 {ko:"커피숍", vi:"Quán cà phê, Coffee shop"},
+{ko:"경기장", vi:"Sân thi đấu / sân vận động, Stadium"},
+{ko:"체력 단련실", vi:"Phòng rèn luyện thể lực, Physical training room / Gym"},
+{ko:"본관", vi:"Tòa nhà chính, Main building"},
+{ko:"생활관", vi:"Khu sinh hoạt / doanh trại, Living quarters"},
+
+
+
+  
+  /* Giao thông */ 
 {ko:"버스", vi:"Xe buýt, Bus"},
 {ko:"택시", vi:"Taxi, Taxi"},
 {ko:"기차", vi:"Tàu hỏa, Train"},
-{ko:"지하철", vi:"Tàu điện ngầm, Subway"},
+{ko:"지하철", vi:"Tàu điện ngầm dưới đất, Subway"},
+{ko:"전철", vi:"Tàu điện trên mặt đất"},
 {ko:"비행기", vi:"Máy bay, Airplane"},
 {ko:"자동차", vi:"Ô tô, Car"},
 {ko:"차", vi:"Xe, Vehicle"},
@@ -229,6 +249,7 @@ var WORDS = [
 {ko:"장갑", vi:"Găng tay, Gloves"},
 {ko:"신발", vi:"Giày, Shoes"},
 {ko:"구두", vi:"Giày da, Dress shoes"},
+{ko:"슬리퍼", vi:"Dép lê, Slippers"},
 {ko:"안경", vi:"Kính, Glasses"},
 {ko:"선글라스", vi:"Kính râm, Sunglasses"},
 {ko:"가방", vi:"Túi xách, Bag"},
@@ -239,12 +260,6 @@ var WORDS = [
 {ko:"우산", vi:"Ô / dù, Umbrella"},
 {ko:"반지", vi:"Nhẫn, Ring"},
 
-{ko:"가위", vi:"Kéo, Scissors"},
-{ko:"볼펜", vi:"Bút bi, Ballpoint pen"},
-{ko:"연필", vi:"Bút chì, Pencil"},
-{ko:"공책", vi:"Vở, Notebook"},
-{ko:"지우개", vi:"Cục tẩy, Eraser"},
-{ko:"사전", vi:"Từ điển, Dictionary"},
 {ko:"사물함", vi:"Tủ cá nhân, Locker"},
 
 {ko:"소파", vi:"Ghế sofa, Sofa"},
@@ -268,19 +283,63 @@ var WORDS = [
 {ko:"샌드위치", vi:"Bánh mì kẹp, Sandwich"},
 {ko:"햄버거", vi:"Hamburger, Hamburger"},
 {ko:"파스타", vi:"Mì Ý, Pasta"},
+{ko:"김밥", vi:"Cơm cuộn rong biển, Gimbap"},
+{ko:"비빔밥", vi:"Cơm trộn, Bibimbap"},
+{ko:"죽", vi:"Cháo, Porridge"},
+{ko:"떡", vi:"Bánh gạo, Rice cake"},
+{ko:"빵", vi:"Bánh mì, Bread"},
+{ko:"피자", vi:"Pizza, Pizza"},
+{ko:"치킨", vi:"Gà rán, Fried chicken"},
+{ko:"불고기", vi:"Thịt bò xào, Bulgogi"},
+{ko:"삼겹살", vi:"Thịt ba chỉ, Pork belly"},
+{ko:"고기", vi:"Thịt, Meat"},
+{ko:"소고기", vi:"Thịt bò, Beef"},
+{ko:"돼지고기", vi:"Thịt heo, Pork"},
+{ko:"닭고기", vi:"Thịt gà, Chicken"},
+{ko:"계란", vi:"Trứng, Egg"},
+{ko:"달걀", vi:"Trứng (cách nói khác), Egg"},
+{ko:"치즈", vi:"Phô mai, Cheese"},
+{ko:"우유", vi:"Sữa, Milk"},
+{ko:"버터", vi:"Bơ, Butter"},
+{ko:"채소", vi:"Rau, Vegetables"},
+{ko:"샐러드", vi:"Salad, Salad"},
+{ko:"국", vi:"Canh, Soup"},
+{ko:"찌개", vi:"Canh hầm, Stew"},
+{ko:"반찬", vi:"Món ăn kèm, Side dish"},
+{ko:"디저트", vi:"Món tráng miệng, Dessert"},
 
+
+  
 {ko:"삼계탕", vi:"Canh gà hầm sâm, Ginseng chicken soup"},
 {ko:"불고기", vi:"Thịt nướng Bulgogi, Bulgogi"},
 {ko:"고기", vi:"Thịt, Meat"},
-{ko:"소고기", vi:"Thịt bò, Beef"},
 {ko:"돼지", vi:"Heo / lợn, Pork"},
 {ko:"닭", vi:"Gà, Chicken"},
 {ko:"생선", vi:"Cá (món ăn), Fish"},
 {ko:"물고기", vi:"Cá (con cá sống), Fish (living)"},
 
+  
+  
 {ko:"굴", vi:"Hàu, Oyster"},
+{ko:"물고기", vi:"Cá (chung), Fish"},
+{ko:"민물고기", vi:"Cá nước ngọt, Freshwater fish"},
+{ko:"고등어", vi:"Cá thu, Mackerel"},
+{ko:"참치", vi:"Cá ngừ, Tuna"},
+{ko:"연어", vi:"Cá hồi, Salmon"},
+{ko:"새우", vi:"Tôm, Shrimp"},
+{ko:"게", vi:"Cua, Crab"},
+{ko:"오징어", vi:"Mực ống, Squid"},
+{ko:"문어", vi:"Bạch tuộc, Octopus"},
+{ko:"조개", vi:"Nghêu / sò, Clam"},
+{ko:"미역", vi:"Rong biển, Seaweed"},
 
+
+
+
+
+  
 {ko:"과일", vi:"Trái cây, Fruit"},
+{ko:"키위", vi:"Quả kiwi, Kiwi"},
 {ko:"사과", vi:"Táo, Apple"},
 {ko:"포도", vi:"Nho, Grape"},
 {ko:"딸기", vi:"Dâu tây, Strawberry"},
@@ -288,7 +347,24 @@ var WORDS = [
 {ko:"레몬", vi:"Chanh tây, Lemon"},
 {ko:"수박", vi:"Dưa hấu, Watermelon"},
 {ko:"배", vi:"Lê, Pear"},
+{ko:"오렌지", vi:"Cam, Orange"},
+{ko:"귤", vi:"Quýt, Mandarin"},
+{ko:"망고", vi:"Xoài, Mango"},
+{ko:"파인애플", vi:"Dứa / thơm, Pineapple"},
+{ko:"복숭아", vi:"Đào, Peach"},
+{ko:"자두", vi:"Mận, Plum"},
+{ko:"체리", vi:"Anh đào, Cherry"},
+{ko:"블루베리", vi:"Việt quất, Blueberry"},
+{ko:"라즈베리", vi:"Mâm xôi đỏ, Raspberry"},
+{ko:"아보카도", vi:"Bơ, Avocado"},
+{ko:"석류", vi:"Lựu, Pomegranate"},
+{ko:"감", vi:"Hồng, Persimmon"},
+{ko:"멜론", vi:"Dưa lưới, Melon"},
 
+
+
+  
+/* Rau củ */
 {ko:"당근", vi:"Cà rốt, Carrot"},
 {ko:"감자", vi:"Khoai tây, Potato"},
 {ko:"오이", vi:"Dưa leo, Cucumber"},
@@ -296,29 +372,71 @@ var WORDS = [
 {ko:"마늘", vi:"Tỏi, Garlic"},
 {ko:"파", vi:"Hành lá, Green onion"},
 {ko:"고추", vi:"Ớt, Chili pepper"},
+{ko:"양파", vi:"Hành tây, Onion"},
+{ko:"토마토", vi:"Cà chua, Tomato"},
+{ko:"상추", vi:"Xà lách, Lettuce"},
+{ko:"배추", vi:"Cải thảo, Napa cabbage"},
+{ko:"무", vi:"Củ cải trắng, Radish"},
+{ko:"브로콜리", vi:"Bông cải xanh, Broccoli"},
+{ko:"시금치", vi:"Rau bina, Spinach"},
+{ko:"가지", vi:"Cà tím, Eggplant"},
+{ko:"호박", vi:"Bí đỏ / bí ngô, Pumpkin / Squash"},
+{ko:"콩", vi:"Đậu, Bean"},
+{ko:"버섯", vi:"Nấm, Mushroom"},
 
+  
 {ko:"후추", vi:"Tiêu, Pepper"},
 {ko:"소금", vi:"Muối, Salt"},
 {ko:"설탕", vi:"Đường, Sugar"},
 {ko:"꿀", vi:"Mật ong, Honey"},
 {ko:"버터", vi:"Bơ, Butter"},
 {ko:"땅콩", vi:"Đậu phộng, Peanut"},
+{ko:"간장", vi:"Nước tương, Soy sauce"},
+{ko:"고추장", vi:"Tương ớt Hàn Quốc, Gochujang"},
+{ko:"된장", vi:"Tương đậu nành, Soybean paste"},
+{ko:"마늘", vi:"Tỏi, Garlic"},
+{ko:"파", vi:"Hành lá, Green onion"},
+{ko:"양파", vi:"Hành tây, Onion"},
+{ko:"고추", vi:"Ớt, Chili"},
+{ko:"식초", vi:"Giấm, Vinegar"},
+{ko:"기름", vi:"Dầu ăn, oil"},
+{ko:"케첩", vi:"Tương cà, Ketchup"},
+{ko:"마요네즈", vi:"Sốt mayonnaise, Mayonnaise"},
+,
 
+  
 {ko:"달걀", vi:"Trứng, Egg"},
 {ko:"계란", vi:"Trứng (cách nói phổ biến), Egg"},
 
-{ko:"빵", vi:"Bánh mì, Bread"},
+
+  
+
 {ko:"케이크", vi:"Bánh kem, Cake"},
 {ko:"초콜릿", vi:"Sô-cô-la, Chocolate"},
 {ko:"아이스크림", vi:"Kem, Ice cream"},
 {ko:"시리얼", vi:"Ngũ cốc, Cereal"},
 
+  
 {ko:"물", vi:"Nước, Water"},
 {ko:"주스", vi:"Nước ép, Juice"},
 {ko:"커피", vi:"Cà phê, Coffee"},
 {ko:"차", vi:"Trà, Tea"},
 {ko:"술", vi:"Rượu, Alcohol"},
 {ko:"맥주", vi:"Bia, Beer"},
+{ko:"우유", vi:"Sữa, Milk"},
+{ko:"두유", vi:"Sữa đậu nành, Soy milk"},
+{ko:"탄산수", vi:"Nước có ga, Sparkling water"},
+{ko:"콜라", vi:"Coca, Cola"},
+{ko:"사이다", vi:"Nước ngọt có ga (Sprite), Soda"},
+{ko:"이온음료", vi:"Nước điện giải, Sports drink"},
+{ko:"에너지 드링크", vi:"Nước tăng lực, Energy drink"},
+{ko:"녹차", vi:"Trà xanh, Green tea"},
+{ko:"홍차", vi:"Hồng trà, Black tea"},
+{ko:"보리차", vi:"Trà lúa mạch, Barley tea"},
+{ko:"막걸리", vi:"Rượu gạo Hàn Quốc, Makgeolli"},
+{ko:"소주", vi:"Rượu soju, Soju"},
+{ko:"와인", vi:"Rượu vang, Wine"},
+
 
 
 /* Thời gian & Số lượng */
@@ -342,8 +460,12 @@ var WORDS = [
 
 {ko:"월요일", vi:"Thứ hai, Monday"},
 {ko:"화요일", vi:"Thứ ba, Tuesday"},
+{ko:"수요일", vi:"Thứ tư, Wednesday"},
+{ko:"목요일", vi:"Thứ năm, Thursday"},
 {ko:"금요일", vi:"Thứ sáu, Friday"},
+{ko:"토요일", vi:"Thứ bảy, Saturday"},
 {ko:"일요일", vi:"Chủ nhật, Sunday"},
+
 
 {ko:"봄", vi:"Mùa xuân, Spring"},
 {ko:"여름", vi:"Mùa hè, Summer"},
@@ -363,12 +485,17 @@ var WORDS = [
 {ko:"화폐", vi:"Tiền tệ, Currency"},
 
   /* Màu sắc */
+  /* Tính từ */
 {ko:"하얗다", vi:"Trắng, White"},
 {ko:"검다", vi:"Đen, Black"},
 {ko:"빨갛다", vi:"Đỏ, Red"},
 {ko:"파랗다", vi:"Xanh dương, Blue"},
 {ko:"노랗다", vi:"Vàng, Yellow"},
+{ko:"초록색이다", vi:"Xanh lá, Green"},
+{ko:"분홍색이다", vi:"Hồng, Pink"},
 
+
+  /* Danh từ màu sắc */
 {ko:"흰색", vi:"Màu trắng, White color"},
 {ko:"검은색", vi:"Màu đen, Black color"},
 {ko:"검정색", vi:"Màu đen, Black color"},
@@ -380,15 +507,34 @@ var WORDS = [
 {ko:"보라색", vi:"Màu tím, Purple color"},
 {ko:"분홍색", vi:"Màu hồng, Pink color"},
 {ko:"갈색", vi:"Màu nâu, Brown color"},
+{ko:"회색", vi:"Màu xám, Gray color"},
+{ko:"하늘색", vi:"Màu xanh da trời nhạt, Sky blue"},
+{ko:"남색", vi:"Màu xanh đậm (xanh hải quân), Navy blue"},
+{ko:"연두색", vi:"Màu xanh non, Light green"},
+{ko:"금색", vi:"Màu vàng kim, Gold color"},
+{ko:"은색", vi:"Màu bạc, Silver color"},
 
 
-  /* Di chuyển & Hành động cơ bản */
+
+/* Di chuyển & Hành động cơ bản */
 {ko:"가다", vi:"Đi, Go"},
 {ko:"오다", vi:"Đến, Come"},
 {ko:"내리다", vi:"Xuống / hạ, Get off / Lower"},
 {ko:"타다", vi:"Lên (xe), Ride"},
 {ko:"운전하다", vi:"Lái xe, Drive"},
 {ko:"조종하다", vi:"Điều khiển, Control"},
+{ko:"걷다", vi:"Đi bộ, Walk"},
+{ko:"뛰다", vi:"Chạy, Run"},
+{ko:"달리다", vi:"Chạy nhanh, Run fast"},
+{ko:"건너다", vi:"Băng qua, Cross"},
+{ko:"들어가다", vi:"Đi vào, Enter"},
+{ko:"나오다", vi:"Đi ra, Come out"},
+{ko:"돌아가다", vi:"Quay về, Return"},
+{ko:"이동하다", vi:"Di chuyển, Move"},
+{ko:"출발하다", vi:"Khởi hành, Depart"},
+{ko:"도착하다", vi:"Đến nơi, Arrive"},
+{ko:"지나가다", vi:"Đi ngang qua, Pass by"},
+,
 
 /* Sinh hoạt hằng ngày */
 {ko:"먹다", vi:"Ăn, Eat"},
@@ -398,6 +544,20 @@ var WORDS = [
 {ko:"목욕하다", vi:"Tắm (bồn), Take a bath"},
 {ko:"샤워하다", vi:"Tắm (vòi sen), Shower"},
 {ko:"청소하다", vi:"Dọn dẹp, Clean"},
+{ko:"요리하다", vi:"Nấu ăn, Cook"},
+{ko:"설거지하다", vi:"Rửa bát, Wash dishes"},
+{ko:"빨래하다", vi:"Giặt đồ, Do laundry"},
+{ko:"다림질하다", vi:"Là ủi, Iron clothes"},
+{ko:"일어나다", vi:"Thức dậy, Wake up"},
+{ko:"잠자다", vi:"Ngủ, Sleep"},
+{ko:"세수하다", vi:"Rửa mặt, Wash face"},
+{ko:"양치하다", vi:"Đánh răng, Brush teeth"},
+{ko:"화장하다", vi:"Trang điểm, Put on makeup"},
+{ko:"옷을 입다", vi:"Mặc quần áo, Get dressed"},
+{ko:"옷을 벗다", vi:"Cởi quần áo, Take off clothes"},
+{ko:"집에 가다", vi:"Về nhà, Go home"},
+{ko:"집에 오다", vi:"Đến nhà, Come home"},
+
 
 /* Học tập & Công việc */
 {ko:"일하다", vi:"Làm việc, Work"},
@@ -431,6 +591,19 @@ var WORDS = [
 {ko:"쇼핑하다", vi:"Mua sắm, Shop"},
 {ko:"구매하다", vi:"Mua (trang trọng), Purchase"},
 {ko:"사다", vi:"Mua, Buy"},
+{ko:"축구", vi:"Bóng đá, Soccer"},
+{ko:"농구", vi:"Bóng rổ, Basketball"},
+{ko:"야구", vi:"Bóng chày, Baseball"},
+{ko:"배구", vi:"Bóng chuyền, Volleyball"},
+{ko:"테니스", vi:"Quần vợt, Tennis"},
+{ko:"배드민턴", vi:"Cầu lông, Badminton"},
+{ko:"요가", vi:"Yoga, Yoga"},
+{ko:"헬스", vi:"Tập gym, Fitness"},
+{ko:"게임하다", vi:"Chơi game, Play games"},
+{ko:"영화보다", vi:"Xem phim, Watch a movie"},
+{ko:"독서하다", vi:"Đọc sách, Read books"},
+{ko:"사진 찍다", vi:"Chụp ảnh, Take photos"},
+,
 
 /* Nhận thức – Cảm xúc – Trạng thái */
 {ko:"걱정하다", vi:"Lo lắng, Worry"},
@@ -520,15 +693,34 @@ var WORDS = [
 {ko:"주소", vi:"Địa chỉ, Address"},
 {ko:"연결하다", vi:"Kết nối, Connect"},
 
-/* Đồ dùng học tập & Khác */
+
+  /* Đồ dùng học tập */
 {ko:"종이", vi:"Giấy, Paper"},
 {ko:"필통", vi:"Hộp bút, Pencil case"},
+{ko:"연필", vi:"Bút chì, Pencil"},
+{ko:"볼펜", vi:"Bút bi, Ballpoint pen"},
+{ko:"지우개", vi:"Cục tẩy, Eraser"},
+{ko:"공책", vi:"Vở, Notebook"},
+{ko:"노트", vi:"Sổ tay, Note"},
+{ko:"자", vi:"Thước kẻ, Ruler"},
+{ko:"가위", vi:"Kéo, Scissors"},
+{ko:"풀", vi:"Hồ dán, Glue"},
+{ko:"테이프", vi:"Băng keo, Tape"},
+{ko:"파일", vi:"Bìa hồ sơ, File folder"},
+{ko:"사전", vi:"Từ điển, Dictionary"},
+
+
+  
+  /* Khác */
 {ko:"가짜", vi:"Giả, Fake"},
 {ko:"꿈", vi:"Giấc mơ, Dream"},
 {ko:"실수", vi:"Sơ suất, Mistake"},
 {ko:"잘못", vi:"Lỗi / điều sai, Fault"},
 
-/* Trạng từ & Biểu đạt mức độ */
+
+  
+  
+  /* Trạng từ & Biểu đạt mức độ */
 {ko:"아주", vi:"Rất, Very"},
 {ko:"너무", vi:"Quá / rất, Too / Very"},
 {ko:"엄청", vi:"Cực kỳ / rất nhiều, Extremely"},
@@ -539,28 +731,76 @@ var WORDS = [
 {ko:"그렇게", vi:"Như vậy, Like that"},
 {ko:"같이", vi:"Cùng nhau, Together"},
 {ko:"열심히", vi:"Chăm chỉ, Diligently"},
+{ko:"많이", vi:"Nhiều, A lot"},
+{ko:"조금", vi:"Ít / một chút, A little"},
+{ko:"빨리", vi:"Nhanh, Quickly"},
+{ko:"천천히", vi:"Chậm rãi, Slowly"},
+{ko:"자주", vi:"Thường xuyên, Often"},
+{ko:"가끔", vi:"Thỉnh thoảng, Sometimes"},
+{ko:"항상", vi:"Luôn luôn, Always"},
+{ko:"벌써", vi:"Đã rồi, Already"},
+{ko:"아직", vi:"Vẫn chưa, Still / Yet"},
+{ko:"다시", vi:"Lại / lại lần nữa, Again"},
 
-/* Thiên nhiên & Động vật */
+
+
+  
+  
+  /* Thiên nhiên */
 {ko:"별", vi:"Ngôi sao, Star"},
 {ko:"꽃", vi:"Hoa, Flower"},
 {ko:"나무", vi:"Cây, Tree"},
+{ko:"하늘", vi:"Bầu trời, Sky"},
+{ko:"구름", vi:"Mây, Cloud"},
+{ko:"해", vi:"Mặt trời, Sun"},
+{ko:"달", vi:"Mặt trăng, Moon"},
+{ko:"비", vi:"Mưa, Rain"},
+{ko:"눈", vi:"Tuyết, Snow"},
+{ko:"바람", vi:"Gió, Wind"},
+{ko:"산", vi:"Núi, Mountain"},
+{ko:"강", vi:"Sông, River"},
+{ko:"바다", vi:"Biển, Sea"},
+{ko:"숲", vi:"Rừng, Forest"},
+
+  
+    /* Động vật */
 {ko:"고래", vi:"Cá voi, Whale"},
 {ko:"코끼리", vi:"Con voi, Elephant"},
 {ko:"거미", vi:"Con nhện, Spider"},
 {ko:"강아지", vi:"Chó con, Puppy"},
 {ko:"고양이", vi:"Con mèo, Cat"},
+{ko:"새", vi:"Chim, Bird"},
+{ko:"말", vi:"Ngựa, Horse"},
+{ko:"소", vi:"Bò, Cow"},
+{ko:"돼지", vi:"Heo, Pig"},
+{ko:"닭", vi:"Gà, Chicken"},
+{ko:"호랑이", vi:"Hổ, Tiger"},
+{ko:"사자", vi:"Sư tử, Lion"},
+
 
   
+
 /* Vị trí */
 {ko:"위치", vi:"Vị trí, Position"},
 {ko:"층", vi:"Tầng, Floor"},
+{ko:"밑", vi:"Bên dưới, Under"},
+{ko:"옆", vi:"Bên cạnh, Next to"},
+{ko:"맞은편", vi:"Đối diện, Opposite"},
+{ko:"건너편", vi:"Bên kia / đối diện, Across / Opposite"},
+{ko:"위", vi:"Phía trên, Above"},
+{ko:"아래", vi:"Phía dưới, Below"},
+{ko:"앞", vi:"Phía trước, Front"},
+{ko:"뒤", vi:"Phía sau, Back"},
+{ko:"가운데", vi:"Ở giữa, Middle"},
+{ko:"근처", vi:"Gần đây / gần đó, Nearby"},
+{ko:"안", vi:"Bên trong, Inside"},
+{ko:"밖", vi:"Bên ngoài, Outside"},
+
+ 
 
 
 /* Phương hướng */
 {ko:"방향", vi:"Hướng, Direction"},
-{ko:"우측", vi:"Bên phải, Right side"},
-{ko:"좌측", vi:"Bên trái, Left side"},
-{ko:"맞은편", vi:"Đối diện, Opposite"},
-{ko:"밑", vi:"Bên dưới, Under"},
-{ko:"옆", vi:"Bên cạnh, Next to"}
+{ko:"왼쪽, 좌측", vi:"Bên trái, Left"},
+{ko:"오른쪽, 우측", vi:"Bên phải, Right"}
 ];
