@@ -28,7 +28,7 @@ var WORDS = [
 {ko:"중위", vi:"Trung úy, First lieutenant"},
 {ko:"소위", vi:"Thiếu úy, Second lieutenant"},
 {ko:"준위", vi:"Chuẩn úy, Warrant officer"},
-{ko:"하사-중사-상사-원사", vi:"Hạ sĩ-Trung sĩ-Thượng sĩ-Đại sĩ"},
+{ko:"하사-중사-상사-원사", vi:"Hạ sĩ quan"},
 {ko:"이병-일병-상병-병장", vi:"Binh nhì-Binh nhất-...."},
 {ko:"생도", vi:"Học viên quân sự, Cadet"},
 {ko:"소대장", vi:"Trung đội trưởng, Platoon leader"},
@@ -161,7 +161,6 @@ var WORDS = [
 {ko:"술집", vi:"Quán rượu, Bar"},
 {ko:"커피숍", vi:"Quán cà phê, Coffee shop"},
 {ko:"경기장", vi:"Sân thi đấu / sân vận động, Stadium"},
-{ko:"체력 단련실", vi:"Phòng rèn luyện thể lực, Physical training room / Gym"},
 {ko:"본관", vi:"Tòa nhà chính, Main building"},
 {ko:"생활관", vi:"Khu sinh hoạt / doanh trại, Living quarters"},
 
@@ -173,7 +172,7 @@ var WORDS = [
 {ko:"택시", vi:"Taxi, Taxi"},
 {ko:"기차", vi:"Tàu hỏa, Train"},
 {ko:"지하철", vi:"Tàu điện ngầm dưới đất, Subway"},
-{ko:"전철", vi:"Tàu điện trên mặt đất"},
+{ko:"전철", vi:"Tàu điện thường trên mặt đất"},
 {ko:"비행기", vi:"Máy bay, Airplane"},
 {ko:"자동차", vi:"Ô tô, Car"},
 {ko:"차", vi:"Xe, Vehicle"},
@@ -187,7 +186,6 @@ var WORDS = [
 {ko:"환승", vi:"Chuyển tuyến, Transfer"},
 {ko:"출발", vi:"Xuất phát, Departure"},
 {ko:"도착", vi:"Đến nơi, Arrival"},
-{ko:"도착하다", vi:"Đến nơi, Arrive"},
 {ko:"표", vi:"Vé, Ticket"},
 {ko:"운전면허증", vi:"Bằng lái xe, Driver’s license"},
 
@@ -292,14 +290,12 @@ var WORDS = [
 {ko:"치킨", vi:"Gà rán, Fried chicken"},
 {ko:"불고기", vi:"Thịt bò xào, Bulgogi"},
 {ko:"삼겹살", vi:"Thịt ba chỉ, Pork belly"},
-{ko:"고기", vi:"Thịt, Meat"},
 {ko:"소고기", vi:"Thịt bò, Beef"},
 {ko:"돼지고기", vi:"Thịt heo, Pork"},
 {ko:"닭고기", vi:"Thịt gà, Chicken"},
 {ko:"계란", vi:"Trứng, Egg"},
 {ko:"달걀", vi:"Trứng (cách nói khác), Egg"},
 {ko:"치즈", vi:"Phô mai, Cheese"},
-{ko:"우유", vi:"Sữa, Milk"},
 {ko:"버터", vi:"Bơ, Butter"},
 {ko:"채소", vi:"Rau, Vegetables"},
 {ko:"샐러드", vi:"Salad, Salad"},
@@ -311,17 +307,13 @@ var WORDS = [
 
   
 {ko:"삼계탕", vi:"Canh gà hầm sâm, Ginseng chicken soup"},
-{ko:"불고기", vi:"Thịt nướng Bulgogi, Bulgogi"},
 {ko:"고기", vi:"Thịt, Meat"},
-{ko:"돼지", vi:"Heo / lợn, Pork"},
-{ko:"닭", vi:"Gà, Chicken"},
 {ko:"생선", vi:"Cá (món ăn), Fish"},
 {ko:"물고기", vi:"Cá (con cá sống), Fish (living)"},
 
   
   
 {ko:"굴", vi:"Hàu, Oyster"},
-{ko:"물고기", vi:"Cá (chung), Fish"},
 {ko:"민물고기", vi:"Cá nước ngọt, Freshwater fish"},
 {ko:"고등어", vi:"Cá thu, Mackerel"},
 {ko:"참치", vi:"Cá ngừ, Tuna"},
@@ -369,10 +361,8 @@ var WORDS = [
 {ko:"감자", vi:"Khoai tây, Potato"},
 {ko:"오이", vi:"Dưa leo, Cucumber"},
 {ko:"양배추", vi:"Bắp cải, Cabbage"},
-{ko:"마늘", vi:"Tỏi, Garlic"},
 {ko:"파", vi:"Hành lá, Green onion"},
 {ko:"고추", vi:"Ớt, Chili pepper"},
-{ko:"양파", vi:"Hành tây, Onion"},
 {ko:"토마토", vi:"Cà chua, Tomato"},
 {ko:"상추", vi:"Xà lách, Lettuce"},
 {ko:"배추", vi:"Cải thảo, Napa cabbage"},
@@ -389,7 +379,6 @@ var WORDS = [
 {ko:"소금", vi:"Muối, Salt"},
 {ko:"설탕", vi:"Đường, Sugar"},
 {ko:"꿀", vi:"Mật ong, Honey"},
-{ko:"버터", vi:"Bơ, Butter"},
 {ko:"땅콩", vi:"Đậu phộng, Peanut"},
 {ko:"간장", vi:"Nước tương, Soy sauce"},
 {ko:"고추장", vi:"Tương ớt Hàn Quốc, Gochujang"},
@@ -397,17 +386,10 @@ var WORDS = [
 {ko:"마늘", vi:"Tỏi, Garlic"},
 {ko:"파", vi:"Hành lá, Green onion"},
 {ko:"양파", vi:"Hành tây, Onion"},
-{ko:"고추", vi:"Ớt, Chili"},
 {ko:"식초", vi:"Giấm, Vinegar"},
 {ko:"기름", vi:"Dầu ăn, oil"},
 {ko:"케첩", vi:"Tương cà, Ketchup"},
 {ko:"마요네즈", vi:"Sốt mayonnaise, Mayonnaise"},
-,
-
-  
-{ko:"달걀", vi:"Trứng, Egg"},
-{ko:"계란", vi:"Trứng (cách nói phổ biến), Egg"},
-
 
   
 
