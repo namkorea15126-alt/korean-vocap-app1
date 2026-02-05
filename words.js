@@ -99,6 +99,7 @@ var WORDS = [
 {ko:"엄마", vi:"Mẹ (thân mật), Mom"},
 {ko:"오빠", vi:"Anh trai (nữ gọi), Older brother"},
 {ko:"누나", vi:"Chị gái (nam gọi), Older sister"},
+{ko:"언니", vi:"Chị gái (nữ gọi), Older sister (female speaker)"},
 {ko:"동생", vi:"Em, Younger sibling"},
 {ko:"삼촌", vi:"Chú, bác trai, Uncle"},
 {ko:"이모", vi:"Dì, Aunt"},
@@ -107,6 +108,10 @@ var WORDS = [
 {ko:"호칭", vi:"Cách xưng hô, Form of address"},
 {ko:"씨", vi:"Hậu tố xưng hô lịch sự, Polite suffix"},
 {ko:"자기", vi:"Bản thân / anh-em (thân mật), Honey / Self"},
+{ko:"내", vi:"Của tôi / tôi (dạng bổ nghĩa), My"},
+{ko:"아들", vi:"Con trai, Son"},
+{ko:"딸", vi:"Con gái, Daughter"},
+
 
   
   
@@ -772,11 +777,10 @@ var WORDS = [
 {ko:"아래", vi:"Phía dưới, Below"},
 {ko:"앞", vi:"Phía trước, Front"},
 {ko:"뒤", vi:"Phía sau, Back"},
-{ko:"가운데", vi:"Ở giữa, Middle"},
 {ko:"근처", vi:"Gần đây / gần đó, Nearby"},
 {ko:"안", vi:"Bên trong, Inside"},
 {ko:"밖", vi:"Bên ngoài, Outside"},
-
+{ko:"가운데", vi:"Ở giữa, Middle"},
  
 
 
