@@ -516,7 +516,6 @@ var WORDS = [
 {ko:"출발하다", vi:"Khởi hành, Depart"},
 {ko:"도착하다", vi:"Đến nơi, Arrive"},
 {ko:"지나가다", vi:"Đi ngang qua, Pass by"},
-,
 
 /* Sinh hoạt hằng ngày */
 {ko:"먹다", vi:"Ăn, Eat"},
@@ -585,7 +584,7 @@ var WORDS = [
 {ko:"영화보다", vi:"Xem phim, Watch a movie"},
 {ko:"독서하다", vi:"Đọc sách, Read books"},
 {ko:"사진 찍다", vi:"Chụp ảnh, Take photos"},
-,
+
 
 /* Nhận thức – Cảm xúc – Trạng thái */
 {ko:"걱정하다", vi:"Lo lắng, Worry"},
