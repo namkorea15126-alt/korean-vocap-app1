@@ -1,4 +1,36 @@
 var WORDS = [
+
+{ko:"그러면", vi:"Vậy thì / nếu vậy thì, Then"},
+{ko:"는데/지만", vi:"Nhưng / tuy nhiên (liên kết câu), But / Though"},
+{ko:"쉽다", vi:"Dễ, Easy"},
+{ko:"전자", vi:"Điện tử, Electronic"},
+{ko:"전기", vi:"Điện, Electricity"},
+{ko:"고장나다", vi:"Bị hỏng, Break down"},
+{ko:"끄다", vi:"Tắt, Turn off"},
+{ko:"켜다", vi:"Bật, Turn on"},
+{ko:"복사기", vi:"Máy photocopy, Copier"},
+{ko:"쿠키", vi:"Bánh quy / cookie, Cookie"},
+
+  
+  
+  
+{ko:"동사", vi:"Động từ, Verb"},
+{ko:"명사", vi:"Danh từ, Noun"},
+{ko:"대명사", vi:"Đại từ, Pronoun"},
+{ko:"수사", vi:"Số từ, Numeral"},
+{ko:"동사", vi:"Động từ, Verb"},
+{ko:"형용사", vi:"Tính từ, Adjective"},
+{ko:"부사", vi:"Trạng từ, Adverb"},
+{ko:"관형사", vi:"Định từ, Determiner"},
+{ko:"조사", vi:"Trợ từ, Particle"},
+{ko:"어미", vi:"Đuôi từ (đuôi câu), Ending"},
+{ko:"접사", vi:"Phụ tố (tiền/hậu tố), Affix"},
+{ko:"접속사", vi:"Liên từ, Conjunction"},
+{ko:"감탄사", vi:"Thán từ, Interjection"},
+
+
+
+
   
   /* Quân đội & Cấp bậc */
 {ko:"분대", vi:"Tiểu đội, Squad"},
