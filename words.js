@@ -1,20 +1,37 @@
 var WORDS = [
 
-{ko:"그러면", vi:"Vậy thì / nếu vậy thì, Then"},
-{ko:"는데/지만", vi:"Nhưng / tuy nhiên (liên kết câu), But / Though"},
-{ko:"쉽다", vi:"Dễ, Easy"},
-{ko:"전자", vi:"Điện tử, Electronic"},
+  {ko:"전자", vi:"Điện tử, Electronic"},
 {ko:"전기", vi:"Điện, Electricity"},
-{ko:"고장나다", vi:"Bị hỏng, Break down"},
-{ko:"끄다", vi:"Tắt, Turn off"},
-{ko:"켜다", vi:"Bật, Turn on"},
 {ko:"복사기", vi:"Máy photocopy, Copier"},
 {ko:"쿠키", vi:"Bánh quy / cookie, Cookie"},
+{ko:"하오체", vi:"Thể trang trọng trung tính (dùng trong quân đội, người lớn tuổi), Hao-che"},
+{ko:"해라체", vi:"Thể mệnh lệnh / văn viết trang trọng (sách, báo, quân đội), Haera-che"},
+{ko:"해요체", vi:"Thể lịch sự thông dụng (giao tiếp hằng ngày), Haeyo-che"},  
+ {ko:"언덕", vi:"Đồi, Hill"},
+{ko:"숲", vi:"Rừng, Forest"}, 
+{ko:"도", vi:"Tỉnh / đạo, Province"},
+{ko:"시", vi:"Thành phố, City"},
+{ko:"군", vi:"Huyện (đơn vị hành chính), County"},
+{ko:"읍", vi:"Thị trấn, Town"},
+{ko:"면", vi:"Xã (đơn vị hành chính), Township"},
+{ko:"동", vi:"Phường / khu phố, Neighborhood"},
+{ko:"리", vi:"Lý (đơn vị hành chính nhỏ), Village unit"},  
+ {ko:"목소리", vi:"Giọng nói, Voice"},
+{ko:"박수", vi:"Vỗ tay, Applause"},
+{ko:"물품", vi:"Vật phẩm / hàng hóa, Goods"},
+{ko:"아까", vi:"Lúc nãy, A while ago"}, 
+ {ko:"정답", vi:"Đáp án đúng, Correct answer"},
+{ko:"예문", vi:"Ví dụ câu, Example sentence"},
+{ko:"의미", vi:"Ý nghĩa, Meaning"}, 
+  
+  
+  /* Ngữ pháp, liên kết câu */
+{ko:"그러면", vi:"Vậy thì / nếu vậy thì, Then"},
+{ko:"는데/지만", vi:"Nhưng / tuy nhiên (liên kết câu), But / Though"},
 
   
   
-  
-{ko:"동사", vi:"Động từ, Verb"},
+   /* Từ loại */
 {ko:"명사", vi:"Danh từ, Noun"},
 {ko:"대명사", vi:"Đại từ, Pronoun"},
 {ko:"수사", vi:"Số từ, Numeral"},
@@ -535,7 +552,7 @@ var WORDS = [
 
 
 
-/* Di chuyển & Hành động cơ bản */
+/* Động từ Di chuyển & Hành động cơ bản */
 {ko:"가다", vi:"Đi, Go"},
 {ko:"오다", vi:"Đến, Come"},
 {ko:"내리다", vi:"Xuống / hạ, Get off / Lower"},
@@ -553,8 +570,11 @@ var WORDS = [
 {ko:"출발하다", vi:"Khởi hành, Depart"},
 {ko:"도착하다", vi:"Đến nơi, Arrive"},
 {ko:"지나가다", vi:"Đi ngang qua, Pass by"},
+{ko:"운동하다", vi:"Tập thể dục, Exercise"},
+{ko:"수영하다", vi:"Bơi lội, Swim"},
+{ko:"노래하다", vi:"Hát, Sing"},
 
-/* Sinh hoạt hằng ngày */
+  /* Động từ Sinh hoạt hằng ngày */
 {ko:"먹다", vi:"Ăn, Eat"},
 {ko:"마시다", vi:"Uống, Drink"},
 {ko:"자다", vi:"Ngủ, Sleep"},
@@ -575,9 +595,18 @@ var WORDS = [
 {ko:"옷을 벗다", vi:"Cởi quần áo, Take off clothes"},
 {ko:"집에 가다", vi:"Về nhà, Go home"},
 {ko:"집에 오다", vi:"Đến nhà, Come home"},
+{ko:"고장나다", vi:"Bị hỏng, Break down"},
+{ko:"끄다", vi:"Tắt, Turn off"},
+{ko:"켜다", vi:"Bật, Turn on"},
+{ko:"반하다", vi:"Phải lòng / bị cuốn hút, Fall for"},
+{ko:"팔로우", vi:"Theo dõi (mạng xã hội), Follow"},
+{ko:"플러팅", vi:"Tán tỉnh, Flirting"},
+{ko:"쇼핑하다", vi:"Mua sắm, Shop"},
+{ko:"구매하다", vi:"Mua (trang trọng), Purchase"},
+{ko:"사다", vi:"Mua, Buy"},
 
-
-/* Học tập & Công việc */
+  
+  /* Động từ Học tập & Công việc */
 {ko:"일하다", vi:"Làm việc, Work"},
 {ko:"공부하다", vi:"Học tập, Study"},
 {ko:"준비하다", vi:"Chuẩn bị, Prepare"},
@@ -587,7 +616,8 @@ var WORDS = [
 {ko:"이해하다", vi:"Hiểu, Understand"},
 {ko:"알다", vi:"Biết, Know"},
 
-/* Giao tiếp */
+
+  /* Động từ Giao tiếp */
 {ko:"말하다", vi:"Nói, Speak"},
 {ko:"이야기", vi:"Câu chuyện / nói chuyện, Story / Talk"},
 {ko:"묻다", vi:"Hỏi, Ask"},
@@ -596,19 +626,18 @@ var WORDS = [
 {ko:"인사하다", vi:"Chào hỏi, Greet"},
 {ko:"만나다", vi:"Gặp, Meet"},
 
-/* Hoạt động – Thể thao – Giải trí */
-/* Thể thao */
+
+  /* Hoạt động – Thể thao – Giải trí */
+  /* Thể thao */
 {ko:"산책", vi:"Đi dạo, Walk"},
 {ko:"달리기", vi:"Chạy bộ, Running"},
 {ko:"수영", vi:"Bơi lội, Swimming"},
-{ko:"운동하다", vi:"Tập thể dục, Exercise"},
-{ko:"수영하다", vi:"Bơi lội, Swim"},
-{ko:"노래하다", vi:"Hát, Sing"},
+{ko:"운동", vi:"Tập thể dục, Exercise"},
+{ko:"수영", vi:"Bơi lội, Swim"},
+{ko:"노래", vi:"Hát, Sing"},
 {ko:"댄스", vi:"Nhảy, Dance"},
 {ko:"등산", vi:"Leo núi, Hiking"},
-{ko:"쇼핑하다", vi:"Mua sắm, Shop"},
-{ko:"구매하다", vi:"Mua (trang trọng), Purchase"},
-{ko:"사다", vi:"Mua, Buy"},
+{ko:"쇼핑", vi:"Mua sắm, Shop"},
 {ko:"축구", vi:"Bóng đá, Soccer"},
 {ko:"농구", vi:"Bóng rổ, Basketball"},
 {ko:"야구", vi:"Bóng chày, Baseball"},
@@ -665,14 +694,19 @@ var WORDS = [
 {ko:"맛있다", vi:"Ngon, Delicious"},
 {ko:"불편하다", vi:"Bất tiện, Uncomfortable"},
 {ko:"편하다", vi:"Thoải mái, Comfortable"},
+{ko:"쉽다", vi:"Dễ, Easy"},
+{ko:"귀엽다", vi:"Dễ thương, Cute"},
 
-/* Biểu hiện & mức độ */
+  
+
+  /* Biểu hiện & mức độ */
 {ko:"어떻다", vi:"Như thế nào, How"},
 {ko:"어떠하다", vi:"Như thế nào (trang trọng), How (formal)"},
 {ko:"천천히 하다", vi:"Làm chậm rãi, Do slowly"},
 
   
-/* Học tập & Ngôn ngữ */
+
+  /* Học tập & Ngôn ngữ */
 {ko:"복습", vi:"Ôn tập, Review"},
 {ko:"완성하다", vi:"Hoàn thành, To complete"},
 {ko:"발표하다", vi:"Trình bày, To present"},
@@ -759,7 +793,9 @@ var WORDS = [
 {ko:"벌써", vi:"Đã rồi, Already"},
 {ko:"아직", vi:"Vẫn chưa, Still / Yet"},
 {ko:"다시", vi:"Lại / lại lần nữa, Again"},
-
+{ko:"마음대로", vi:"Theo ý mình, As one pleases"},
+{ko:"갑자기", vi:"Đột nhiên, Suddenly"},
+{ko:"아마", vi:"Có lẽ, Probably"},
 
 
   
