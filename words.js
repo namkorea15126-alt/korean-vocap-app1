@@ -1,6 +1,89 @@
 var WORDS = [
 
-  {ko:"전자", vi:"Điện tử, Electronic"},
+ /* 🧍 Con người & Quan hệ */
+
+{ko:"동료", vi:"Đồng nghiệp / đồng đội, Colleague"},
+{ko:"머리", vi:"Đầu / tóc, Head / Hair"},
+
+/* 🍚 Sinh hoạt hằng ngày */
+
+{ko:"점심", vi:"Bữa trưa, Lunch"},
+{ko:"저녁", vi:"Bữa tối, Dinner"},
+{ko:"식료품", vi:"Thực phẩm / đồ ăn, Groceries"},
+{ko:"신문", vi:"Báo, Newspaper"},
+{ko:"편지", vi:"Thư, Letter"},
+{ko:"구경", vi:"Tham quan / xem, Sightseeing"},
+{ko:"자르다", vi:"Cắt, Cut"},
+
+/* 🏃 Hoạt động & Hành động */
+
+{ko:"등산", vi:"Leo núi, Hiking"},
+{ko:"훈련", vi:"Huấn luyện, Training"},
+{ko:"배우다", vi:"Học, Learn"},
+{ko:"가르치다", vi:"Dạy, Teach"},
+{ko:"끝나다", vi:"Kết thúc, End"},
+
+/* 📚 Học tập – Giáo dục – Văn hóa */
+
+{ko:"교육", vi:"Giáo dục / đào tạo, Education"},
+{ko:"기간", vi:"Thời gian / thời hạn, Period"},
+{ko:"문화", vi:"Văn hóa, Culture"},
+{ko:"정보", vi:"Thông tin, Information"},
+
+/* ⏰ Thời gian & Tần suất */
+
+{ko:"내일", vi:"Ngày mai, Tomorrow"},
+{ko:"매일", vi:"Mỗi ngày, Every day"},
+{ko:"항상", vi:"Luôn luôn, Always"},
+{ko:"다음주", vi:"Tuần sau, Next week"},
+{ko:"매주", vi:"Hàng tuần, Every week"},
+{ko:"기념일", vi:"Ngày kỷ niệm, Anniversary"},
+{ko:"몇", vi:"Mấy / bao nhiêu, How many"},
+
+/* 🌦️ Thời tiết */
+
+{ko:"날씨", vi:"Thời tiết, Weather"},
+
+/* 💰 Giá cả & Số lượng */
+
+{ko:"값", vi:"Giá tiền, Price"},
+{ko:"많다", vi:"Nhiều, Many"},
+{ko:"적다", vi:"Ít, Few"},
+
+/* 🎭 Tính từ – Trạng thái & Cảm giác */
+
+{ko:"멋있다", vi:"Ngầu / đẹp trai, Cool"},
+{ko:"무섭다", vi:"Đáng sợ, Scary"},
+{ko:"어렵다", vi:"Khó, Difficult"},
+{ko:"쉽다", vi:"Dễ, Easy"},
+{ko:"밝다", vi:"Sáng, Bright"},
+{ko:"어둡다", vi:"Tối, Dark"},
+{ko:"시끄럽다", vi:"Ồn ào, Noisy"},
+{ko:"조용하다", vi:"Yên tĩnh, Quiet"},
+
+/* 📐 Tính từ – Kích thước & Đặc tính vật lý */
+
+{ko:"짧다", vi:"Ngắn, Short"},
+{ko:"길다", vi:"Dài, Long"},
+{ko:"넓다", vi:"Rộng, Wide"},
+{ko:"좁다", vi:"Hẹp, Narrow"},
+{ko:"높다", vi:"Cao, High"},
+{ko:"낮다", vi:"Thấp, Low"},
+{ko:"크다", vi:"To, Big"},
+{ko:"작다", vi:"Nhỏ, Small"},
+{ko:"무겁다", vi:"Nặng, Heavy"},
+{ko:"가볍다", vi:"Nhẹ, Light"},
+{ko:"두껍다", vi:"Dày, Thick"},
+{ko:"얇다", vi:"Mỏng, Thin"},
+{ko:"차갑다", vi:"Lạnh, Cold"},
+{ko:"뜨겁다", vi:"Nóng, Hot"},
+{ko:"느리다", vi:"Chậm, Slow"},
+
+
+
+
+  
+{ko:"전자", vi:"Điện tử, Electronic"},
 {ko:"전기", vi:"Điện, Electricity"},
 {ko:"복사기", vi:"Máy photocopy, Copier"},
 {ko:"쿠키", vi:"Bánh quy / cookie, Cookie"},
@@ -102,7 +185,8 @@ var WORDS = [
 {ko:"전투모", vi:"Mũ chiến đấu, Combat helmet"},
 {ko:"전투복", vi:"Quân phục chiến đấu, Combat uniform"},
 {ko:"전투화", vi:"Giày chiến đấu, Combat boots"},  
-
+{ko:"위병소", vi:"Trạm gác, Guard post"},
+{ko:"의무대", vi:"Quân y, Medical unit"},
   
  /* Vũ khí */ 
 {ko:"무기", vi:"Vũ khí, Weapon"},
@@ -478,7 +562,7 @@ var WORDS = [
 /* Thời gian & Số lượng */
 {ko:"하루", vi:"Một ngày, One day"},
 {ko:"아침", vi:"Buổi sáng, Morning"},
-{ko:"낮", vi:"Ban ngày / buổi trưa, Daytime"},
+{ko:"낮", vi:"Ban ngày, Daytime"},
 {ko:"밤", vi:"Ban đêm, Night"},
 {ko:"오늘", vi:"Hôm nay, Today"},
 {ko:"매일", vi:"Mỗi ngày, Every day"},
@@ -849,7 +933,11 @@ var WORDS = [
 {ko:"안", vi:"Bên trong, Inside"},
 {ko:"밖", vi:"Bên ngoài, Outside"},
 {ko:"가운데", vi:"Ở giữa, Middle"},
- 
+{ko:"한강", vi:"Sông Hàn, Han River"},
+{ko:"건물", vi:"Tòa nhà, Building"},
+{ko:"생활관", vi:"Khu sinh hoạt / doanh trại, Living quarters"},
+{ko:"근처", vi:"Gần đây / khu vực gần, Nearby"},
+{ko:"행선지", vi:"Điểm đến, Destination"}, 
 
 
 /* Phương hướng */
