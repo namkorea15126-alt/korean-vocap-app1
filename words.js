@@ -505,7 +505,7 @@ var WORDS = [
 {ko:"상추", vi:"Xà lách, Lettuce"},
 {ko:"배추", vi:"Cải thảo, Napa cabbage"},
 {ko:"무", vi:"Củ cải trắng, Radish"},
-{ko:"브로콜리", vi:"Bông cải xanh, Broccoli"},
+{ko:"브로콜리", vi:"Súp lơ, Broccoli"},
 {ko:"시금치", vi:"Rau bina, Spinach"},
 {ko:"가지", vi:"Cà tím, Eggplant"},
 {ko:"호박", vi:"Bí đỏ / bí ngô, Pumpkin / Squash"},
