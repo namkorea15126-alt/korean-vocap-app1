@@ -32,12 +32,17 @@ var WORDS = [
 {ko:"훈련하다", vi:"Huấn luyện, To train"},
 {ko:"사격", vi:"Bắn súng, Shooting"},
 {ko:"사격하다", vi:"Bắn súng, To shoot"},
+{ko:"위병", vi:"Lính gác, Guard"},
 
-/* 📍 Vị trí – Không gian */
+  
+  
+  /* 📍 Vị trí – Không gian */
 
 {ko:"주변", vi:"Xung quanh, Surroundings"},
 {ko:"입구", vi:"Lối vào, Entrance"},
-{ko:"입구하다", vi:"Nhập cảnh / vào cửa (ít dùng), Enter (formal/rare)"},
+{ko:"출구", vi:"Lối ra, Exit"},
+{ko:"입교", vi:"Nhập học (vào trường/khóa huấn luyện), Enrollment / Admission"},
+{ko:"입교하다", vi:"Nhập học / tham gia khóa huấn luyện, To enroll / be admitted"},
 
 /* 🔹 Trạng từ – Nhấn mạnh */
 
@@ -415,7 +420,7 @@ var WORDS = [
 {ko:"물티슈", vi:"Khăn ướt, Wet wipes"},
 {ko:"수건", vi:"Khăn, Towel"},
 {ko:"거울", vi:"Gương, Mirror"},
-
+{ko:"향", vi:"Hương, nhang/ Mùi hương / hương thơm, Scent / Aroma"},
 {ko:"빗자루", vi:"Chổi, Broom"},
 {ko:"쓰레받기", vi:"Hót rác, Dustpan"},
 {ko:"쓰레기통", vi:"Thùng rác, Trash can"},
@@ -535,8 +540,8 @@ var WORDS = [
 {ko:"감", vi:"Hồng, Persimmon"},
 {ko:"멜론", vi:"Dưa lưới, Melon"},
 
-
-
+{ko:"양념", vi:"Gia vị đã pha/ đồ nêm, Seasoning"},
+{ko:"조미료", vi:"Gia vị (chất điều vị), Seasoning / Condiment"},
   
 /* Rau củ */
 {ko:"당근", vi:"Cà rốt, Carrot"},
