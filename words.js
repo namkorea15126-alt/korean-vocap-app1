@@ -1,6 +1,50 @@
 var WORDS = [
 
- /* 🧍 Con người & Quan hệ */
+/* 📢 Thông báo – Hành chính – Công việc */
+
+{ko:"확인하다", vi:"Xác nhận / kiểm tra, Confirm / Check"},
+{ko:"안내", vi:"Hướng dẫn / thông báo, Guidance / Notice"},
+{ko:"보고서", vi:"Báo cáo, Report"},
+{ko:"올림", vi:"Kính gửi / trân trọng (kết thư), Respectfully (closing)"},
+{ko:"높임말", vi:"Kính ngữ, Honorific language"},
+
+/* ⏰ Thời gian – Lịch trình */
+
+{ko:"기간", vi:"Thời gian / thời hạn, Period"},
+{ko:"야간", vi:"Ban đêm, Nighttime"},
+{ko:"평일", vi:"Ngày trong tuần, Weekday"},
+
+/* 📚 Giáo dục – Đào tạo */
+
+{ko:"교육", vi:"Giáo dục / đào tạo, Education / Training"},
+{ko:"원장", vi:"Viện trưởng / hiệu trưởng (học viện), Director"},
+{ko:"중요하다", vi:"Quan trọng, Important"},
+{ko:"준비", vi:"Chuẩn bị, Preparation"},
+
+/* 🎉 Sự kiện – Hoạt động */
+
+{ko:"행사", vi:"Sự kiện, Event"},
+{ko:"행사하다", vi:"Tổ chức sự kiện, Hold an event"},
+
+/* 🪖 Quân đội – Huấn luyện */
+
+{ko:"훈련", vi:"Huấn luyện, Training"},
+{ko:"훈련하다", vi:"Huấn luyện, To train"},
+{ko:"사격", vi:"Bắn súng, Shooting"},
+{ko:"사격하다", vi:"Bắn súng, To shoot"},
+
+/* 📍 Vị trí – Không gian */
+
+{ko:"주변", vi:"Xung quanh, Surroundings"},
+{ko:"입구", vi:"Lối vào, Entrance"},
+{ko:"입구하다", vi:"Nhập cảnh / vào cửa (ít dùng), Enter (formal/rare)"},
+
+/* 🔹 Trạng từ – Nhấn mạnh */
+
+{ko:"꼭", vi:"Nhất định / 꼭, 반드시, Surely / 반드시"},
+
+
+/* 🧍 Con người & Quan hệ */
 
 {ko:"동료", vi:"Đồng nghiệp / đồng đội, Colleague"},
 {ko:"머리", vi:"Đầu / tóc, Head / Hair"},
