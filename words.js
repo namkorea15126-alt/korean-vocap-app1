@@ -472,7 +472,7 @@ var WORDS = [
 {ko:"빵", vi:"Bánh mì, Bread"},
 {ko:"피자", vi:"Pizza, Pizza"},
 {ko:"치킨", vi:"Gà rán, Fried chicken"},
-{ko:"불고기", vi:"Thịt bò xào, Bulgogi"},
+{ko:"불고기", vi:"Thịt nướng, Bulgogi"},
 {ko:"삼겹살", vi:"Thịt ba chỉ, Pork belly"},
 {ko:"소고기", vi:"Thịt bò, Beef"},
 {ko:"돼지고기", vi:"Thịt heo, Pork"},
