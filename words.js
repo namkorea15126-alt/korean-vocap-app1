@@ -192,7 +192,7 @@ var WORDS = [
 {ko:"국방부", vi:"Bộ Quốc phòng, Ministry of National Defense"},
 {ko:"사령부", vi:"Bộ tư lệnh, Command headquarters"},
 {ko:"계급", vi:"Cấp bậc, Rank"},
-{ko:"군종", vi:"Chủng loại quân, Military branch"},
+{ko:"군종", vi:"Quân chủng, Military branch"},
 {ko:"장교", vi:"Sĩ quan, Officer"},
 {ko:"장군", vi:"Tướng, General"},
 {ko:"대장", vi:"Đại tướng, General of the army"},
