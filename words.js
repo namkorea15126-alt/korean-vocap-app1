@@ -938,7 +938,7 @@ var WORDS = [
 {ko:"해, 태양", vi:"Mặt trời, Sun"},
 {ko:"달", vi:"Mặt trăng, Moon"},
 {ko:"비", vi:"Mưa, Rain"},
-{ko:"눈", vi:"Tuyết, Snow"},
+{ko:"눈", vi:"Mắt/Eye, Tuyết/Snow"},
 {ko:"바람", vi:"Gió, Wind"},
 {ko:"산", vi:"Núi, Mountain"},
 {ko:"강", vi:"Sông, River"},
