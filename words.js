@@ -102,7 +102,7 @@ var WORDS = [
 /* 🎭 Tính từ – Trạng thái & Cảm giác */
 
 {ko:"멋있다", vi:"Ngầu / đẹp trai, Cool"},
-{ko:"무섭다", vi:"Đáng sợ, Scary"},
+{ko:"무섭다", vi:"Sợ hãi, Scary"},
 {ko:"어렵다", vi:"Khó, Difficult"},
 {ko:"쉽다", vi:"Dễ, Easy"},
 {ko:"밝다", vi:"Sáng, Bright"},
