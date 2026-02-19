@@ -266,7 +266,7 @@ var WORDS = [
 {ko:"회사원", vi:"Nhân viên công ty, Office worker"},
 {ko:"주부", vi:"Nội trợ, Housewife"},
 {ko:"관리자", vi:"Quản lý, Manager"},
-{ko:"주무관님", vi:"Chuyên viên (cơ quan nhà nước), Administrative officer"},
+{ko:"주무관님", vi:"Quản lý chính"},
 
   
   
