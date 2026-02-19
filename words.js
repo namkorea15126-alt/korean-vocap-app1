@@ -485,7 +485,6 @@ var WORDS = [
 {ko:"국", vi:"Canh, Soup"},
 {ko:"찌개", vi:"Canh hầm, Stew"},
 {ko:"반찬", vi:"Món ăn kèm, Side dish"},
-{ko:"디저트", vi:"Món tráng miệng, Dessert"},
 
 
   
@@ -755,7 +754,6 @@ var WORDS = [
 {ko:"테니스", vi:"Quần vợt, Tennis"},
 {ko:"배드민턴", vi:"Cầu lông, Badminton"},
 {ko:"요가", vi:"Yoga, Yoga"},
-{ko:"헬스", vi:"Tập gym, Fitness"},
 {ko:"게임하다", vi:"Chơi game, Play games"},
 {ko:"영화보다", vi:"Xem phim, Watch a movie"},
 {ko:"독서하다", vi:"Đọc sách, Read books"},
