@@ -542,11 +542,8 @@ var WORDS = [
 {ko:"토마토", vi:"Cà chua, Tomato"},
 {ko:"상추", vi:"Xà lách, Lettuce"},
 {ko:"배추", vi:"Cải thảo, Napa cabbage"},
-{ko:"무", vi:"Củ cải trắng, Radish"},
 {ko:"브로콜리", vi:"Súp lơ, Broccoli"},
-{ko:"시금치", vi:"Rau bina, Spinach"},
 {ko:"가지", vi:"Cà tím, Eggplant"},
-{ko:"호박", vi:"Bí đỏ / bí ngô, Pumpkin / Squash"},
 {ko:"콩", vi:"Đậu, Bean"},
 {ko:"버섯", vi:"Nấm, Mushroom"},
 
