@@ -951,7 +951,7 @@ var WORDS = [
 {ko:"거미", vi:"Con nhện, Spider"},
 {ko:"강아지", vi:"Chó con, Puppy"},
 {ko:"고양이", vi:"Con mèo, Cat"},
-{ko:"새", vi:"Chim, Bird"},
+{ko:"새", vi:"Mới/New, Chim/Bird"},
 {ko:"말", vi:"Ngựa, Horse"},
 {ko:"소", vi:"Bò, Cow"},
 {ko:"돼지", vi:"Heo, Pig"},
