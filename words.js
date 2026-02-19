@@ -530,7 +530,6 @@ var WORDS = [
 {ko:"복숭아", vi:"Đào, Peach"},
 {ko:"자두", vi:"Mận, Plum"},
 {ko:"체리", vi:"Cherry"},
-{ko:"블루베리", vi:"Việt quất, Blueberry"},
 {ko:"아보카도", vi:"Bơ, Avocado"},
 {ko:"석류", vi:"Lựu, Pomegranate"},
 {ko:"감", vi:"Quả hồng, Persimmon"},
