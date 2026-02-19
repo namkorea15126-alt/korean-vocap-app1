@@ -625,7 +625,7 @@ var WORDS = [
 {ko:"후에", vi:"Sau, After"},
 {ko:"때", vi:"Lúc / khi, When"},
 {ko:"시간", vi:"Thời gian / giờ, Time"},
-{ko:"분", vi:"Phút, Minute"},
+{ko:"분", vi:"Vị, Phút, Minute"},
 
 {ko:"월요일", vi:"Thứ hai, Monday"},
 {ko:"화요일", vi:"Thứ ba, Tuesday"},
