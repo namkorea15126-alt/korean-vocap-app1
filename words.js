@@ -560,8 +560,6 @@ var WORDS = [
 {ko:"양파", vi:"Hành tây, Onion"},
 {ko:"식초", vi:"Giấm, Vinegar"},
 {ko:"기름", vi:"Dầu ăn, oil"},
-{ko:"케첩", vi:"Tương cà, Ketchup"},
-{ko:"마요네즈", vi:"Sốt mayonnaise, Mayonnaise"},
 
   
 
