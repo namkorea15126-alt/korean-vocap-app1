@@ -939,7 +939,7 @@ var WORDS = [
 {ko:"나무", vi:"Cây, Tree"},
 {ko:"하늘", vi:"Bầu trời, Sky"},
 {ko:"구름", vi:"Mây, Cloud"},
-{ko:"해", vi:"Mặt trời, Sun"},
+{ko:"해, 태양", vi:"Mặt trời, Sun"},
 {ko:"달", vi:"Mặt trăng, Moon"},
 {ko:"비", vi:"Mưa, Rain"},
 {ko:"눈", vi:"Tuyết, Snow"},
