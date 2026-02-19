@@ -144,7 +144,7 @@ var WORDS = [
 {ko:"읍", vi:"Thị trấn, Town"},
 {ko:"면", vi:"Xã (đơn vị hành chính), Township"},
 {ko:"동", vi:"Phường / khu phố, Neighborhood"},
-{ko:"리", vi:"Lý (đơn vị hành chính nhỏ), Village unit"},  
+{ko:"리", vi:"Làng (đơn vị hành chính nhỏ), Village unit"},  
  {ko:"목소리", vi:"Giọng nói, Voice"},
 {ko:"박수", vi:"Vỗ tay, Applause"},
 {ko:"물품", vi:"Vật phẩm / hàng hóa, Goods"},
