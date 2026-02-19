@@ -479,7 +479,6 @@ var WORDS = [
 {ko:"닭고기", vi:"Thịt gà, Chicken"},
 {ko:"계란", vi:"Trứng, Egg"},
 {ko:"달걀", vi:"Trứng (cách nói khác), Egg"},
-{ko:"치즈", vi:"Phô mai, Cheese"},
 {ko:"버터", vi:"Bơ, Butter"},
 {ko:"채소", vi:"Rau, Vegetables"},
 {ko:"샐러드", vi:"Salad, Salad"},
