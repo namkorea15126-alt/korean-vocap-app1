@@ -537,7 +537,7 @@ var WORDS = [
 {ko:"라즈베리", vi:"Mâm xôi đỏ, Raspberry"},
 {ko:"아보카도", vi:"Bơ, Avocado"},
 {ko:"석류", vi:"Lựu, Pomegranate"},
-{ko:"감", vi:"Hồng, Persimmon"},
+{ko:"감", vi:"Quả hồng, Persimmon"},
 {ko:"멜론", vi:"Dưa lưới, Melon"},
 
 {ko:"양념", vi:"Gia vị đã pha/ đồ nêm, Seasoning"},
