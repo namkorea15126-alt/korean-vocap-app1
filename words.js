@@ -976,7 +976,7 @@ var WORDS = [
 {ko:"근처", vi:"Gần đây / gần đó, Nearby"},
 {ko:"안", vi:"Bên trong, Inside"},
 {ko:"밖", vi:"Bên ngoài, Outside"},
-{ko:"가운데", vi:"Ở giữa, Middle"},
+{ko:"가운데", vi:"Ở tâm, Middle"},
 {ko:"한강", vi:"Sông Hàn, Han River"},
 {ko:"건물", vi:"Tòa nhà, Building"},
 {ko:"생활관", vi:"Khu sinh hoạt / doanh trại, Living quarters"},
