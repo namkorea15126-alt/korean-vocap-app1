@@ -872,12 +872,8 @@ var WORDS = [
 {ko:"볼펜", vi:"Bút bi, Ballpoint pen"},
 {ko:"지우개", vi:"Cục tẩy, Eraser"},
 {ko:"공책", vi:"Vở, Notebook"},
-{ko:"노트", vi:"Sổ tay, Note"},
 {ko:"자", vi:"Thước kẻ, Ruler"},
 {ko:"가위", vi:"Kéo, Scissors"},
-{ko:"풀", vi:"Hồ dán, Glue"},
-{ko:"테이프", vi:"Băng keo, Tape"},
-{ko:"파일", vi:"Bìa hồ sơ, File folder"},
 {ko:"사전", vi:"Từ điển, Dictionary"},
 
 
