@@ -150,7 +150,7 @@ var WORDS = [
 {ko:"물품/물건", vi:"Vật phẩm / hàng hóa 물품(trang trọng), 물건(đời thường), Goods"},
 {ko:"아까", vi:"Lúc nãy, A while ago"}, 
  {ko:"정답", vi:"Đáp án đúng, Correct answer"},
-{ko:"예문", vi:"Ví dụ câu, Example sentence"},
+{ko:"예문", vi:"Câu ví dụ, Example sentence"},
 {ko:"의미", vi:"Ý nghĩa, Meaning"}, 
   
   
@@ -598,7 +598,7 @@ var WORDS = [
 {ko:"후에", vi:"Sau, After"},
 {ko:"때", vi:"Lúc / khi, When"},
 {ko:"시간", vi:"Thời gian / giờ, Time"},
-{ko:"분", vi:"Vị, Phút, Minute"},
+{ko:"분", vi:"Vị, ngài(người), Phút, Minute"},
 
 {ko:"월요일", vi:"Thứ hai, Monday"},
 {ko:"화요일", vi:"Thứ ba, Tuesday"},
@@ -651,7 +651,6 @@ var WORDS = [
 {ko:"회색", vi:"Màu xám, Gray color"},
 {ko:"하늘색", vi:"Màu xanh da trời nhạt, Sky blue"},
 {ko:"남색", vi:"Màu xanh đậm (xanh hải quân), Navy blue"},
-{ko:"연두색", vi:"Màu xanh non, Light green"},
 {ko:"금색", vi:"Màu vàng kim, Gold color"},
 {ko:"은색", vi:"Màu bạc, Silver color"},
 
