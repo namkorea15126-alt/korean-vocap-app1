@@ -171,8 +171,6 @@ var WORDS = [
 {ko:"조사", vi:"Trợ từ, Particle"},
 {ko:"어미", vi:"Đuôi từ (đuôi câu), Ending"},
 {ko:"접사", vi:"Phụ tố (tiền/hậu tố), Affix"},
-{ko:"접속사", vi:"Liên từ, Conjunction"},
-{ko:"감탄사", vi:"Thán từ, Interjection"},
 
 
 
