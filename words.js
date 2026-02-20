@@ -147,7 +147,7 @@ var WORDS = [
 {ko:"리", vi:"Làng (đơn vị hành chính nhỏ), Village unit"},  
  {ko:"목소리", vi:"Giọng nói, Voice"},
 {ko:"박수", vi:"Vỗ tay, Applause"},
-{ko:"물품", vi:"Vật phẩm / hàng hóa, Goods"},
+{ko:"물품/물건", vi:"Vật phẩm / hàng hóa 물품(trang trọng), 물건(đời thường), Goods"},
 {ko:"아까", vi:"Lúc nãy, A while ago"}, 
  {ko:"정답", vi:"Đáp án đúng, Correct answer"},
 {ko:"예문", vi:"Ví dụ câu, Example sentence"},
@@ -447,7 +447,6 @@ var WORDS = [
 {ko:"책상", vi:"Bàn học/làm việc, Desk"},
 {ko:"의자", vi:"Ghế, Chair"},
 {ko:"탁자", vi:"Bàn, Table"},
-{ko:"물건", vi:"Đồ vật, Object"},
 {ko:"운동화", vi:"Giày thể thao, Sneakers"},
 {ko:"기구", vi:"Dụng cụ / thiết bị, Equipment"},
 {ko:"사진", vi:"Ảnh, Photo"},
@@ -634,7 +633,6 @@ var WORDS = [
 {ko:"빨갛다", vi:"Đỏ, Red"},
 {ko:"파랗다", vi:"Xanh dương, Blue"},
 {ko:"노랗다", vi:"Vàng, Yellow"},
-{ko:"초록색이다", vi:"Xanh lá, Green"},
 {ko:"분홍색이다", vi:"Hồng, Pink"},
 
 
@@ -930,8 +928,8 @@ var WORDS = [
 {ko:"소", vi:"Bò, Cow"},
 {ko:"돼지", vi:"Heo, Pig"},
 {ko:"닭", vi:"Gà, Chicken"},
-{ko:"호랑이", vi:"Hổ, Tiger"},
-{ko:"사자", vi:"Sư tử, Lion"},
+
+
 
 
   
