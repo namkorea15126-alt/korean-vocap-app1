@@ -169,8 +169,6 @@ var WORDS = [
 {ko:"부사", vi:"Trạng từ, Adverb"},
 {ko:"관형사", vi:"Định từ, Determiner"},
 {ko:"조사", vi:"Trợ từ, Particle"},
-{ko:"어미", vi:"Đuôi từ (đuôi câu), Ending"},
-{ko:"접사", vi:"Phụ tố (tiền/hậu tố), Affix"},
 
 
 
