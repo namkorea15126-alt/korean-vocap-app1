@@ -111,7 +111,7 @@ var WORDS = [
 {ko:"안내하다", vi:"Hướng dẫn / thông báo, Guide / Inform"},
 {ko:"오전", vi:"Buổi sáng (AM), Morning / AM"},
 {ko:"오후", vi:"Buổi chiều (PM), Afternoon / PM"},
-{ko:"요일", vi:"Thứ trong tuần, Day of the week"},
+{ko:"요일", vi:"Thứ, Day of the week"},
 {ko:"음료수", vi:"Đồ uống, Beverage"},
 {ko:"이번", vi:"Lần này, This time"},
 {ko:"주간", vi:"Ban ngày / theo tuần, Daytime / Weekly"},
