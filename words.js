@@ -188,7 +188,7 @@ var WORDS = [
 {ko:"입교", vi:"Nhập học (vào trường/khóa huấn luyện), Enrollment / Admission"},
 {ko:"입교하다", vi:"Nhập học / tham gia khóa huấn luyện, To enroll / be admitted"},
 
-{ko:"동료", vi:"Đồng nghiệp / đồng đội, Colleague"},
+{ko:"동료", vi:"Đồng nghiệp"},
 {ko:"머리", vi:"Đầu / tóc, Head / Hair"},
 
 {ko:"점심", vi:"Bữa trưa, Lunch"},
@@ -233,7 +233,7 @@ var WORDS = [
 {ko:"동", vi:"Phường/khu phố/toà nhà, Neighborhood"},
 {ko:"리", vi:"Làng (đơn vị hành chính nhỏ), Village unit"},  
 {ko:"목소리", vi:"Giọng nói, Voice"},
-{ko:"박수", vi:"Vỗ tay, Applause"},
+{ko:"박수", vi:"Vỗ tay, Applause, 박수를 치다 → vỗ tay. 박수를 받다 → được vỗ tay (được hoan nghênh). 박수를 보내다 → gửi tràng pháo tay"},
 {ko:"물품/물건", vi:"Vật phẩm / hàng hóa 물품(trang trọng), 물건(đời thường), Goods"},
 {ko:"아까", vi:"Lúc nãy, A while ago"}, 
 {ko:"정답", vi:"Đáp án đúng, Correct answer"},
@@ -680,7 +680,6 @@ var WORDS = [
 
 {ko:"수영", vi:"Bơi lội, Swimming"},
 {ko:"운동", vi:"Tập thể dục, Exercise"},
-{ko:"수영", vi:"Bơi lội, Swim"},
 {ko:"노래", vi:"Hát, Sing"},
 {ko:"댄스", vi:"Nhảy, Dance"},
 {ko:"등산", vi:"Leo núi, Hiking"},
@@ -869,7 +868,7 @@ var WORDS = [
 {ko:"고장나다", vi:"Bị hỏng, Break down"},
 {ko:"끄다", vi:"Tắt, Turn off"},
 {ko:"켜다", vi:"Bật, Turn on"},
-{ko:"반하다", vi:"Phải lòng / bị cuốn hút, Fall for"},
+{ko:"반하다", vi:"Phải lòng / bị cuốn hút, Fall for, 그녀에게 반했어요. Tôi đã phải lòng cô ấy"},
 {ko:"팔로우", vi:"Theo dõi (mạng xã hội), Follow"},
 {ko:"플러팅", vi:"Tán tỉnh, Flirting"},
 {ko:"쇼핑하다", vi:"Mua sắm, Shop"},
@@ -1004,10 +1003,9 @@ var WORDS = [
 
   
  /* Trạng từ */
-{ko:"꼭", vi:"Nhất định / 꼭, 반드시, Surely / 반드시"},
+{ko:"꼭", vi:"Nhất định / 꼭, 반드시, Surely"},
 {ko:"아주", vi:"Rất, Very"},
 {ko:"너무", vi:"Quá / rất, Too / Very"},
-{ko:"엄청", vi:"Cực kỳ / rất nhiều, Extremely"},
 {ko:"미리", vi:"Trước, In advance"},
 {ko:"그냥", vi:"Cứ / đơn giản là, Just"},
 {ko:"약간", vi:"Hơi / một chút, Slightly"},
