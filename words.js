@@ -353,7 +353,7 @@ var WORDS = [
 {ko:"견인포", vi:"Pháo kéo, Towed artillery"},
 {ko:"박격포", vi:"Súng cối, Mortar"},
 
-{ko:"기자", vi:"Phóng viên, Reporter"},
+{ko:"기자", vi:"Nhà báo/Phóng viên, Reporter"},
 {ko:"군인", vi:"Quân nhân, Soldier"},
 {ko:"의사", vi:"Bác sĩ, Doctor"},
 {ko:"간호사", vi:"Y tá, Nurse"},
