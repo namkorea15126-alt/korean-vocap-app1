@@ -592,7 +592,7 @@ var WORDS = [
 {ko:"바나나", vi:"Chuối, Banana"},
 {ko:"레몬", vi:"Chanh, Lemon"},
 {ko:"수박", vi:"Dưa hấu, Watermelon"},
-{ko:"배", vi:"Lê, Pear"},
+{ko:"배", vi:"Bụng, Lê, Tàu, Belly, Pear, Ship"},
 {ko:"오렌지", vi:"Cam, Orange"},
 {ko:"귤", vi:"Quýt, Mandarin"},
 {ko:"망고", vi:"Xoài, Mango"},
