@@ -1,6 +1,12 @@
 var WORDS = [
 
 
+
+{ko:"사귀다", vi:"Hẹn hò / kết bạn, Date / Be friends"},
+{ko:"사투리", vi:"Phương ngữ / tiếng địa phương, Dialect"},
+{ko:"모르다", vi:"Không biết, Not know"},
+{ko:"생활", vi:"Sinh hoạt / cuộc sống, Life / Living"},
+
 {ko:"대양", vi:"Đại dương, Ocean"},
 {ko:"후예", vi:"Hậu duệ, Descendant"},
 {ko:"출근", vi:"Đi làm, Go to work"},
@@ -1027,8 +1033,6 @@ var WORDS = [
 {ko:"너무", vi:"Quá / rất, Too / Very"},
 {ko:"미리", vi:"Trước, In advance"},
 {ko:"그냥", vi:"Cứ / đơn giản là, Just"},
-{ko:"약간", vi:"Hơi / một chút, Slightly"},
-{ko:"이런", vi:"Như thế này, Like this"},
 {ko:"그렇게", vi:"Như vậy, Like that"},
 {ko:"같이", vi:"Cùng nhau, Together"},
 {ko:"열심히", vi:"Chăm chỉ, Diligently"},
