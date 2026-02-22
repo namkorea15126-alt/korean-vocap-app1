@@ -1,5 +1,24 @@
 var WORDS = [
 
+
+{ko:"대양", vi:"Đại dương, Ocean"},
+{ko:"후예", vi:"Hậu duệ, Descendant"},
+{ko:"출근", vi:"Đi làm, Go to work"},
+{ko:"퇴근", vi:"Tan làm, Leave work"},
+{ko:"퇴근하다", vi:"Tan làm, Get off work"},
+{ko:"독서", vi:"Đọc sách, Reading"},
+{ko:"기념", vi:"Kỷ niệm, Commemoration"},
+{ko:"기념하다", vi:"Kỷ niệm, Commemorate"},
+{ko:"첫", vi:"Đầu tiên, First"},
+{ko:"첫눈", vi:"Tuyết đầu mùa / tình yêu sét đánh, First snow / Love at first sight"},
+{ko:"첫날", vi:"Ngày đầu tiên, First day"},
+{ko:"환호", vi:"Hoan hô / reo hò, Cheer"},
+{ko:"환호하다", vi:"Hoan hô / reo hò, Cheer"},
+{ko:"엄정", vi:"Nghiêm khắc / nghiêm túc, Strictness"},
+{ko:"엄정하다", vi:"Nghiêm khắc, Strict"},
+{ko:"태도", vi:"Thái độ, Attitude"},
+
+  
 {ko:"정리", vi:"Sắp xếp / tổng hợp, Organization"},
 {ko:"정리하다", vi:"Sắp xếp / dọn dẹp, Organize"},
 {ko:"중식", vi:"Bữa trưa (phong cách Trung Hoa), Lunch / Chinese meal"},
@@ -621,6 +640,7 @@ var WORDS = [
 {ko:"요즘", vi:"Dạo này, These days"},
 {ko:"주말", vi:"Cuối tuần, Weekend"},
 {ko:"방학", vi:"Kỳ nghỉ (của học sinh, sinh viên), School vacation"},
+{ko:"방학하다", vi:"Nghỉ học (kỳ nghỉ), Be on vacation"},
 {ko:"휴가", vi:"Kỳ nghỉ / nghỉ phép, Vacation"},
 {ko:"일정", vi:"Lịch trình, Schedule"},
 {ko:"전", vi:"Trước, Before"},
@@ -798,7 +818,6 @@ var WORDS = [
 {ko:"가운데", vi:"Ở tâm, Middle"},
 {ko:"한강", vi:"Sông Hàn, Han River"},
 {ko:"건물", vi:"Tòa nhà, Building"},
-{ko:"생활관", vi:"Khu sinh hoạt / doanh trại, Living quarters"},
 {ko:"근처", vi:"Gần đây / khu vực gần, Nearby"},
 {ko:"행선지", vi:"Điểm đến, Destination"}, 
 
