@@ -1,7 +1,4 @@
 var WORDS = [
-
-
-
 {ko:"사귀다", vi:"Hẹn hò / kết bạn, Date / Be friends"},
 {ko:"사투리", vi:"Phương ngữ / tiếng địa phương, Dialect"},
 {ko:"모르다", vi:"Không biết, Not know"},
@@ -24,7 +21,6 @@ var WORDS = [
 {ko:"엄정하다", vi:"Nghiêm khắc, Strict"},
 {ko:"태도", vi:"Thái độ, Attitude"},
 
-  
 {ko:"정리", vi:"Sắp xếp / tổng hợp, Organization"},
 {ko:"정리하다", vi:"Sắp xếp / dọn dẹp, Organize"},
 {ko:"중식", vi:"Bữa trưa (phong cách Trung Hoa), Lunch / Chinese meal"},
@@ -119,15 +115,6 @@ var WORDS = [
 {ko:"막걸리", vi:"Rượu gạo Hàn Quốc, Makgeolli"},
 {ko:"모습", vi:"Hình dáng / dáng vẻ, Appearance"},
 
-  
-  
-  
-  
-  
-  
-  
-  
-  
 {ko:"과정", vi:"Khóa học, Course"},
 {ko:"수업", vi:"Lớp học / buổi học, Class"},
 {ko:"수업하다", vi:"Dạy học / lên lớp, Teach"},
@@ -174,15 +161,6 @@ var WORDS = [
 {ko:"조사", vi:"Trợ từ, Particle"},
 
 
-
-
-
-
-
-
-
-
-  
   /* Danh từ */
 {ko:"안내", vi:"Hướng dẫn / thông báo, Guidance / Notice"},
 {ko:"보고서", vi:"Báo cáo, Report"},
@@ -190,7 +168,6 @@ var WORDS = [
 {ko:"높임말", vi:"Kính ngữ, Honorific language"},
 {ko:"달리기", vi:"Chạy bộ, Running"},
 {ko:"뛰기", vi:"Chạy, nhảy (bộc phát), Run"},
-{ko:"야간", vi:"Ban đêm, Nighttime"},
 {ko:"평일", vi:"Ngày trong tuần, Weekday"},
 
 {ko:"교육", vi:"Giáo dục / đào tạo, Education / Training"},
@@ -269,16 +246,6 @@ var WORDS = [
 
 
 
-
-
-
-
-  
-  
- 
-
-
-
   
   /* Quân đội & Cấp bậc */
 {ko:"분대", vi:"Tiểu đội, Squad"},
@@ -344,8 +311,6 @@ var WORDS = [
 {ko:"폭탄", vi:"Bom, Bomb"},
 {ko:"견인포", vi:"Pháo kéo, Towed artillery"},
 {ko:"박격포", vi:"Súng cối, Mortar"},
-
-  
 
 {ko:"기자", vi:"Phóng viên, Reporter"},
 {ko:"군인", vi:"Quân nhân, Soldier"},
@@ -696,14 +661,9 @@ var WORDS = [
 {ko:"금색", vi:"Màu vàng kim, Gold color"},
 {ko:"은색", vi:"Màu bạc, Silver color"},
 
-
-
-
-
   /* Hoạt động – Thể thao – Giải trí */
   /* Thể thao */
 {ko:"산책", vi:"Đi dạo, Walk"},
-
 {ko:"수영", vi:"Bơi lội, Swimming"},
 {ko:"운동", vi:"Tập thể dục, Exercise"},
 {ko:"노래", vi:"Hát, Sing"},
@@ -831,14 +791,6 @@ var WORDS = [
 {ko:"방향", vi:"Hướng, Direction"},
 {ko:"왼쪽, 좌측", vi:"Bên trái, Left"},
 {ko:"오른쪽, 우측", vi:"Bên phải, Right"},
-
-
-
-
-
-
-
-
 
 
 
