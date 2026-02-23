@@ -1,11 +1,77 @@
 var WORDS = [
 
+
+{ko:"동물원", vi:"Sở thú, Zoo"},
+{ko:"기능", vi:"Chức năng, Function"},
+{ko:"신다", vi:"Mang / đi (giày, tất), Wear (shoes/socks)"},
+{ko:"공연", vi:"Buổi biểu diễn, Performance"},
+{ko:"잔", vi:"Cốc / chén (đơn vị đếm), Cup / Glass (counter)"},
+{ko:"잠시만", vi:"Đợi một chút nhé, Just a moment"},
+
+
+   
+{ko:"가게", vi:"Cửa hàng, Shop"},
+{ko:"가격", vi:"Giá cả, Price"},
+{ko:"각각", vi:"Mỗi / từng cái, Each"},
+{ko:"각자", vi:"Mỗi người / mỗi cái (tự riêng), Each person / each one"},
+{ko:"경기", vi:"Trận đấu (thể thao), Game / Match"},
+{ko:"경기장", vi:"Sân thi đấu / sân vận động, Stadium"},
+{ko:"골프", vi:"Golf, Golf"},
+{ko:"곰", vi:"Con gấu, Bear"},
+{ko:"과자", vi:"Bánh kẹo, Snack"},
+{ko:"귤", vi:"Quýt, Mandarine"},
+{ko:"기분", vi:"Cảm xúc / tâm trạng, Feeling"},
+
+{ko:"내다", vi:"Đưa ra / trả (tiền), Pay / Put out"},
+
+
+{ko:"드리다", vi:"Đưa (kính ngữ), Give (honorific)"},
+
+{ko:"떡볶이", vi:"Bánh gạo cay, Tteokbokki"},
+{ko:"말하기", vi:"Nói (kỹ năng), Speaking"},
+{ko:"맵다", vi:"Cay, Spicy"},
+{ko:"먼저", vi:"Trước tiên, First"},
+{ko:"문구점", vi:"Cửa hàng văn phòng phẩm, Stationery store"},
+{ko:"반지", vi:"Nhẫn, Ring"},
+{ko:"배", vi:"Quả lê / bụng / thuyền, Pear / Belly / Boat"},
+{ko:"사물놀이", vi:"Nhạc dân gian Hàn Quốc, Samulnori"},
+{ko:"사진기", vi:"Máy ảnh, Camera"},
+{ko:"사탕", vi:"Kẹo, Candy"},
+{ko:"소주", vi:"Rượu soju, Soju"},
+{ko:"쇼핑하다", vi:"Mua sắm, Shop"},
+{ko:"수학", vi:"Toán học, Mathematics"},
+{ko:"숫자", vi:"Con số, Number"},
+{ko:"스마트폰", vi:"Điện thoại thông minh, Smartphone"},
+{ko:"신발", vi:"Giày, Shoes"},
+{ko:"아저씨", vi:"Chú / bác (nam), Mister / Uncle"},
+{ko:"아주머니", vi:"Cô / bác (nữ), Aunt / Madam"},
+{ko:"양말", vi:"Tất, Socks"},
+{ko:"양복", vi:"Bộ vest, Suit"},
+{ko:"어서", vi:"Nhanh lên / mời vào, Hurry / Please come"},
+{ko:"억", vi:"Một trăm triệu, One hundred million"},
+{ko:"우산", vi:"Ô / dù, Umbrella"},
+{ko:"원", vi:"Won (tiền Hàn Quốc), Won"},
+{ko:"인형", vi:"Búp bê, Doll"},
+{ko:"자동차", vi:"Ô tô, Car"},
+{ko:"잠시", vi:"Một lát, A moment"},
+{ko:"정말", vi:"Thật sự, Really"},
+{ko:"조금", vi:"Một chút, A little"},
+   
+{ko:"실패", vi:"Thất bại, Failure"},
+{ko:"실패하다", vi:"Thất bại, Fail"},
+{ko:"통과", vi:"Vượt qua / thông qua, Pass"},
+{ko:"통과하다", vi:"Vượt qua / đậu (kỳ thi, kiểm tra), Pass"},
+{ko:"성공", vi:"Sự thành công, Success"},
+{ko:"성공하다", vi:"Thành công, Succeed"},
+{ko:"탈락", vi:"Bị loại, Elimination / Failure"},
+{ko:"탈락하다", vi:"Bị loại (thi cử, tuyển chọn), Be eliminated / Fail"},
+
    
 {ko:"선물", vi:"Quà tặng, Gift"},
 {ko:"설거지", vi:"Rửa bát, Do the dishes"},
 {ko:"돕다", vi:"Giúp đỡ, Help"},
 {ko:"도와주다", vi:"Giúp cho ai đó, Help someone"},
-{ko:"수학", vi:"Toán học, Mathematics"},
+
 {ko:"시험", vi:"Kỳ thi / bài kiểm tra, Exam"},
 {ko:"싫어하다", vi:"Ghét / không thích, Dislike"},
 {ko:"어제", vi:"Hôm qua, Yesterday"},
@@ -164,7 +230,7 @@ var WORDS = [
 {ko:"오전", vi:"Buổi sáng (AM), Morning / AM"},
 {ko:"오후", vi:"Buổi chiều (PM), Afternoon / PM"},
 {ko:"요일", vi:"Thứ, Day of the week"},
-{ko:"음료수", vi:"Đồ uống, Beverage"},
+{ko:"음료/음료수", vi:"Đồ uống, Beverage, 음료 (trang trọng)/음료수 (đời thường)"},
 {ko:"이번", vi:"Lần này, This time"},
 {ko:"주간", vi:"Ban ngày / theo tuần, Daytime / Weekly"},
 {ko:"야간", vi:"Ban đêm, Nighttime"},
@@ -386,8 +452,7 @@ var WORDS = [
 {ko:"동생", vi:"Em, Younger sibling"},
 {ko:"삼촌", vi:"Chú, bác trai, Uncle"},
 {ko:"이모", vi:"Dì, Aunt"},
-{ko:"아저씨", vi:"Chú, bác (đàn ông trung niên), Mister"},
-{ko:"아주머니", vi:"Cô, dì (phụ nữ trung niên), Madam"},
+
 {ko:"호칭", vi:"Cách xưng hô, Form of address"},
 {ko:"씨", vi:"Hậu tố xưng hô lịch sự, Polite suffix"},
 {ko:"자기", vi:"Bản thân / anh-em (thân mật), Honey / Self"},
@@ -443,7 +508,7 @@ var WORDS = [
 {ko:"화장실", vi:"Nhà vệ sinh, Restroom"},
 {ko:"술집", vi:"Quán rượu, Bar"},
 {ko:"커피숍", vi:"Quán cà phê, Coffee shop"},
-{ko:"경기장", vi:"Sân thi đấu / sân vận động, Stadium"},
+
 {ko:"본관", vi:"Tòa nhà chính, Main building"},
 {ko:"생활관", vi:"Khu sinh hoạt / doanh trại, Living quarters"},
 
@@ -453,7 +518,7 @@ var WORDS = [
 {ko:"지하철", vi:"Tàu điện ngầm, Subway"},
 {ko:"전철", vi:"Tàu điện trên mặt đất"},
 {ko:"비행기", vi:"Máy bay, Airplane"},
-{ko:"자동차", vi:"Ô tô, Car"},
+
 {ko:"차", vi:"Xe, Vehicle"},
 {ko:"자전거", vi:"Xe đạp, Bicycle"},
 {ko:"역", vi:"Nhà ga, Station"},
@@ -520,7 +585,7 @@ var WORDS = [
 {ko:"스웨터", vi:"Áo len, Sweater"},
 {ko:"모자", vi:"Mũ, Hat"},
 {ko:"장갑", vi:"Găng tay, Gloves"},
-{ko:"신발", vi:"Giày, Shoes"},
+
 {ko:"구두", vi:"Giày da, Dress shoes"},
 {ko:"슬리퍼", vi:"Dép lê, Slippers"},
 {ko:"안경", vi:"Kính, Glasses"},
@@ -530,8 +595,8 @@ var WORDS = [
 
 {ko:"여권", vi:"Hộ chiếu, Passport"},
 {ko:"열쇠", vi:"Chìa khóa, Key"},
-{ko:"우산", vi:"Ô / dù, Umbrella"},
-{ko:"반지", vi:"Nhẫn, Ring"},
+
+
 {ko:"사물함", vi:"Tủ cá nhân, Locker"},
 {ko:"소파", vi:"Ghế sofa, Sofa"},
 {ko:"침대", vi:"Giường, Bed"},
@@ -592,9 +657,9 @@ var WORDS = [
 {ko:"바나나", vi:"Chuối, Banana"},
 {ko:"레몬", vi:"Chanh, Lemon"},
 {ko:"수박", vi:"Dưa hấu, Watermelon"},
-{ko:"배", vi:"Bụng, Lê, Tàu, Belly, Pear, Ship"},
+
 {ko:"오렌지", vi:"Cam, Orange"},
-{ko:"귤", vi:"Quýt, Mandarin"},
+
 {ko:"망고", vi:"Xoài, Mango"},
 {ko:"복숭아", vi:"Đào, Peach"},
 {ko:"체리", vi:"Cherry"},
@@ -641,7 +706,7 @@ var WORDS = [
 {ko:"콜라", vi:"Coca, Cola"},
 {ko:"녹차", vi:"Trà xanh, Green tea"},
 {ko:"홍차", vi:"Hồng trà, Black tea"},
-{ko:"소주", vi:"Rượu soju, Soju"},
+
 {ko:"와인", vi:"Rượu vang, Wine"},
 {ko:"하루", vi:"Một ngày, One day"},
 {ko:"아침", vi:"Buổi sáng, Morning"},
@@ -679,7 +744,6 @@ var WORDS = [
 {ko:"큰 수", vi:"Số lớn, Large number"},
 {ko:"번호", vi:"Số thứ tự / số hiệu, Number"},
 
-{ko:"가격", vi:"Giá cả, Price"},
 {ko:"요금", vi:"Phí, Fee"},
 {ko:"요금표", vi:"Bảng giá, Price list"},
 {ko:"돈", vi:"Tiền, Money"},
@@ -745,7 +809,7 @@ var WORDS = [
 {ko:"구성", vi:"Cấu trúc, Structure"},
 {ko:"구성하다", vi:"Cấu thành / sắp xếp, Organize"},
 {ko:"소개", vi:"Giới thiệu, Introduction"},
-{ko:"시험", vi:"Kỳ thi, Exam"},
+
 {ko:"숙제", vi:"Bài tập về nhà, Homework"},
 {ko:"연습", vi:"Luyện tập, Practice"},
 
@@ -889,7 +953,7 @@ var WORDS = [
 {ko:"반하다", vi:"Phải lòng / bị cuốn hút, Fall for, 그녀에게 반했어요. Tôi đã phải lòng cô ấy"},
 {ko:"팔로우", vi:"Theo dõi (mạng xã hội), Follow"},
 {ko:"플러팅", vi:"Tán tỉnh, Flirting"},
-{ko:"쇼핑하다", vi:"Mua sắm, Shop"},
+
 {ko:"구매하다", vi:"Mua (trang trọng), Purchase"},
 {ko:"사다", vi:"Mua, Buy"},
  
@@ -1029,7 +1093,6 @@ var WORDS = [
 {ko:"같이", vi:"Cùng nhau, Together"},
 {ko:"열심히", vi:"Chăm chỉ, Diligently"},
 {ko:"많이", vi:"Nhiều, A lot"},
-{ko:"조금", vi:"Ít / một chút, A little"},
 {ko:"빨리", vi:"Nhanh, Quickly"},
 {ko:"천천히", vi:"Chậm rãi, Slowly"},
 {ko:"자주", vi:"Thường xuyên, Often"},
