@@ -1,6 +1,86 @@
 var WORDS = [
 
+   
+   
+   
+   
+   
+   
+   
+{ko:"달", vi:"Tháng / mặt trăng, Month / Moon"},
+{ko:"번", vi:"Lần (đếm số lần), Time"},
+{ko:"발", vi:"Chân, Foot"},
+{ko:"손", vi:"Tay, Hand"},
+{ko:"키", vi:"Chiều cao / chìa khóa, Height / Key"},
+{ko:"올해", vi:"Năm nay, This year"},
 
+{ko:"계속", vi:"Liên tục, Continuously"},
+{ko:"그렇지만", vi:"Nhưng tuy nhiên, However"},
+{ko:"꼭", vi:"Nhất định / chắc chắn, Surely"},
+{ko:"다시", vi:"Lại / lần nữa, Again"},
+{ko:"또", vi:"Lại / cũng, Again / Also"},
+{ko:"매우", vi:"Rất, Very"},
+{ko:"아직", vi:"Vẫn chưa, Still / Yet"},
+{ko:"왜", vi:"Tại sao, Why"},
+
+{ko:"내무반", vi:"Phòng sinh hoạt bộ đội, Barracks room"},
+{ko:"소대원", vi:"Thành viên trung đội, Platoon member"},
+{ko:"지휘 본부", vi:"Bộ chỉ huy, Command headquarters"},
+
+{ko:"검도", vi:"Kiếm đạo (Kendo), Kendo"},
+{ko:"도장", vi:"Võ đường / con dấu, Dojo / Seal"},
+{ko:"야구", vi:"Bóng chày, Baseball"},
+{ko:"태권도", vi:"Taekwondo, Taekwondo"},
+{ko:"조깅", vi:"Chạy bộ nhẹ, Jogging"},
+
+{ko:"기숙사", vi:"Ký túc xá, Dormitory"},
+{ko:"기차", vi:"Tàu hỏa, Train"},
+{ko:"비행기", vi:"Máy bay, Airplane"},
+{ko:"주스", vi:"Nước ép, Juice"},
+{ko:"표", vi:"Vé, Ticket"},
+{ko:"복장", vi:"Trang phục, Outfit"},
+{ko:"계획", vi:"Kế hoạch, Plan"},
+   
+{ko:"공격하다", vi:"Tấn công, Attack"},
+{ko:"도와주다", vi:"Giúp đỡ, Help"},
+{ko:"나오다", vi:"Ra / xuất hiện, Come out"},
+{ko:"따다", vi:"Hái / lấy / mở (nắp), Pick / Obtain"},
+{ko:"모이다", vi:"Tập hợp, Gather"},
+{ko:"방송하다", vi:"Phát sóng, Broadcast"},
+{ko:"방어하다", vi:"Phòng thủ, Defend"},
+{ko:"알리다", vi:"Thông báo, Inform"},
+{ko:"예약하다", vi:"Đặt trước, Reserve"},
+{ko:"오다", vi:"Đến, Come"},
+{ko:"전화하다", vi:"Gọi điện, Call"},
+{ko:"조깅하다", vi:"Chạy bộ nhẹ, Jog"},
+{ko:"취직하다", vi:"Xin được việc, Get a job"},
+{ko:"제대하다", vi:"Xuất ngũ, Discharge (military)"},
+{ko:"집합하다", vi:"Tập hợp, Assemble"},
+{ko:"가볍다", vi:"Nhẹ, Light"},
+{ko:"건강하다", vi:"Khỏe mạnh, Healthy"},
+{ko:"부럽다", vi:"Ghen tị, Envious"},
+{ko:"특별하다", vi:"Đặc biệt, Special"},
+{ko:"힘들다", vi:"Mệt / vất vả, Tiring / Hard"},
+{ko:"권", vi:"Quyển/cuốn (sách), Volume"},
+{ko:"대", vi:"Chiếc (máy móc, xe), Unit / Machine"},
+{ko:"마리", vi:"Con (động vật), Animal counter"},
+{ko:"박스", vi:"Hộp, Box"},
+{ko:"봉지", vi:"Túi (nilon, giấy), Bag"},
+{ko:"벌", vi:"Bộ (quần áo), Set (clothes)"},
+{ko:"병", vi:"Chai, Bottle"},
+{ko:"송이", vi:"Bông/chùm (hoa, nấm), Bunch"},
+{ko:"인분", vi:"Phần ăn (cho người), Serving"},
+{ko:"자루", vi:"Cái (dao, bút, bao), Item / Sack"},
+{ko:"장", vi:"Tờ (giấy, vé), Sheet"},
+{ko:"켤레", vi:"Đôi (giày, tất), Pair"},
+{ko:"토끼", vi:"Con thỏ, Rabbit"},
+{ko:"개", vi:"Con chó, Dog"},
+{ko:"공항", vi:"Sân bay, Airport"},
+{ko:"축구화", vi:"Giày bóng đá, Soccer shoes / Football boots"},
+{ko:"지난주", vi:"Tuần trước, Last week"},   
+{ko:"주다", vi:"Cho, Give"},
+{ko:"주문하다", vi:"Đặt hàng / gọi món, Order"},
+{ko:"팔다", vi:"Bán, Sell"},
 {ko:"동물원", vi:"Sở thú, Zoo"},
 {ko:"기능", vi:"Chức năng, Function"},
 {ko:"신다", vi:"Mang / đi (giày, tất), Wear (shoes/socks)"},
@@ -70,7 +150,6 @@ var WORDS = [
 {ko:"선물", vi:"Quà tặng, Gift"},
 {ko:"설거지", vi:"Rửa bát, Do the dishes"},
 {ko:"돕다", vi:"Giúp đỡ, Help"},
-{ko:"도와주다", vi:"Giúp cho ai đó, Help someone"},
 
 {ko:"시험", vi:"Kỳ thi / bài kiểm tra, Exam"},
 {ko:"싫어하다", vi:"Ghét / không thích, Dislike"},
@@ -94,7 +173,7 @@ var WORDS = [
 {ko:"쯤", vi:"Khoảng chừng, About / Around"},
 {ko:"초등", vi:"Tiểu học (viết tắt), Elementary"},
 {ko:"고등", vi:"Trung học phổ thông (viết tắt), High school"},
-{ko:"아직", vi:"Vẫn còn / chưa, Still / Yet"},
+
 {ko:"지난", vi:"Đã qua / trước, Last / Past"},
 {ko:"참", vi:"Thật là / đúng là, Really"},
 {ko:"출발하다", vi:"Khởi hành, Depart"},
@@ -155,7 +234,7 @@ var WORDS = [
 {ko:"내년", vi:"Năm sau, Next year"},
 {ko:"장년", vi:"Tuổi trung niên, Middle age"},
 {ko:"작년", vi:"Năm ngoái, Last year"},
-{ko:"올해", vi:"Năm nay, This year"},
+
 {ko:"금년", vi:"Năm nay (trang trọng), This year (formal)"},
 {ko:"냉면", vi:"Mì lạnh, Cold noodles"},
 {ko:"녹색", vi:"Màu xanh lá, Green"},
@@ -183,7 +262,7 @@ var WORDS = [
 {ko:"초대하다", vi:"Mời, Invite"},
 {ko:"출근", vi:"Đi làm, Go to work"},
 {ko:"출근하다", vi:"Đi làm, Commute"},
-{ko:"키", vi:"Chiều cao, Height"},
+
 {ko:"탁구", vi:"Bóng bàn, Table tennis"},
 {ko:"명동", vi:"Myeongdong (khu mua sắm), Myeongdong"},
 {ko:"유명", vi:"Nổi tiếng, Famous"},
@@ -501,7 +580,7 @@ var WORDS = [
 {ko:"미용실", vi:"Tiệm làm tóc, Hair salon"},
 {ko:"이발소", vi:"Tiệm cắt tóc nam, Barbershop"},
 {ko:"호텔", vi:"Khách sạn, Hotel"},
-{ko:"기숙사", vi:"Ký túc xá, Dormitory"},
+
 {ko:"사무실", vi:"Văn phòng, Office"},
 {ko:"사무소", vi:"Văn phòng (hành chính), Office"},
 {ko:"주차장", vi:"Bãi đỗ xe, Parking lot"},
@@ -514,10 +593,9 @@ var WORDS = [
 
 {ko:"버스", vi:"Xe buýt, Bus"},
 {ko:"택시", vi:"Taxi, Taxi"},
-{ko:"기차", vi:"Tàu hỏa, Train"},
+
 {ko:"지하철", vi:"Tàu điện ngầm, Subway"},
 {ko:"전철", vi:"Tàu điện trên mặt đất"},
-{ko:"비행기", vi:"Máy bay, Airplane"},
 
 {ko:"차", vi:"Xe, Vehicle"},
 {ko:"자전거", vi:"Xe đạp, Bicycle"},
@@ -530,7 +608,6 @@ var WORDS = [
 {ko:"환승", vi:"Chuyển tuyến, Transfer"},
 {ko:"출발", vi:"Xuất phát, Departure"},
 {ko:"도착", vi:"Đến nơi, Arrival"},
-{ko:"표", vi:"Vé, Ticket"},
 {ko:"운전면허증", vi:"Bằng lái xe, Driver’s license"},
 
 {ko:"냉장고", vi:"Tủ lạnh, Refrigerator"},
@@ -696,7 +773,7 @@ var WORDS = [
 {ko:"아이스크림", vi:"Kem, Ice cream"},
 {ko:"시리얼", vi:"Ngũ cốc, Cereal"},
 {ko:"물", vi:"Nước, Water"},
-{ko:"주스", vi:"Nước ép, Juice"},
+
 {ko:"커피", vi:"Cà phê, Coffee"},
 {ko:"차", vi:"Trà, Tea"},
 {ko:"술", vi:"Rượu, Alcohol"},
@@ -777,7 +854,7 @@ var WORDS = [
 {ko:"쇼핑", vi:"Mua sắm, Shop"},
 {ko:"축구", vi:"Bóng đá, Soccer"},
 {ko:"농구", vi:"Bóng rổ, Basketball"},
-{ko:"야구", vi:"Bóng chày, Baseball"},
+
 {ko:"배구", vi:"Bóng chuyền, Volleyball"},
 {ko:"테니스", vi:"Quần vợt, Tennis"},
 {ko:"배드민턴", vi:"Cầu lông, Badminton"},
@@ -851,7 +928,7 @@ var WORDS = [
 {ko:"하늘", vi:"Bầu trời, Sky"},
 {ko:"구름", vi:"Mây, Cloud"},
 {ko:"해, 태양", vi:"Mặt trời, Sun"},
-{ko:"달", vi:"Mặt trăng, Moon"},
+
 {ko:"비", vi:"Mưa, Rain"},
 {ko:"눈", vi:"Mắt/Eye, Tuyết/Snow"},
 {ko:"바람", vi:"Gió, Wind"},
@@ -907,7 +984,6 @@ var WORDS = [
 
 /* Động từ */
 {ko:"가다", vi:"Đi, Go"},
-{ko:"오다", vi:"Đến, Come"},
 {ko:"내리다", vi:"Xuống / hạ, Get off / Lower"},
 {ko:"타다", vi:"Lên (xe), Ride"},
 {ko:"운전하다", vi:"Lái xe, Drive"},
@@ -917,7 +993,6 @@ var WORDS = [
 {ko:"달리다", vi:"Chạy (liên tục), Run"},
 {ko:"건너다", vi:"Băng qua, Cross"},
 {ko:"들어가다", vi:"Đi vào, Enter"},
-{ko:"나오다", vi:"Đi ra, Come out"},
 {ko:"돌아가다", vi:"Quay về, Return"},
 {ko:"이동하다", vi:"Di chuyển, Move"},
 {ko:"출발하다", vi:"Khởi hành, Depart"},
@@ -1001,7 +1076,6 @@ var WORDS = [
 {ko:"크다", vi:"To, Big"},
 {ko:"작다", vi:"Nhỏ, Small"},
 {ko:"무겁다", vi:"Nặng, Heavy"},
-{ko:"가볍다", vi:"Nhẹ, Light"},
 {ko:"두껍다", vi:"Dày, Thick"},
 {ko:"얇다", vi:"Mỏng, Thin"},
 {ko:"차갑다", vi:"Lạnh, Cold"},
@@ -1054,7 +1128,6 @@ var WORDS = [
 {ko:"무겁다", vi:"Nặng, Heavy"},
 {ko:"덥다", vi:"Nóng, Hot"},
 {ko:"아름답다", vi:"Đẹp, Beautiful"},
-{ko:"건강하다", vi:"Khỏe mạnh, Healthy"},
 {ko:"맛있다", vi:"Ngon, Delicious"},
 {ko:"불편하다", vi:"Bất tiện, Uncomfortable"},
 {ko:"편하다", vi:"Thoải mái, Comfortable"},
@@ -1085,7 +1158,6 @@ var WORDS = [
 
   
  /* Trạng từ */
-{ko:"꼭", vi:"Nhất định / 꼭, 반드시, Surely"},
 {ko:"아주", vi:"Rất, Very"},
 {ko:"너무", vi:"Quá / rất, Too / Very"},
 {ko:"그냥", vi:"Cứ / đơn giản là, Just"},
@@ -1099,8 +1171,7 @@ var WORDS = [
 {ko:"가끔", vi:"Thỉnh thoảng, Sometimes"},
 {ko:"항상", vi:"Luôn luôn, Always"},
 {ko:"벌써/이미", vi:"Đã.... rồi,벌써 한국에 온 지 1년이 됐어요. Mới đó mà đã 1 năm kể từ khi đến Hàn Quốc.벌써 다 끝났어요? Xong hết rồi à? (Nhanh vậy?). 이미 다 끝났어요. Đã xong hết rồi. (Báo sự thật)"},
-{ko:"아직", vi:"Vẫn chưa, Still / Yet"},
-{ko:"다시", vi:"Lại / lại lần nữa, Again"},
+
 {ko:"마음대로", vi:"Theo ý mình, As one pleases"},
 {ko:"갑자기", vi:"Đột nhiên, Suddenly"},
 {ko:"아마", vi:"Có lẽ, Probably"}
