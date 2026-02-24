@@ -76,7 +76,7 @@ var WORDS = [
 {ko:"병", vi:"Chai, Bottle"},
 {ko:"송이", vi:"Bông/chùm (hoa, nấm), Bunch"},
 {ko:"인분", vi:"Phần ăn (cho người), Serving"},
-{ko:"자루", vi:"Cái (dao, bút, bao), Item / Sack"},
+{ko:"자루", vi:"Cán, cây, cái, bao tải, Item / Sack"},
 {ko:"장", vi:"Tờ (giấy, vé), Sheet"},
 {ko:"켤레", vi:"Đôi (giày, tất), Pair"},
 {ko:"토끼", vi:"Con thỏ, Rabbit"},
