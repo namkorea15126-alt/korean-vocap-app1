@@ -8,7 +8,7 @@ var WORDS = [
    
    
 {ko:"달", vi:"Tháng / mặt trăng, Month / Moon"},
-{ko:"번", vi:"Lần (đếm số lần), Time"},
+{ko:"번", vi:"Lần,số, Time"},
 {ko:"발", vi:"Chân, Foot"},
 {ko:"손", vi:"Tay, Hand"},
 {ko:"키", vi:"Chiều cao / chìa khóa, Height / Key"},
