@@ -714,7 +714,7 @@ var WORDS = [
 {ko:"삼계탕", vi:"Canh gà hầm sâm, Ginseng chicken soup"},
 {ko:"고기", vi:"Thịt, Meat"},
 {ko:"생선", vi:"Cá (món ăn), Fish"},
-{ko:"물고기", vi:"Cá (con cá sống), Fish (living)"},
+{ko:"물고기", vi:"Cá (cá không ăn), Fish (living)"},
 {ko:"굴", vi:"Hàu, Oyster"},
 {ko:"민물고기", vi:"Cá nước ngọt, Freshwater fish"},
 {ko:"고등어", vi:"Cá thu, Mackerel"},
