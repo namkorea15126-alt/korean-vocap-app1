@@ -19,7 +19,6 @@ var WORDS = [
 {ko:"꼭", vi:"Nhất định / chắc chắn, Surely"},
 {ko:"다시", vi:"Lại / lần nữa, Again"},
 {ko:"또", vi:"Lại / cũng, Again / Also"},
-{ko:"매우", vi:"Rất, Very"},
 {ko:"아직", vi:"Vẫn chưa, Still / Yet"},
 {ko:"왜", vi:"Tại sao, Why"},
 {ko:"내무반", vi:"Phòng sinh hoạt bộ đội, Barracks room"},
@@ -990,7 +989,7 @@ var WORDS = [
 {ko:"어떠하다", vi:"Như thế nào (trang trọng), How (formal)"},
 {ko:"천천히 하다", vi:"Làm chậm rãi, Do slowly"},
  /* Trạng từ */
-{ko:"아주", vi:"Rất, Very"},
+{ko:"아주/매우", vi:"Rất, Very"},
 {ko:"너무", vi:"Quá / rất, Too / Very"},
 {ko:"그냥", vi:"Cứ / đơn giản là, Just"},
 {ko:"그렇게", vi:"Như vậy, Like that"},
