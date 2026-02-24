@@ -99,7 +99,7 @@ var WORDS = [
 {ko:"말하기", vi:"Nói (kỹ năng), Speaking"},
 {ko:"맵다", vi:"Cay, Spicy"},
 {ko:"먼저", vi:"Trước tiên, First"},
-{ko:"문구점", vi:"Cửa hàng văn phòng phẩm, Stationery store"},
+{ko:"문구점", vi:"Văn phòng phẩm, Stationery store"},
 {ko:"반지", vi:"Nhẫn, Ring"},
 {ko:"배", vi:"Quả lê / bụng / thuyền, Pear / Belly / Boat"},
 {ko:"사물놀이", vi:"Nhạc dân gian Hàn Quốc, Samulnori"},
