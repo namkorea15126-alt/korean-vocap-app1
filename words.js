@@ -2,10 +2,16 @@ var WORDS = [
 
    
    
-   
-   
-   
-   
+{ko:"들어봅시다", vi:"Hãy nghe thử nhé, Let's listen"},  
+{ko:"보고 싶다", vi:"Muốn gặp / nhớ, Want to see / Miss"},  
+{ko:"선물하다", vi:"Tặng quà, Give a gift"},
+{ko:"얻다", vi:"Nhận được / đạt được, Obtain / Get"},   
+{ko:"낚시터", vi:"Địa điểm câu cá, Fishing spot"},
+{ko:"품질", vi:"Chất lượng, Quality"},
+{ko:"날짜", vi:"Ngày tháng, Date"},
+{ko:"숫자", vi:"Con số, Number"},
+{ko:"출입구", vi:"Lối ra vào, Entrance/Exit"},
+{ko:"순차", vi:"Theo thứ tự, Sequence"}, 
    
 {ko:"달", vi:"Tháng / mặt trăng, Month / Moon"},
 {ko:"번", vi:"Lần,số, Time"},
