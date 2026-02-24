@@ -793,7 +793,6 @@ var WORDS = [
 {ko:"공지 사항", vi:"Thông báo (chung), Announcement"},
 {ko:"이메일", vi:"Email, Email"},
 {ko:"약속", vi:"Cuộc hẹn / lời hứa, Appointment / Promise"},
-{ko:"문화", vi:"Văn hóa, Culture"},
 {ko:"관련", vi:"Liên quan, Related"},
 {ko:"대답", vi:"Câu trả lời, Answer"},
 {ko:"주소", vi:"Địa chỉ, Address"},
