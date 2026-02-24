@@ -60,7 +60,7 @@ var WORDS = [
 {ko:"전화하다", vi:"Gọi điện, Call"},
 {ko:"조깅하다", vi:"Chạy bộ nhẹ, Jog"},
 {ko:"취직하다", vi:"Xin được việc, Get a job"},
-{ko:"제대하다", vi:"Xuất ngũ, Discharge (military)"},
+
 {ko:"집합하다", vi:"Tập hợp, Assemble"},
 {ko:"가볍다", vi:"Nhẹ, Light"},
 {ko:"건강하다", vi:"Khỏe mạnh, Healthy"},
@@ -262,8 +262,8 @@ var WORDS = [
 {ko:"연락", vi:"Liên lạc, Contact"},
 {ko:"연락하다", vi:"Liên lạc, Contact"},
 {ko:"죄송하다", vi:"Xin lỗi (trang trọng), Sorry"},
-{ko:"초대", vi:"Lời mời, Invitation"},
-{ko:"초대하다", vi:"Mời, Invite"},
+
+{ko:"초대/초대하다", vi:"Lời mời, Invitation/ Mời, Invite"},
 {ko:"출근", vi:"Đi làm, Go to work"},
 {ko:"출근하다", vi:"Đi làm, Commute"},
 
@@ -356,28 +356,16 @@ var WORDS = [
 {ko:"교육", vi:"Giáo dục / đào tạo, Education / Training"},
 {ko:"원장", vi:"Viện trưởng / hiệu trưởng (học viện), Director"},
 {ko:"중요하다", vi:"Quan trọng, Important"},
-
-
-{ko:"행사", vi:"Sự kiện, Event"},
-{ko:"행사하다", vi:"Tổ chức sự kiện, Hold an event"},
-
-{ko:"훈련", vi:"Huấn luyện, Training"},
-{ko:"훈련하다", vi:"Huấn luyện, To train"},
-{ko:"사격", vi:"Bắn súng, Shooting"},
-{ko:"사격하다", vi:"Bắn súng, To shoot"},
-{ko:"위병", vi:"Lính gác, Guard"},
-
+{ko:"행사/행사하다", vi:"Sự kiện, Event/Tổ chức sự kiện, Hold an event"},
+{ko:"훈련/훈련하다", vi:"Training/ To train"},
+{ko:"사격/사격하다", vi:"Shooting/To shoot"},
+{ko:"위병/위병소", vi:"Lính gác, Guard/Trạm gác, Guard post"},
 {ko:"주변", vi:"Xung quanh, Surroundings"},
-{ko:"입구", vi:"Lối vào, Entrance"},
-{ko:"출구", vi:"Lối ra, Exit"},
-{ko:"입교", vi:"Nhập học (vào trường/khóa huấn luyện), Enrollment / Admission"},
-{ko:"입교하다", vi:"Nhập học / tham gia khóa huấn luyện, To enroll / be admitted"},
-
+{ko:"입구/출구", vi:"Lối vào, Entrance/Lối ra, Exit"},
+{ko:"입교/입교하다/제대/제대하다", vi:"Nhập học (vào trường/khóa huấn luyện), Enrollment / Admission / Xuất ngũ, Discharge"},
 {ko:"동료", vi:"Đồng nghiệp"},
 {ko:"머리", vi:"Đầu / tóc, Head / Hair"},
-
-{ko:"점심", vi:"Bữa trưa, Lunch"},
-{ko:"저녁", vi:"Bữa tối, Dinner"},
+{ko:"{ko:"아침/점심/저녁", vi:"Morning, Breakfast/ afternoon, Lunch/Everning, Dinner"},
 {ko:"식료품", vi:"Thực phẩm / đồ ăn, Groceries"},
 {ko:"신문", vi:"Báo, Newspaper"},
 {ko:"편지", vi:"Thư, Letter"},
@@ -471,19 +459,15 @@ var WORDS = [
 {ko:"경례 구호", vi:"Khẩu lệnh chào, Salute command"},
 {ko:"사격장", vi:"Trường bắn, Shooting range"},
 {ko:"출타", vi:"Ra ngoài có phép, Authorized leave"},
-{ko:"제대", vi:"Xuất ngũ, Discharge"},
+
 {ko:"숙소", vi:"Nơi ở, Barracks"},
 {ko:"군용품", vi:"Trang bị quân dụng, Military equipment"},
 
 {ko:"군복", vi:"Quân phục, Military uniform"},
 {ko:"군장", vi:"Quân trang, Military gear"},
-{ko:"근무모", vi:"Mũ công vụ, Duty cap"},
-{ko:"근무화", vi:"Giày công vụ, Duty shoes"},
-{ko:"근무복", vi:"Quân phục công vụ, Duty uniform"},
-{ko:"전투모", vi:"Mũ chiến đấu, Combat helmet"},
-{ko:"전투복", vi:"Quân phục chiến đấu, Combat uniform"},
-{ko:"전투화", vi:"Giày chiến đấu, Combat boots"},  
-{ko:"위병소", vi:"Trạm gác, Guard post"},
+{ko:"근무모/근무복/근무화", vi:"Mũ công vụ, Duty cap/Quân phục công vụ, Duty uniform/Giày công vụ, Duty shoes"},
+{ko:"전투모/전투복/전투화", vi:"Mũ chiến đấu, Combat helmet/Quân phục chiến đấu, Combat uniform/Giày chiến đấu, Combat boots"},
+
 {ko:"의무대", vi:"Quân y, Medical unit"},
   
  /* Vũ khí */ 
@@ -783,7 +767,6 @@ var WORDS = [
 
 {ko:"와인", vi:"Rượu vang, Wine"},
 {ko:"하루", vi:"Một ngày, One day"},
-{ko:"아침", vi:"Buổi sáng, Morning"},
 {ko:"낮", vi:"Ban ngày, Daytime"},
 {ko:"밤", vi:"Ban đêm, Night"},
 {ko:"오늘", vi:"Hôm nay, Today"},
