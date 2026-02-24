@@ -95,7 +95,7 @@ var WORDS = [
 {ko:"내다", vi:"Đưa ra / trả (tiền), Pay / Put out"},
 {ko:"드리다", vi:"Đưa (kính ngữ), Give (honorific)"},
 {ko:"떡볶이", vi:"Bánh gạo cay, Tteokbokki"},
-{ko:"말하기", vi:"Nói (kỹ năng), Speaking"},
+{ko:"말하기", vi:"Kỹ năng nói, Speaking"},
 {ko:"맵다", vi:"Cay, Spicy"},
 {ko:"먼저", vi:"Trước tiên, First"},
 {ko:"문구점", vi:"Văn phòng phẩm, Stationery store"},
