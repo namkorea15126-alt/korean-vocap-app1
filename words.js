@@ -907,7 +907,7 @@ var WORDS = [
 {ko:"사다", vi:"Mua, Buy"},
 {ko:"일하다", vi:"Làm việc, Work"},
 {ko:"공부하다", vi:"Học tập, Study"},
-{ko:"{ko:"준비/준비하다", vi:"Preparation/ Chuẩn bị, Prepare"},
+{ko:"준비/준비하다", vi:"Preparation/ Chuẩn bị, Prepare"},
 {ko:"시작하다", vi:"Bắt đầu, Start"},
 {ko:"표현하다", vi:"Biểu đạt, Express"},
 {ko:"생각하다", vi:"Nghĩ, Think"},
