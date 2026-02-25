@@ -285,7 +285,7 @@ var WORDS = [
 {ko:"대화", vi:"Hội thoại, Conversation"},
 {ko:"식사/식사하다", vi:"Meal/ Have a meal"},
 {ko:"아내", vi:"Wife"},
-{ko:"외식외식하다", vi:"Eating out/ Eat out"},
+{ko:"외식/ 외식하다", vi:"Eating out/ Eat out"},
 {ko:"인터넷", vi:" Internet"},
 {ko:"일과", vi:"Sinh hoạt hằng ngày / lịch làm việc, Daily routine"},
 {ko:"정도", vi:"Mức độ, Degree / Extent"},
