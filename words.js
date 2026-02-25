@@ -1,9 +1,23 @@
 var WORDS = [ 
+
+  
+  
+{ko:"화가", vi:"Họa sĩ, Painter"}  
+{ko:"곱다", vi:"Đẹp, mịn, dịu (màu sắc, da), Beautiful / Fine"},
+{ko:"고맙다", vi:"Biết ơn / cảm ơn, Thankful"},
+{ko:"반갑다", vi:"Vui mừng khi gặp, Glad / Nice to meet"}, 
+{ko:"사용하다", vi:"Sử dụng, Use"},
+{ko:"이용하다", vi:"Sử dụng (dịch vụ, phương tiện), Utilize"},
+{ko:"나열하다", vi:"Liệt kê, List / Enumerate"},
+{ko:"서비스", vi:"Dịch vụ, Service"},
+{ko:"문제", vi:"Vấn đề / câu hỏi, Problem / Question"},
+{ko:"순차", vi:"Thứ tự / trình tự, Sequence"},
+{ko:"불규칙", vi:"Bất quy tắc, Irregularity"},
+{ko:"미래", vi:"Future"},
 {ko:"들어봅시다", vi:"Hãy nghe thử nhé, Let's listen"},  
 {ko:"보고 싶다", vi:"Want to see / Miss"},  
 {ko:"선물하다", vi:"Tặng quà, Give a gift"},
 {ko:"얻다", vi:"Nhận được / đạt được, Obtain / Get"},   
-
 {ko:"품질", vi:"Quality"},
 {ko:"날짜", vi:"Ngày tháng, Date"},
 {ko:"출입구", vi:"Lối ra vào, Entrance/Exit"},
@@ -961,7 +975,6 @@ var WORDS = [
 {ko:"맛있다", vi:"Ngon, Delicious"},
 {ko:"불편하다", vi:"Bất tiện, Uncomfortable"},
 {ko:"편하다", vi:"Thoải mái, Comfortable"},
-{ko:"쉽다", vi:"Dễ, Easy"},
 {ko:"귀엽다", vi:"Dễ thương, Cute"},
   /* Biểu hiện & mức độ */
 {ko:"어떻다", vi:"Như thế nào, How"},
