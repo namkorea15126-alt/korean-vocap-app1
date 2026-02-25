@@ -2,7 +2,7 @@ var WORDS = [
 
   
   
-{ko:"화가", vi:"Họa sĩ, Painter"}  
+{ko:"화가", vi:"Họa sĩ, Painter"},  
 {ko:"곱다", vi:"Đẹp, mịn, dịu (màu sắc, da), Beautiful / Fine"},
 {ko:"고맙다", vi:"Biết ơn / cảm ơn, Thankful"},
 {ko:"반갑다", vi:"Vui mừng khi gặp, Glad / Nice to meet"}, 
