@@ -21,14 +21,14 @@ var WORDS = [
 {ko:"차량", vi:"Phương tiện / xe cộ, Vehicle"},
 {ko:"터미널", vi:"Bến xe, Terminal"},
 {ko:"호선", vi:"Tuyến (tàu điện), Line"},
-{ko:"KTX", vi:"Tàu cao tốc Hàn Quốc, High-speed train"}
+{ko:"KTX", vi:"Tàu cao tốc Hàn Quốc, High-speed train"},
 
 {ko:"자리", vi:"Chỗ ngồi / vị trí, Seat / Place"},
 {ko:"지역", vi:"Khu vực, Region"},
 {ko:"지리", vi:"Địa lý, Geography"},
 {ko:"쪽", vi:"Phía, Direction"},
 {ko:"쯤", vi:"Khoảng, About"},
-{ko:"타워", vi:"Tháp, Tower"}
+{ko:"타워", vi:"Tháp, Tower"},
 
 {ko:"강변역", vi:"Ga Gangbyeon, Gangbyeon Station"},
 {ko:"강릉", vi:"Thành phố Gangneung, Gangneung"},
@@ -40,7 +40,7 @@ var WORDS = [
 {ko:"서울역", vi:"Ga Seoul, Seoul Station"},
 {ko:"시청", vi:"Tòa thị chính, City Hall"},
 {ko:"잠실", vi:"Khu Jamsil, Jamsil"},
-{ko:"청계천", vi:"Suối Cheonggye, Cheonggyecheon"}
+{ko:"청계천", vi:"Suối Cheonggye, Cheonggyecheon"},
 
 {ko:"노래", vi:"Bài hát, Song"},
 {ko:"다음", vi:"Tiếp theo, Next"},
@@ -53,7 +53,7 @@ var WORDS = [
 {ko:"일어서다", vi:"Đứng lên, Stand up"},
 {ko:"조용히", vi:"Yên lặng, Quietly"},
 {ko:"편하다", vi:"Thoải mái, Comfortable"},
-{ko:"함께", vi:"Cùng nhau, Together"}
+{ko:"함께", vi:"Cùng nhau, Together"},
 
 {ko:"나", vi:"Tôi, I"},
 {ko:"저희", vi:"Chúng tôi (khiêm nhường), We (humble)"},
@@ -64,13 +64,13 @@ var WORDS = [
 {ko:"부부", vi:"Vợ chồng, Couple"},
 {ko:"선배", vi:"Tiền bối, Senior"},
 {ko:"사장", vi:"Giám đốc / chủ, Boss"},
-{ko:"사원", vi:"Nhân viên, Employee"}
+{ko:"사원", vi:"Nhân viên, Employee"},
 
 {ko:"대학교", vi:"Đại học, University"},
 {ko:"대학생", vi:"Sinh viên đại học, University student"},
 {ko:"경영학과", vi:"Khoa quản trị kinh doanh, Business administration"},
 {ko:"교사", vi:"Giáo viên, Teacher"},
-{ko:"단체", vi:"Tập thể / đoàn thể, Group"}
+{ko:"단체", vi:"Tập thể / đoàn thể, Group"},
 
 {ko:"계시다", vi:"Ở (kính ngữ), Be (honorific)"},
 {ko:"드시다", vi:"Ăn / uống (kính ngữ), Eat / Drink (honorific)"},
@@ -80,7 +80,7 @@ var WORDS = [
 {ko:"주무시다", vi:"Ngủ (kính ngữ), Sleep (honorific)"},
 {ko:"돌아가시다", vi:"Qua đời (kính ngữ), Pass away"},
 {ko:"있으시다", vi:"Có / ở (kính ngữ), Exist (honorific)"},
-{ko:"절하다", vi:"Cúi chào, Bow"}
+{ko:"절하다", vi:"Cúi chào, Bow"},
 
 {ko:"음악", vi:"Âm nhạc, Music"},
 {ko:"윷놀이", vi:"Trò chơi Yut, Yut game"},
@@ -91,7 +91,7 @@ var WORDS = [
 {ko:"죽다", vi:"Chết, Die"},
 {ko:"결혼하다", vi:"Kết hôn, Marry"},
 {ko:"건강하다", vi:"Khỏe mạnh, Healthy"},
-{ko:"기뻐하다", vi:"Vui mừng, Be glad"} 
+{ko:"기뻐하다", vi:"Vui mừng, Be glad"},
 
 
 
