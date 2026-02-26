@@ -1,14 +1,114 @@
 var WORDS = [ 
 
-  
-  
+
+{ko:"가깝다", vi:"Gần, Near"},
+{ko:"갈아타다", vi:"Chuyển xe, Transfer"},
+{ko:"걸리다", vi:"Mất (thời gian), Take (time)"},
+{ko:"교통", vi:"Giao thông, Traffic"},
+{ko:"나가다", vi:"Ra ngoài, Go out"},
+{ko:"내리다", vi:"Xuống, Get off"},
+{ko:"대중교통", vi:"Giao thông công cộng, Public transport"},
+{ko:"목적지", vi:"Điểm đến, Destination"},
+{ko:"방법", vi:"Phương pháp / cách, Method / Way"},
+{ko:"수단", vi:"Phương tiện, Means"},
+{ko:"시간", vi:"Thời gian, Time"},
+{ko:"시내", vi:"Trong thành phố, Downtown"},
+{ko:"시외", vi:"Ngoại ô, Suburbs"},
+{ko:"안내하다", vi:"Hướng dẫn, Guide"},
+{ko:"이용하다", vi:"Sử dụng, Use"},
+{ko:"자가용", vi:"Xe riêng, Private car"},
+{ko:"자전거", vi:"Xe đạp, Bicycle"},
+{ko:"차량", vi:"Phương tiện / xe cộ, Vehicle"},
+{ko:"터미널", vi:"Bến xe, Terminal"},
+{ko:"호선", vi:"Tuyến (tàu điện), Line"},
+{ko:"KTX", vi:"Tàu cao tốc Hàn Quốc, High-speed train"}
+
+{ko:"자리", vi:"Chỗ ngồi / vị trí, Seat / Place"},
+{ko:"지역", vi:"Khu vực, Region"},
+{ko:"지리", vi:"Địa lý, Geography"},
+{ko:"쪽", vi:"Phía, Direction"},
+{ko:"쯤", vi:"Khoảng, About"},
+{ko:"타워", vi:"Tháp, Tower"}
+
+{ko:"강변역", vi:"Ga Gangbyeon, Gangbyeon Station"},
+{ko:"강릉", vi:"Thành phố Gangneung, Gangneung"},
+{ko:"경복궁", vi:"Cung Gyeongbok, Gyeongbokgung Palace"},
+{ko:"남산", vi:"Núi Namsan, Namsan"},
+{ko:"뉴욕", vi:"New York, New York"},
+{ko:"대전", vi:"Thành phố Daejeon, Daejeon"},
+{ko:"대구", vi:"Thành phố Daegu, Daegu"},
+{ko:"서울역", vi:"Ga Seoul, Seoul Station"},
+{ko:"시청", vi:"Tòa thị chính, City Hall"},
+{ko:"잠실", vi:"Khu Jamsil, Jamsil"},
+{ko:"청계천", vi:"Suối Cheonggye, Cheonggyecheon"}
+
+{ko:"노래", vi:"Bài hát, Song"},
+{ko:"다음", vi:"Tiếp theo, Next"},
+{ko:"다행히", vi:"May mắn thay, Fortunately"},
+{ko:"대답하다", vi:"Trả lời, Answer"},
+{ko:"만들다", vi:"Làm / tạo ra, Make"},
+{ko:"모르다", vi:"Không biết, Not know"},
+{ko:"앉다", vi:"Ngồi, Sit"},
+{ko:"어떻게", vi:"Như thế nào, How"},
+{ko:"일어서다", vi:"Đứng lên, Stand up"},
+{ko:"조용히", vi:"Yên lặng, Quietly"},
+{ko:"편하다", vi:"Thoải mái, Comfortable"},
+{ko:"함께", vi:"Cùng nhau, Together"}
+
+{ko:"나", vi:"Tôi, I"},
+{ko:"저희", vi:"Chúng tôi (khiêm nhường), We (humble)"},
+{ko:"남동생", vi:"Em trai, Younger brother"},
+{ko:"고모", vi:"Cô (bên nội), Paternal aunt"},
+{ko:"고모부", vi:"Chồng của cô, Uncle by marriage"},
+{ko:"외할머니", vi:"Bà ngoại, Maternal grandmother"},
+{ko:"부부", vi:"Vợ chồng, Couple"},
+{ko:"선배", vi:"Tiền bối, Senior"},
+{ko:"사장", vi:"Giám đốc / chủ, Boss"},
+{ko:"사원", vi:"Nhân viên, Employee"}
+
+{ko:"대학교", vi:"Đại học, University"},
+{ko:"대학생", vi:"Sinh viên đại học, University student"},
+{ko:"경영학과", vi:"Khoa quản trị kinh doanh, Business administration"},
+{ko:"교사", vi:"Giáo viên, Teacher"},
+{ko:"단체", vi:"Tập thể / đoàn thể, Group"}
+
+{ko:"계시다", vi:"Ở (kính ngữ), Be (honorific)"},
+{ko:"드시다", vi:"Ăn / uống (kính ngữ), Eat / Drink (honorific)"},
+{ko:"말씀", vi:"Lời nói (kính ngữ), Words (honorific)"},
+{ko:"생신", vi:"Sinh nhật (kính ngữ), Birthday (honorific)"},
+{ko:"연세", vi:"Tuổi (kính ngữ), Age (honorific)"},
+{ko:"주무시다", vi:"Ngủ (kính ngữ), Sleep (honorific)"},
+{ko:"돌아가시다", vi:"Qua đời (kính ngữ), Pass away"},
+{ko:"있으시다", vi:"Có / ở (kính ngữ), Exist (honorific)"},
+{ko:"절하다", vi:"Cúi chào, Bow"}
+
+{ko:"음악", vi:"Âm nhạc, Music"},
+{ko:"윷놀이", vi:"Trò chơi Yut, Yut game"},
+{ko:"모양", vi:"Hình dạng, Shape"},
+{ko:"변하다", vi:"Thay đổi, Change"},
+{ko:"언제나", vi:"Luôn luôn, Always"},
+{ko:"작년", vi:"Năm ngoái, Last year"},
+{ko:"죽다", vi:"Chết, Die"},
+{ko:"결혼하다", vi:"Kết hôn, Marry"},
+{ko:"건강하다", vi:"Khỏe mạnh, Healthy"},
+{ko:"기뻐하다", vi:"Vui mừng, Be glad"} 
+
+
+
+
+
+
+
+
+
+
 {ko:"화가", vi:"Họa sĩ, Painter"},  
 {ko:"곱다", vi:"Đẹp, mịn, dịu (màu sắc, da), Beautiful / Fine"},
 {ko:"고맙다", vi:"Biết ơn / cảm ơn, Thankful"},
 {ko:"반갑다", vi:"Vui mừng khi gặp, Glad / Nice to meet"}, 
 {ko:"사용하다", vi:"Sử dụng, Use"},
 {ko:"이용하다", vi:"Sử dụng (dịch vụ, phương tiện), Utilize"},
-{ko:"나열하다", vi:"Liệt kê, List / Enumerate"},
+{ko:"나열/나열하다", vi:"Liệt kê, List / Enumerate"},
 {ko:"서비스", vi:"Dịch vụ, Service"},
 {ko:"문제", vi:"Vấn đề / câu hỏi, Problem / Question"},
 {ko:"순차", vi:"Thứ tự / trình tự, Sequence"},
@@ -36,7 +136,7 @@ var WORDS = [
 {ko:"왜", vi:"Why"},
 {ko:"내무반", vi:"Phòng sinh hoạt bộ đội, Barracks room"},
 {ko:"소대원", vi:"Thành viên trung đội, Platoon member"},
-{ko:"지휘 본부", vi:"Bộ chỉ huy, Command headquarters"},
+{ko:"지휘 본부/사령부", vi:"Bộ chỉ huy/ Bộ tư lệnh, Command headquarters"},
 {ko:"검도", vi:"Kiếm đạo (Kendo), Kendo"},
 {ko:"도장", vi:"Võ đường / con dấu, Dojo / Seal"},
 {ko:"야구", vi:"Bóng chày, Baseball"},
@@ -167,7 +267,6 @@ var WORDS = [
 {ko:"일찍", vi:"Sớm, Early"},
 {ko:"쯤", vi:"Khoảng chừng, About / Around"},
 {ko:"초등", vi:"Tiểu học (viết tắt), Elementary"},
-{ko:"고등", vi:"Trung học phổ thông (viết tắt), High school"},
 {ko:"지난", vi:"Đã qua / trước, Last / Past"},
 {ko:"참", vi:"Thật là / đúng là, Really"},
 {ko:"출발하다", vi:"Khởi hành, Depart"},
@@ -357,7 +456,7 @@ var WORDS = [
 {ko:"박수", vi:"Vỗ tay, Applause, 박수를 치다 → vỗ tay. 박수를 받다 → được vỗ tay (được hoan nghênh). 박수를 보내다 → gửi tràng pháo tay"},
 {ko:"물품/물건", vi:"Vật phẩm / hàng hóa 물품(trang trọng), 물건(đời thường), Goods"},
 {ko:"아까", vi:"Lúc nãy, A while ago"}, 
-{ko:"정답", vi:"Đáp án đúng, Correct answer"},
+{ko:"정답/오답", vi:"Đáp án đúng, Correct answer/ Đáp án sai"},
 {ko:"예문", vi:"Câu ví dụ, Example sentence"},
 {ko:"의미", vi:"Ý nghĩa, Meaning"}, 
 {ko:"그러면", vi:"Vậy thì / nếu vậy thì, Then"},
@@ -374,7 +473,6 @@ var WORDS = [
 {ko:"군구", vi:"Quân khu, Military district"},
 {ko:"군", vi:"Quân đội, Military"},
 {ko:"국방부", vi:"Bộ Quốc phòng, Ministry of National Defense"},
-{ko:"사령부", vi:"Bộ tư lệnh, Command headquarters"},
 {ko:"계급", vi:"Cấp bậc, Rank"},
 {ko:"군종", vi:"Quân chủng, Military branch"},
 {ko:"장교", vi:"Sĩ quan, Officer"},
@@ -773,8 +871,7 @@ var WORDS = [
 {ko:"교재", vi:"Giáo trình, Textbook"},
 {ko:"본문", vi:"Nội dung chính (bài đọc), Main text"},
 {ko:"글", vi:"Bài viết / văn bản, Text"},
-{ko:"구성", vi:"Cấu trúc, Structure"},
-{ko:"구성하다", vi:"Cấu thành / sắp xếp, Organize"},
+{ko:"구성/구성하다", vi:"Cấu trúc, Structure/ Cấu thành, sắp xếp, Organize"},
 {ko:"소개", vi:"Giới thiệu, Introduction"},
 {ko:"숙제", vi:"Bài tập về nhà, Homework"},
 {ko:"연습", vi:"Luyện tập, Practice"},
@@ -887,8 +984,6 @@ var WORDS = [
 {ko:"화장하다", vi:"Trang điểm, Put on makeup"},
 {ko:"옷을 입다", vi:"Mặc quần áo, Get dressed"},
 {ko:"옷을 벗다", vi:"Cởi quần áo, Take off clothes"},
-{ko:"집에 가다", vi:"Về nhà, Go home"},
-{ko:"집에 오다", vi:"Đến nhà, Come home"},
 {ko:"고장나다", vi:"Bị hỏng, Break down"},
 {ko:"끄다", vi:"Tắt, Turn off"},
 {ko:"켜다", vi:"Bật, Turn on"},
