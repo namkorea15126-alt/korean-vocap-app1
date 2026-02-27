@@ -22,7 +22,7 @@ var WORDS = [
 {ko:"자리", vi:"Chỗ ngồi / vị trí, Seat / Place"},
 {ko:"지역", vi:"Khu vực, Region"},
 {ko:"지리", vi:"Địa lý, Geography"},
-{ko:"쪽", vi:"Phía, Direction"},
+{ko:"쪽", vi:"Phía, hướng, trang, ..."},
 {ko:"타워", vi:"Tháp, Tower"},
 {ko:"경복궁", vi:"Cung Gyeongbok, Gyeongbokgung Palace"},
 {ko:"남산", vi:"Núi Namsan, Namsan"},
