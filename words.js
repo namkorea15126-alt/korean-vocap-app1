@@ -65,7 +65,7 @@ var WORDS = [
 {ko:"외할머니", vi:"Bà ngoại, Maternal grandmother"},
 {ko:"부부", vi:"Vợ chồng, Couple"},
 {ko:"선배", vi:"Tiền bối, Senior"},
-{ko:"사장/ 사장", vi:"Giám đốc / chủ, Boss"},
+{ko:"사장/ 사장님", vi:"Giám đốc / chủ, Boss"},
 {ko:"사원", vi:"Nhân viên, Employee"},
 {ko:"대학생", vi:"Sinh viên đại học, University student"},
 {ko:"경영학과", vi:"Khoa quản trị kinh doanh, Business administration"},
