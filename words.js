@@ -4,7 +4,7 @@ var WORDS = [
 {ko:"개월", vi:"Tháng (đơn vị đếm), Month (counter)"},
 {ko:"경영", vi:"Quản lý / kinh doanh, Management"},
 {ko:"퇴직하다", vi:"Nghỉ hưu / thôi việc, Retire"},
-{ko:"퇴임하다", vi:"Từ chức (chức vụ cao), Step down"},
+{ko:"퇴임하다", vi:"Mãn nhiệm, Từ chức (chức vụ cao), Step down"},
 {ko:"이시다", vi:"Là (kính ngữ của ‘이다’), Be (honorific)"},
 {ko:"형제", vi:"Anh em, Siblings"},
 {ko:"가족/ 가정", vi:"Gia đình/ Gia đình nhỏ, , Family"},
