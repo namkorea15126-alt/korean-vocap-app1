@@ -80,7 +80,6 @@ var WORDS = [
 {ko:"있으시다", vi:"Có / ở (kính ngữ), Exist (honorific)"},
 {ko:"절하다", vi:"Cúi chào, Bow"},
 {ko:"음악", vi:"Âm nhạc, Music"},
-{ko:"윷놀이", vi:"Trò chơi Yut, Yut game"},
 {ko:"모양", vi:"Hình dạng, Shape"},
 {ko:"변하다", vi:"Thay đổi, Change"},
 {ko:"언제나", vi:"Luôn luôn, Always"},
