@@ -1,5 +1,35 @@
 var WORDS = [ 
+{ko:"거짓", vi:"Giả dối / sai sự thật, False"},
+{ko:"거짓말/ 거짓말하다", vi:"Nói dối, Lie/ To lie"}
+{ko:"슬프다", vi:"Buồn, Sad"},
+{ko:"데이트/ 데이트하다", vi:"Hẹn hò, Date/ To date"}
 
+{ko:"나가다", vi:"Ra ngoài, Go out"},
+{ko:"출타", vi:"Ra ngoài có phép, Authorized leave"},
+{ko:"외출", vi:"Ra ngoài (có phép), Going out"},
+{ko:"자유 시간", vi:"Thời gian tự do, Free time"},
+{ko:"독서/ 독서하다", vi:"Đọc sách, Reading"},
+{ko:"기차/ 기차역", vi:"Train/ Ga tàu hỏa, Train station"},
+{ko:"금방", vi:"Ngay / chẳng mấy chốc, Soon / Quickly"}
+
+{ko:"시설", vi:"Cơ sở vật chất, Facility"},
+{ko:"설비", vi:"Trang thiết bị, Equipment"},
+{ko:"이미지", vi:"Hình ảnh / hình tượng, Image"}
+
+{ko:"수량", vi:"Số lượng, Quantity"}
+{ko:"자신", vi:"Bản thân / sự tự tin, Oneself / Confidence"},
+{ko:"만", vi:"10 nghìn/ 1 vạn/ Chỉ/ Nhưng"},
+{ko:"실력", vi:"Năng lực / trình độ, Ability / Skill"},
+{ko:"늘다", vi:"Tiến bộ / tăng lên, Improve / Increase"}
+
+{ko:"구조", vi:"Cấu trúc, Structure"},
+{ko:"음절", vi:"Âm tiết, Syllable"},
+{ko:"격식", vi:"Sự trang trọng, Formality"},
+{ko:"격식체", vi:"Thể trang trọng, Formal speech style"},
+{ko:"비격식체", vi:"Thể không trang trọng, Informal speech style"},
+{ko:"내용", vi:"Nội dung, Content"},
+{ko:"기타", vi:"Khác / vân vân, Etcetera"}
+  
 {ko:"잠자다", vi:"Sleep"},  
 {ko:"자다/ 주무시다", vi:"Sleep (thường – kính ngữ)"},  
 {ko:"취침/ 취침하다", vi:"Đi ngủ, Bedtime/Go to bed"}, 
@@ -29,7 +59,6 @@ var WORDS = [
 {ko:"가깝다", vi:"Gần, Near"},
 {ko:"걸리다", vi:"Mất (thời gian), Take (time)"},
 {ko:"교통", vi:"Giao thông, Traffic"},
-{ko:"나가다", vi:"Ra ngoài, Go out"},
 {ko:"대중교통", vi:"Giao thông công cộng, Public transport"},
 {ko:"목적지/행선지", vi:"Điểm đến, Destination"},
 {ko:"방법", vi:"Phương pháp / cách, Method / Way"},
@@ -117,7 +146,6 @@ var WORDS = [
 {ko:"야구", vi:"Bóng chày, Baseball"},
 {ko:"태권도", vi:"Taekwondo, Taekwondo"},
 {ko:"기숙사", vi:"Ký túc xá, Dormitory"},
-{ko:"기차", vi:"Train"},
 {ko:"비행기", vi:"Airplane"},
 {ko:"주스", vi:"Juice"},
 {ko:"표", vi:"Ticket"},
@@ -246,7 +274,6 @@ var WORDS = [
 {ko:"후예", vi:"Hậu duệ, Descendant"},
 {ko:"출근/ 출근하다", vi:"Đi làm, Commute, Go to work"},
 {ko:"퇴근/ 퇴근하다", vi:"Tan làm, Leave work, Get off work"},
-{ko:"독서", vi:"Đọc sách, Reading"},
 {ko:"기념", vi:"Kỷ niệm, Commemoration"},
 {ko:"기념하다", vi:"Kỷ niệm, Commemorate"},
 {ko:"첫", vi:"Đầu tiên, First"},
@@ -285,7 +312,6 @@ var WORDS = [
 {ko:"쇼핑센터", vi:"Trung tâm mua sắm, Shopping center"},
 {ko:"스키", vi:"Trượt tuyết, Ski"},
 {ko:"스키장", vi:"Khu trượt tuyết, Ski resort"},
-{ko:"슬프다", vi:"Buồn, Sad"},
 {ko:"죽다", vi:"Chết, Die"},
 {ko:"아프다", vi:"Đau / bị bệnh, Sick"},
 {ko:"역", vi:"Nhà ga, Station"},
@@ -452,7 +478,6 @@ var WORDS = [
 {ko:"명령", vi:"Mệnh lệnh, Order"},
 {ko:"경례", vi:"Chào (quân đội), Salute"},
 {ko:"경례 구호", vi:"Khẩu lệnh chào, Salute command"},
-{ko:"출타", vi:"Ra ngoài có phép, Authorized leave"},
 {ko:"숙소", vi:"Nơi ở, Barracks"},
 {ko:"군용품", vi:"Trang bị quân dụng, Military equipment"},
 {ko:"군복", vi:"Quân phục, Military uniform"},
@@ -773,7 +798,6 @@ var WORDS = [
 {ko:"요가", vi:"Yoga, Yoga"},
 {ko:"게임하다", vi:"Chơi game, Play games"},
 {ko:"영화보다", vi:"Xem phim, Watch a movie"},
-{ko:"독서하다", vi:"Đọc sách, Read books"},
 {ko:"사진 찍다", vi:"Chụp ảnh, Take photos"},
   /* Học tập & Ngôn ngữ */
 {ko:"복습", vi:"Ôn tập, Review"},
