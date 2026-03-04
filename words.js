@@ -758,7 +758,7 @@ var WORDS = [
 {ko:"흰색", vi:"Màu trắng, White color"},
 {ko:"검은색/검정색", vi:"Màu đen, Black color"},
 {ko:"빨간색", vi:"Màu đỏ, Red color"},
-{ko:"파란색", vi:"Màu xanh dương, Blue color"},
+{ko:"파란색", vi:"Màu xanh dương (xanh nước biển), Blue color"},
 {ko:"노란색", vi:"Màu vàng, Yellow color"},
 {ko:"초록색", vi:"Màu xanh lá, Green color"},
 {ko:"주황색", vi:"Màu cam, Orange color"},
