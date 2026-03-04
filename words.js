@@ -1,8 +1,8 @@
 var WORDS = [ 
 {ko:"거짓", vi:"Giả dối / sai sự thật, False"},
-{ko:"거짓말/ 거짓말하다", vi:"Nói dối, Lie/ To lie"}
+{ko:"거짓말/ 거짓말하다", vi:"Nói dối, Lie/ To lie"},
 {ko:"슬프다", vi:"Buồn, Sad"},
-{ko:"데이트/ 데이트하다", vi:"Hẹn hò, Date/ To date"}
+{ko:"데이트/ 데이트하다", vi:"Hẹn hò, Date/ To date"},
 
 {ko:"나가다", vi:"Ra ngoài, Go out"},
 {ko:"출타", vi:"Ra ngoài có phép, Authorized leave"},
@@ -10,17 +10,17 @@ var WORDS = [
 {ko:"자유 시간", vi:"Thời gian tự do, Free time"},
 {ko:"독서/ 독서하다", vi:"Đọc sách, Reading"},
 {ko:"기차/ 기차역", vi:"Train/ Ga tàu hỏa, Train station"},
-{ko:"금방", vi:"Ngay / chẳng mấy chốc, Soon / Quickly"}
+{ko:"금방", vi:"Ngay / chẳng mấy chốc, Soon / Quickly"},
 
 {ko:"시설", vi:"Cơ sở vật chất, Facility"},
 {ko:"설비", vi:"Trang thiết bị, Equipment"},
-{ko:"이미지", vi:"Hình ảnh / hình tượng, Image"}
+{ko:"이미지", vi:"Hình ảnh / hình tượng, Image"},
 
-{ko:"수량", vi:"Số lượng, Quantity"}
+{ko:"수량", vi:"Số lượng, Quantity"},
 {ko:"자신", vi:"Bản thân / sự tự tin, Oneself / Confidence"},
 {ko:"만", vi:"10 nghìn/ 1 vạn/ Chỉ/ Nhưng"},
 {ko:"실력", vi:"Năng lực / trình độ, Ability / Skill"},
-{ko:"늘다", vi:"Tiến bộ / tăng lên, Improve / Increase"}
+{ko:"늘다", vi:"Tiến bộ / tăng lên, Improve / Increase"},
 
 {ko:"구조", vi:"Cấu trúc, Structure"},
 {ko:"음절", vi:"Âm tiết, Syllable"},
@@ -28,7 +28,7 @@ var WORDS = [
 {ko:"격식체", vi:"Thể trang trọng, Formal speech style"},
 {ko:"비격식체", vi:"Thể không trang trọng, Informal speech style"},
 {ko:"내용", vi:"Nội dung, Content"},
-{ko:"기타", vi:"Khác / vân vân, Etcetera"}
+{ko:"기타", vi:"Khác / vân vân, Etcetera"},
   
 {ko:"잠자다", vi:"Sleep"},  
 {ko:"자다/ 주무시다", vi:"Sleep (thường – kính ngữ)"},  
