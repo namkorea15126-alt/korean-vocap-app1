@@ -67,7 +67,7 @@ var WORDS = [
 {ko:"도와드리다", vi:"Giúp (kính ngữ), Help (honorific)"},
 {ko:"돌아오다", vi:"Trở về, Return / Come back"},
 {ko:"무엇을 도와드릴까요?", vi:"Tôi có thể giúp gì cho bạn?, How may I help you?"},
-{ko:"바꾸다", vi:"Thay đổi / đổi, Change / Exchange"}  
+{ko:"바꾸다", vi:"Thay đổi / đổi, Change / Exchange"},
 {ko:"거짓", vi:"Giả dối / sai sự thật, False"},
 {ko:"거짓말/ 거짓말하다", vi:"Nói dối, Lie/ To lie"},
 {ko:"슬프다", vi:"Buồn, Sad"},
