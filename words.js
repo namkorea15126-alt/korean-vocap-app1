@@ -708,7 +708,7 @@ var WORDS = [
 {ko:"반찬", vi:"Món ăn kèm, Side dish"},
 {ko:"삼계탕", vi:"Canh gà hầm sâm, Ginseng chicken soup"},
 {ko:"고기", vi:"Thịt, Meat"},
-{ko:"생선/ 물고기/ 회", vi:"Cá (món ăn)/ Cá sống (không ăn)/ Cá sống (ẩm thực Hàn), Sashimi"}"},
+{ko:"생선/ 물고기/ 회", vi:"Cá (món ăn)/ Cá sống (không ăn)/ Cá sống (ẩm thực Hàn), Sashimi"},
 {ko:"굴", vi:"Hàu, Oyster"},
 {ko:"민물고기", vi:"Cá nước ngọt/ Freshwater fish"},
 {ko:"고등어", vi:"Cá thu, Mackerel"},
@@ -1111,5 +1111,4 @@ var WORDS = [
 {ko:"심장", vi:"Tim, Heart"},
 {ko:"폐", vi:"Phổi, Lung"},
 {ko:"위", vi:"Dạ dày, Stomach"} 
-  
 ];
