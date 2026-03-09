@@ -1,6 +1,23 @@
 var WORDS = [ 
-
-  
+{ko:"보험", vi:"Bảo hiểm, Insurance"},
+{ko:"액션 영화", vi:"Phim hành động, Action movie"},
+{ko:"멜로 영화", vi:"Phim tình cảm, Romance / Melodrama movie"},
+{ko:"코미디 영화", vi:"Phim hài, Comedy movie"},
+{ko:"공포 영화", vi:"Phim kinh dị, Horror movie"},
+{ko:"SF 영화", vi:"Phim khoa học viễn tưởng, Science fiction movie"},
+{ko:"음악", vi:"Âm nhạc, Music"},
+{ko:"반대", vi:"Sự phản đối / đối lập, Opposition"},
+{ko:"반대쪽", vi:"Phía đối diện, Opposite side"},
+{ko:"반대말", vi:"Từ trái nghĩa, Antonym"},
+{ko:"반대하다", vi:"Phản đối, Oppose"},
+{ko:"급", vi:"Cấp / hạng, Level / Grade"},
+{ko:"더럽다", vi:"Bẩn, Dirty"},
+{ko:"따르다", vi:"Theo / làm theo / rót (đồ uống), Follow / Pour"},
+{ko:"늙다", vi:"Già đi, Become old"},
+{ko:"노인", vi:"Người già, Elderly person"},
+{ko:"젊다", vi:"Trẻ / trẻ trung, Young"},
+{ko:"냄새", vi:"Mùi, Smell / Odor"},
+{ko:"맛", vi:"Vị / hương vị, Taste / Flavor"}
 {ko:"가져가다", vi:"Mang đi, Take away"},
 {ko:"계절", vi:"Mùa, Season"},
 {ko:"고르다", vi:"Chọn, Choose / Select"},
@@ -21,12 +38,8 @@ var WORDS = [
 {ko:"모르다", vi:"Không biết, Not know"},
 {ko:"문제", vi:"Vấn đề / câu hỏi, Problem / Question"},
 {ko:"미안하다", vi:"Xin lỗi, Sorry"},
-
-  
 {ko:"부치다", vi:"Gửi (bưu phẩm), Send / Mail"},
-
-  
-{ko:"비자", vi:"Visa, Visa"},
+{ko:"비자", vi:"Visa"},
 {ko:"사계절", vi:"Bốn mùa, Four seasons"},
 {ko:"소포", vi:"Bưu kiện, Parcel"},
 {ko:"소풍", vi:"Dã ngoại / picnic, Picnic"},
