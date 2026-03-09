@@ -1,5 +1,5 @@
 var WORDS = [ 
-{ko:"비슷하다", vi:"Giống / tương tự, Similar / Alike"},
+{ko:"비슷하다", vi:"Giống, tương tự, Similar"},
 {ko:"보험", vi:"Bảo hiểm, Insurance"},
 {ko:"액션 영화", vi:"Phim hành động, Action movie"},
 {ko:"멜로 영화", vi:"Phim tình cảm, Romance / Melodrama movie"},
@@ -72,7 +72,7 @@ var WORDS = [
 {ko:"흐리다", vi:"U ám / nhiều mây, Cloudy"},
 {ko:"지휘관", vi:"Chỉ huy, Commander"},
 {ko:"감기에 걸리다", vi:"Bị cảm lạnh, Catch a cold"},
-{ko:"같다", vi:"Giống / có vẻ, Same / Seem"},
+{ko:"같다", vi:"Giống y chang, Same"},
 {ko:"교회", vi:"Nhà thờ, Church"},
 {ko:"구이", vi:"Món nướng, Grilled dish"},
 {ko:"기다리다", vi:"Wait"},
@@ -185,7 +185,6 @@ var WORDS = [
 {ko:"생신", vi:"Sinh nhật (kính ngữ), Birthday (honorific)"},
 {ko:"돌아가시다", vi:"Qua đời (kính ngữ), Pass away"},
 {ko:"절하다", vi:"Cúi chào, Bow"},
-{ko:"음악", vi:"Âm nhạc, Music"},
 {ko:"모양", vi:"Hình dạng, Shape"},
 {ko:"변하다", vi:"Thay đổi, Change"},
 {ko:"언제나", vi:"Luôn luôn, Always"},
