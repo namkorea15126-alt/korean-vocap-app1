@@ -1,4 +1,5 @@
 var WORDS = [ 
+{ko:"비슷하다", vi:"Giống / tương tự, Similar / Alike"},
 {ko:"보험", vi:"Bảo hiểm, Insurance"},
 {ko:"액션 영화", vi:"Phim hành động, Action movie"},
 {ko:"멜로 영화", vi:"Phim tình cảm, Romance / Melodrama movie"},
@@ -17,7 +18,7 @@ var WORDS = [
 {ko:"노인", vi:"Người già, Elderly person"},
 {ko:"젊다", vi:"Trẻ / trẻ trung, Young"},
 {ko:"냄새", vi:"Mùi, Smell / Odor"},
-{ko:"맛", vi:"Vị / hương vị, Taste / Flavor"}
+{ko:"맛", vi:"Vị / hương vị, Taste / Flavor"},
 {ko:"가져가다", vi:"Mang đi, Take away"},
 {ko:"계절", vi:"Mùa, Season"},
 {ko:"고르다", vi:"Chọn, Choose / Select"},
