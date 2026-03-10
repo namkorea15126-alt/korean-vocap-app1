@@ -65,7 +65,7 @@ var WORDS = [
 {ko:"위험", vi:"Nguy hiểm, Danger"},
 {ko:"위험하다", vi:"Nguy hiểm, Dangerous"},
 {ko:"더위", vi:"Nóng bức, Heat"},
-{ko:"찜통 더위", vi:"Nóng như lò hấp, Sweltering heat"}  
+{ko:"찜통 더위", vi:"Nóng như lò hấp, Sweltering heat"},  
 {ko:"여보", vi:"Anh / em (gọi vợ/chồng), Honey / Dear"},
 {ko:"실례", vi:"Xin lỗi / thất lễ, Excuse me / Rudeness"},
 {ko:"싸우다", vi:"Cãi nhau / đánh nhau, Fight / Argue"},
