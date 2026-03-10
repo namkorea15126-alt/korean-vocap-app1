@@ -531,7 +531,6 @@ var WORDS = [
 {ko:"치과", vi:"Nha khoa, Dental clinic"},
 {ko:"일기", vi:"Nhật ký/ Thời tiết, Diary/ Weather"},
 {ko:"쯤", vi:"Khoảng chừng, About / Around"},
-{ko:"초등", vi:"Tiểu học (viết tắt), Elementary"},
 {ko:"지난", vi:"Đã qua / trước, Last / Past"},
 {ko:"해변", vi:"Bãi biển, Beach"},
 {ko:"해외", vi:"Nước ngoài, Overseas"},
