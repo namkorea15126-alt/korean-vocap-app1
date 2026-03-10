@@ -53,21 +53,16 @@ var WORDS = [
 {ko:"보초", vi:"Lính gác, Sentry"},
 {ko:"내무반", vi:"Phòng ngủ lính, Barracks room"},
 {ko:"생활관", vi:"Khu sinh hoạt, Living quarters"},
-
 {ko:"식사", vi:"Bữa ăn, Meal"},
 {ko:"식사하다", vi:"Have a meal"},
 {ko:"식당", vi:"Nhà ăn, Mess hall"},
 {ko:"취침", vi:"Đi ngủ, Lights out"},
 {ko:"취침하다", vi:"Đi ngủ, Bedtime/Go to bed"}, 
 {ko:"기상", vi:"Thức dậy, Wake up"},
-
 {ko:"휴가", vi:"Nghỉ phép, Leave vacation"},
 {ko:"복귀", vi:"Trở lại đơn vị, Return"},
 {ko:"교육생", vi:"Học viên, Trainee"},
 {ko:"교관", vi:"Huấn luyện viên, Instructor"},
-
-
-
 {ko:"총", vi:"Súng, Gun"},
 {ko:"권총", vi:"Súng ngắn, Pistol"},
 {ko:"소총", vi:"Súng trường, Rifle"},
@@ -75,12 +70,10 @@ var WORDS = [
 {ko:"저격총", vi:"Súng bắn tỉa, Sniper rifle"},
 {ko:"탄약", vi:"Đạn dược, Ammunition"},
 {ko:"총알", vi:"Viên đạn, Bullet"},
-
 {ko:"수류탄", vi:"Lựu đạn, Grenade"},
 {ko:"지뢰", vi:"Mìn, Landmine"},
 {ko:"대인지뢰", vi:"Mìn chống bộ binh, Anti-personnel mine"},
 {ko:"대전차지뢰", vi:"Mìn chống tăng, Anti-tank mine"},
-
 {ko:"대포", vi:"Đại bác, Cannon"},
 {ko:"포탄", vi:"Đạn pháo, Shell"},
 {ko:"미사일", vi:"Tên lửa, Missile"},
@@ -98,7 +91,6 @@ var WORDS = [
 {ko:"장갑차", vi:"Xe bọc thép, Armored vehicle"},
 {ko:"군함", vi:"Tàu chiến, Warship"},
 {ko:"잠수함", vi:"Tàu ngầm, Submarine"},
-
 {ko:"항공모함", vi:"Tàu sân bay, Aircraft carrier"},
 {ko:"레이더", vi:"Radar, Radar"},
 {ko:"드론", vi:"Máy bay không người lái, Drone"},
@@ -109,11 +101,7 @@ var WORDS = [
 {ko:"작전하다", vi:"Thực hiện chiến dịch, Carry out an operation"},
 {ko:"작전을 세우다", vi:"Lập kế hoạch / chiến dịch, Make a plan"},
 {ko:"작전", vi:"Chiến dịch / kế hoạch tác chiến / kế hoạch hành động, Operation / Military operation"},  
-
-{ko:"수류탄", vi:"Lựu đạn, Hand grenade"},
 {ko:"크레모아", vi:"Mìn Claymore, Claymore mine"},
-{ko:"포탄", vi:"Đạn pháo, Artillery shell"},
-
 {ko:"기뢰", vi:"Thủy lôi (mìn biển), Naval mine"},
 {ko:"어뢰", vi:"Ngư lôi, Torpedo"},
 {ko:"핵", vi:"Hạt nhân / hạt nhân nguyên tử, Nuclear"},
@@ -545,7 +533,6 @@ var WORDS = [
 {ko:"쯤", vi:"Khoảng chừng, About / Around"},
 {ko:"초등", vi:"Tiểu học (viết tắt), Elementary"},
 {ko:"지난", vi:"Đã qua / trước, Last / Past"},
-{ko:"참", vi:"Thật là / đúng là, Really"},
 {ko:"해변", vi:"Bãi biển, Beach"},
 {ko:"해외", vi:"Nước ngoài, Overseas"},
 {ko:"수도", vi:"Thủ đô, Capital city"},
@@ -663,7 +650,7 @@ var WORDS = [
 {ko:"원장", vi:"Viện trưởng / hiệu trưởng (học viện), Director"},
 {ko:"중요하다", vi:"Quan trọng, Important"},
 {ko:"행사/ 행사하다", vi:"Sự kiện, Event/Tổ chức sự kiện, Hold an event"},
-{ko:"훈련/ 훈련하다", vi:"Training/ To train"},
+{ko:"훈련하다", vi:"To train"},
 {ko:"위병/ 위병소", vi:"Lính gác, Guard/Trạm gác, Guard post"},
 {ko:"주변", vi:"Xung quanh, Surroundings"},
 {ko:"출구/ 입구/ 출입구", vi:" Lối ra, Exit/ Lối vào, Entrance/ Lối ra vào, Entrance/Exit"},
