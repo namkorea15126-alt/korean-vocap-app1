@@ -1178,7 +1178,7 @@ var WORDS = [
 {ko:"허리", vi:"Eo / lưng dưới, Waist"},
 {ko:"등", vi:"Lưng, Back"},
 {ko:"엉덩이", vi:"Mông, Buttocks"},
-{ko:"다리", vi:"Chân, Leg"},
+{ko:"다리", vi:"Chân/ Cầu, Leg/ Bridge"},
 {ko:"허벅지", vi:"Đùi, Thigh"},
 {ko:"무릎", vi:"Đầu gối, Knee"},
 {ko:"종아리", vi:"Bắp chân, Calf"},
