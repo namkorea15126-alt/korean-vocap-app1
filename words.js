@@ -45,7 +45,6 @@ var WORDS = [
 {ko:"군함", vi:"Tàu chiến, Warship"},
 {ko:"잠수함", vi:"Tàu ngầm, Submarine"},
 {ko:"항공모함", vi:"Tàu sân bay, Aircraft carrier"},
-{ko:"레이더", vi:"Radar, Radar"},
 {ko:"드론", vi:"Máy bay không người lái, Drone"},
 {ko:"비밀", vi:"Bí mật, Secret"},  
 {ko:"기뢰", vi:"Thủy lôi (mìn biển), Naval mine"},
