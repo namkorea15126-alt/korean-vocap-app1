@@ -4,7 +4,7 @@ var WORDS = [
 
 {ko:"절대", vi:"Tuyệt đối / hoàn toàn không, Absolutely / Never"},
 {ko:"외우다", vi:"Học thuộc / ghi nhớ (thuộc lòng), Memorize"},
-{ko:"기억하다", vi:"Nhớ / ghi nhớ, Remember"}
+{ko:"기억하다", vi:"Nhớ / ghi nhớ, Remember"},
 {ko:"독학", vi:"Tự học, Self-study"},
 {ko:"독학하다", vi:"Tự học, Study by oneself"},
 {ko:"대단", vi:"Sự tuyệt vời / ghê gớm, Greatness"},
@@ -30,7 +30,7 @@ var WORDS = [
 {ko:"어린이집", vi:"Nhà trẻ, Daycare center"},
 {ko:"건기", vi:"Mùa khô, Dry season"},
 {ko:"우기", vi:"Mùa mưa, Rainy season"},
-{ko:"인삼", vi:"Nhân sâm, Ginseng"}
+{ko:"인삼", vi:"Nhân sâm, Ginseng"},
 {ko:"전투", vi:"Trận chiến, Battle"},
 {ko:"공격", vi:"Tấn công, Attack"},
 {ko:"방어", vi:"Phòng thủ, Defense"},
