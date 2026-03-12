@@ -223,8 +223,6 @@ var WORDS = [
 {ko:"습기", vi:"Độ ẩm, Humidity"},
 {ko:"시원하다", vi:"Mát mẻ / sảng khoái, Cool / Refreshing"},
 {ko:"싱싱하다", vi:"Tươi, Fresh"},
-{ko:"야외", vi:"Ngoài trời, Outdoors"},
-{ko:"야유회", vi:"Buổi dã ngoại / outing, Outing"},
 {ko:"우의", vi:"Áo mưa, Raincoat"},
 {ko:"이유", vi:"Lý do, Reason"},
 {ko:"일기예보", vi:"Dự báo thời tiết, Weather forecast"},
