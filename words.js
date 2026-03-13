@@ -36,7 +36,7 @@ var WORDS = [
 {ko:"가져가다", vi:"Mang đi, Take away"},
 {ko:"지내다", vi:"Trải qua / sống / ở, Spend time / Get along"},
 {ko:"별일", vi:"Chuyện đặc biệt / chuyện gì, Something unusual"},
-{ko:"그동안", vi:"Trong thời gian qua, Meanwhile / During that time"}
+{ko:"그동안", vi:"Trong thời gian qua, Meanwhile / During that time"},
 
 {ko:"절대", vi:"Tuyệt đối / hoàn toàn không, Absolutely / Never"},
 {ko:"외우다", vi:"Học thuộc / ghi nhớ (thuộc lòng), Memorize"},
