@@ -719,7 +719,7 @@ var WORDS = [
 {ko:"운전사", vi:"Tài xế, Driver"},
 {ko:"조종사", vi:"Phi công, Pilot"},
 {ko:"기술자", vi:"Kỹ thuật viên, Technician"},
-{ko:"회사원", vi:"Nhân viên công ty, Office worker"},
+{ko:"회사원", vi:"Nhân viên công ty, thánh đường"},
 {ko:"주부", vi:"Nội trợ, Housewife"},
 {ko:"관리자", vi:"Quản lý, Manager"},
 {ko:"주무관님", vi:"Quản lý chính"},
