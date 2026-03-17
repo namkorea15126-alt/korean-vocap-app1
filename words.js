@@ -45,7 +45,7 @@ var WORDS = [
 {ko:"높임말", vi:"Kính ngữ, Honorific language"},
 {ko:"스타디움", vi:"Sân vận động, Stadium"},
 {ko:"매치", vi:"Trận đấu, Match"},
-{ko:"무료로", vi:"Miễn phí, For free"}
+{ko:"무료로", vi:"Miễn phí, For free"},
 
 
 
