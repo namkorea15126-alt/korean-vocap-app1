@@ -378,7 +378,7 @@ var WORDS = [
 {ko:"퇴임하다", vi:"Mãn nhiệm, Từ chức (chức vụ cao), Step down"},
 {ko:"이시다", vi:"Là (kính ngữ của ‘이다’), Be (honorific)"},
 {ko:"형제", vi:"Anh em, Siblings"},
-{ko:"가족/ 가정", vi:"Gia đình/ Gia đình nhỏ, , Family"},
+{ko:"가족", vi:"Gia đình, Family"},
 {ko:"갈아타다/ 환승/ 환승하다", vi:"Chuyển tuyến / đổi xe, Transfer"},
 {ko:"호선", vi:"Tuyến (tàu điện), Line"},
 {ko:"다르다", vi:"Different"},
