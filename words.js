@@ -12,8 +12,6 @@ var WORDS = [
 {ko:"날씬하다", vi:"Gầy / thon, Slim"},
 {ko:"뚱뚱하다", vi:"Béo, Fat"},
 {ko:"기린", vi:"Hươu cao cổ, Giraffe"},
-{ko:"강", vi:"Sông, River"},
-{ko:"바다", vi:"Biển, Sea"},
 {ko:"거실", vi:"Phòng khách, Living room"},
 {ko:"제일", vi:"Nhất, The most"},
 {ko:"올라가다", vi:"Đi lên, Go up"},
