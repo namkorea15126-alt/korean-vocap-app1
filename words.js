@@ -11,7 +11,7 @@ var WORDS = [
 {ko:"공룡", vi:"Khủng long, Dinosaur"},
 {ko:"점수", vi:"Điểm số, Score"},
 {ko:"깎다", vi:"Giảm giá / gọt / cắt bớt, Cut / Discount"},
-{ko:"깎아", vi:"Dạng chia của 깎다 (giảm / cắt), Conjugated form"},
+{ko:"깎아", vi:"Giảm / cắt)"},
 {ko:"춤추다", vi:"Nhảy múa, Dance"},
 {ko:"추측", vi:"Sự suy đoán, Guess"},
 {ko:"추측하다", vi:"Suy đoán, Guess"},
