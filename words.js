@@ -4,9 +4,17 @@ var WORDS = [
 
 
 
-
-
-
+{ko:"영하", vi:"Dưới 0 độ (âm độ), Below zero / Minus temperature"},
+{ko:"영상", vi:"Trên 0 độ (dương độ), Above zero / Plus temperature"},
+{ko:"영원하다", vi:"Vĩnh viễn, Eternal"},
+{ko:"영원", vi:"Vĩnh viễn, Eternal"},
+{ko:"공룡", vi:"Khủng long, Dinosaur"},
+{ko:"점수", vi:"Điểm số, Score"},
+{ko:"깎다", vi:"Giảm giá / gọt / cắt bớt, Cut / Discount"},
+{ko:"깎아", vi:"Dạng chia của 깎다 (giảm / cắt), Conjugated form"},
+{ko:"춤추다", vi:"Nhảy múa, Dance"},
+{ko:"추측", vi:"Sự suy đoán, Guess"},
+{ko:"추측하다", vi:"Suy đoán, Guess"},
 {ko:"침실", vi:"Phòng ngủ, Bedroom"},
 {ko:"비상", vi:"Khẩn cấp, Emergency"},
 {ko:"비상하다", vi:"Phi thường / bất thường, Extraordinary"},
