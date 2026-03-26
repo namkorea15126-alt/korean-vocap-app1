@@ -15,6 +15,7 @@ var WORDS = [
 {ko:"종류", vi:"Loại / chủng loại, Kind / Type"},
 {ko:"외국어", vi:"Ngoại ngữ, Foreign language"},
 {ko:"외모", vi:"Ngoại hình, Appearance"},
+{ko:"모습", vi:"Hình dáng/ dung mạo, Appearance"},
 {ko:"일반", vi:"Thông thường, General"},
 {ko:"지난번", vi:"Lần trước, Last time"},
 {ko:"점", vi:"Điểm / điểm đặc trưng, Point"},
@@ -61,7 +62,6 @@ var WORDS = [
 {ko:"사유", vi:"Lý do, Reason"},
 {ko:"승인", vi:"Sự phê duyệt, Approval"},
 {ko:"담임 교관", vi:"Giáo viên chủ nhiệm / huấn luyện viên phụ trách, Homeroom instructor"},
-
 {ko:"날씬하다", vi:"Gầy / thon, Slim"},
 {ko:"뚱뚱하다", vi:"Béo, Fat"},
 {ko:"기린", vi:"Hươu cao cổ, Giraffe"},
@@ -799,7 +799,6 @@ var WORDS = [
 {ko:"마을", vi:"Làng, Village"},
 {ko:"마지막", vi:"Cuối cùng, Last"},
 {ko:"막걸리", vi:"Rượu gạo Hàn Quốc, Makgeolli"},
-{ko:"모습", vi:"Hình dáng / dáng vẻ, Appearance"},
 {ko:"과정", vi:"Khóa học, Course"},
 {ko:"수업/ 수업하다", vi:"Lớp học / buổi học, Class/ Dạy học / lên lớp, Teach"},
 {ko:"안내하다", vi:"Hướng dẫn / thông báo, Guide / Inform"},
