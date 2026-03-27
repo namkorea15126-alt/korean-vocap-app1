@@ -72,7 +72,7 @@ var WORDS = [
 
 {ko:"보호", vi:"Sự bảo vệ, Protection"},
 {ko:"보호하다", vi:"Bảo vệ, Protect"},
-{ko:"해제", vi:"Sự hủy bỏ /解除 / mở khóa, Release /解除 / Unlock"},
+{ko:"해제", vi:"Sự hủy bỏ / mở khóa, Release /Unlock"},
 {ko:"해제하다", vi:"Hủy bỏ / giải trừ / mở khóa, Release / Cancel / Unlock"},
 {ko:"빌리지", vi:"Làng (mượn từ tiếng Anh), Village"},
 
