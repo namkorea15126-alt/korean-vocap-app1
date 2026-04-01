@@ -2,6 +2,35 @@ var WORDS = [
 
 
 
+
+
+
+
+
+
+
+
+  
+{ko:"어리다", vi:"Trẻ / non (tuổi), Young"},
+{ko:"센티미터", vi:"Centimet, Centimeter"},
+{ko:"초", vi:"Giây, Second"},
+{ko:"크기", vi:"Kích thước, Size"},
+{ko:"특징", vi:"Đặc điểm, Characteristic"},
+{ko:"편리하다", vi:"Tiện lợi, Convenient"},
+{ko:"호텔", vi:"Khách sạn, Hotel"},
+{ko:"훨씬", vi:"Hơn nhiều / гораздо hơn, Much / Far more"},
+{ko:"관리비", vi:"Phí quản lý, Maintenance fee"},
+{ko:"낙타", vi:"Lạc đà, Camel"},
+{ko:"공동", vi:"Chung / cùng, Joint / 공동"},
+{ko:"배턴", vi:"Gậy tiếp sức, Baton"},
+{ko:"이어달리기", vi:"Chạy tiếp sức, Relay race"},
+{ko:"대서양", vi:"Đại Tây Dương, Atlantic Ocean"},
+{ko:"인도양", vi:"Ấn Độ Dương, Indian Ocean"},
+{ko:"태평양", vi:"Thái Bình Dương, Pacific Ocean"},
+{ko:"출강", vi:"Đi công tác"},
+{ko:"교통사고", vi:"Tai nạn giao thông, Traffic accident"},
+{ko:"위독", vi:"Tình trạng nguy kịch, Critical condition"},
+{ko:"위독하다", vi:"Nguy kịch, Be critical"},
 {ko:"독신", vi:"Độc thân, Single"},
 {ko:"등", vi:"Lưng / v.v., Back / etc."},
 {ko:"물가", vi:"Giá cả / bờ nước, Prices / Waterside"},
