@@ -7,8 +7,9 @@ var WORDS = [
 
 
 
-
-
+{ko:"물론", vi:"Tất nhiên, Of course"},
+{ko:"차다", vi:"Lạnh / đá (đồ uống), Cold / Chilly"},
+{ko:"쓰다", vi:"Viết / dùng / đắng, Write / Use / Bitter"},
 {ko:"스케줄", vi:"Lịch trình, Schedule"},
 {ko:"생기", vi:"Sức sống / sinh khí, Vitality"},
 {ko:"생기다", vi:"Xuất hiện / có / hình thành, Occur / Be formed"},
@@ -1459,7 +1460,6 @@ var WORDS = [
 {ko:"보이다", vi:"Được nhìn thấy, Be seen"},
 {ko:"듣다", vi:"Listen"},
 {ko:"읽다", vi:"Read"},
-{ko:"쓰다", vi:"Write / Use"},
   /* Tính từ – Miêu tả */
 {ko:"좋다", vi:"Good"},
 {ko:"나쁘다", vi:"Bad"},
