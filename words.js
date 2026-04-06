@@ -24,8 +24,8 @@ var WORDS = [
 {ko:"허리띠", vi:"Thắt lưng, Belt"},
 {ko:"글쎄요", vi:"Ừm… / để xem…, Well..."},
 {ko:"평가", vi:"Đánh giá, Evaluation"},
-{ko:"수시평가", vi:"Đánh giá thường xuyên, Continuous assessment"},
 {ko:"평가하다", vi:"Đánh giá, Evaluate"},
+{ko:"수시평가", vi:"Đánh giá thường xuyên, Continuous assessment"},
 {ko:"종합", vi:"Tổng hợp, Synthesis"},
 {ko:"종합하다", vi:"Tổng hợp, Summarize"},
 {ko:"습기", vi:"Độ ẩm, Humidity"},
@@ -41,7 +41,6 @@ var WORDS = [
 {ko:"디지털", vi:"Kỹ thuật số, Digital"},
 {ko:"허락", vi:"Sự cho phép, Permission"},
 {ko:"허락하다", vi:"Cho phép, Permit"},
-
 {ko:"베터리", vi:"Pin / ắc quy, Battery"},
 {ko:"잔치", vi:"Tiệc / lễ hội, Feast / Party"},
 {ko:"돌잔치", vi:"Tiệc thôi nôi (1 tuổi), First birthday party"},
