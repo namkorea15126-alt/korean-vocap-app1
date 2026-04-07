@@ -2,6 +2,15 @@ var WORDS = [
 
 
 
+{ko:"무관님", vi:"Tuỳ viên quân sự"},
+{ko:"알맞다", vi:"Phù hợp, Suitable / Appropriate"},
+{ko:"행동", vi:"Hành động, Behavior / Action"},
+{ko:"행동하다", vi:"Hành động, Act"},
+{ko:"이동", vi:"Di chuyển, Movement"},
+{ko:"이동하다", vi:"Di chuyển, Move"},
+{ko:"목적", vi:"Mục đích, Purpose"},
+{ko:"합격", vi:"Đậu / đạt, Pass"},
+{ko:"합격하다", vi:"Đậu / vượt qua, Pass / Succeed"},
 
 {ko:"저울", vi:"Cái cân, Scale"},
 {ko:"무게", vi:"Trọng lượng, Weight"},
@@ -28,6 +37,7 @@ var WORDS = [
 {ko:"수시평가", vi:"Đánh giá thường xuyên, Continuous assessment"},
 {ko:"종합", vi:"Tổng hợp, Synthesis"},
 {ko:"종합하다", vi:"Tổng hợp, Summarize"},
+{ko:"종합평가", vi:"Đánh giá tổng hợp, Comprehensive evaluation"},
 {ko:"습기", vi:"Độ ẩm, Humidity"},
 {ko:"제습기", vi:"Máy hút ẩm, Dehumidifier"},
 {ko:"채팅", vi:"Trò chuyện (chat), Chatting"},
