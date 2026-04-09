@@ -107,7 +107,7 @@ var WORDS = [
 {ko:"보통이다", vi:"Là bình thường, Be normal"},
 {ko:"게스트하우스", vi:"Nhà khách, Guesthouse"},
 {ko:"플루트", vi:"Sáo (flute), Flute"},
-{ko:"인기", vi:"Sự nổi tiếng, Popularity"},
+{ko:"인기", vi:"Được ưa thích, mến mộ"},
 {ko:"스트레스", vi:"Căng thẳng, Stress"},
 {ko:"스케줄/ 일정", vi:"Lịch trình, Schedule"},
 {ko:"연주", vi:"Biểu diễn (nhạc), Performance"},
