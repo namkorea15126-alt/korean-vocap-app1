@@ -1,4 +1,13 @@
 var WORDS = [ 
+
+  
+{ko:"취침", vi:"Đi ngủ, Lights out"},
+{ko:"취침하다", vi:"Đi ngủ, Bedtime/Go to bed"},
+{ko:"잠자다", vi:"Sleep"}, 
+{ko:"낮잠", vi:"Giấc ngủ trưa, Nap"},
+{ko:"잠", vi:"Giấc ngủ, Sleep"},
+{ko:"기상", vi:"Thức dậy, Wake up"},
+{ko:"기상하다/ 일어나다", vi:"Thức dậy, Wake up"},  
 {ko:"번째", vi:"Thứ (thứ tự), -th"},
 {ko:"배경", vi:"Bối cảnh / nền, Background"},
 {ko:"눈꽃", vi:"Hoa tuyết / băng tuyết, Snowflake"},
@@ -500,58 +509,6 @@ var WORDS = [
 {ko:"건기", vi:"Mùa khô, Dry season"},
 {ko:"우기", vi:"Mùa mưa, Rainy season"},
 {ko:"인삼", vi:"Nhân sâm, Ginseng"},
-{ko:"전투", vi:"Trận chiến, Battle"},
-{ko:"공격", vi:"Tấn công, Attack"},
-{ko:"방어", vi:"Phòng thủ, Defense"},
-{ko:"방어하다", vi:"Phòng thủ, Defend"},
-{ko:"사격", vi:"Bắn, Fire"},
-{ko:"사격하다", vi:"Bắn súng, Shoot"},
-{ko:"사격장", vi:"Trường bắn"},
-{ko:"적군", vi:"Quân địch, Enemy forces"},
-{ko:"아군", vi:"Quân ta, Allied forces"},
-{ko:"지휘", vi:"Chỉ huy, Command"},
-{ko:"지휘하다", vi:"Chỉ huy, Command"},
-{ko:"지휘관", vi:"Chỉ huy, Commander"},
-{ko:"지원", vi:"Hỗ trợ, Support"},
-{ko:"지원하다", vi:"Hỗ trợ, Support"},
-{ko:"집합", vi:"Tập hợp, Assembly"},
-{ko:"집합하다", vi:"Tập hợp, Assemble"},
-{ko:"점호", vi:"Điểm danh, Roll call"},
-{ko:"점호하다", vi:"Điểm danh, Call roll"},
-{ko:"경례", vi:"Chào quân đội, Salute"},
-{ko:"근무", vi:"Trực / nhiệm vụ, Duty"},
-{ko:"의무", vi:"Nhiệm vụ, Duty / Obligation"},
-{ko:"근무하다", vi:"Làm nhiệm vụ, Be on duty"},
-{ko:"생활관", vi:"Khu sinh hoạt, Living quarters"},
-{ko:"생활하다", vi:"Sinh sống, Live"},
-{ko:"일상생활", vi:"Sinh hoạt thường ngày, Daily life"},
-{ko:"생활", vi:"Sinh hoạt / cuộc sống, Life / Living"},
-{ko:"취침", vi:"Đi ngủ, Lights out"},
-{ko:"취침하다", vi:"Đi ngủ, Bedtime/Go to bed"},
-{ko:"잠자다", vi:"Sleep"}, 
-{ko:"낮잠", vi:"Giấc ngủ trưa, Nap"},
-{ko:"잠", vi:"Giấc ngủ, Sleep"},
-{ko:"기상", vi:"Thức dậy, Wake up"},
-{ko:"기상하다/ 일어나다", vi:"Thức dậy, Wake up"},
-{ko:"휴가", vi:"Nghỉ phép, Leave vacation"},
-{ko:"교육생", vi:"Học viên, Trainee"},
-{ko:"교관", vi:"Huấn luyện viên, Instructor"},
-{ko:"총", vi:"Súng, Gun"},
-{ko:"미사일", vi:"Tên lửa, Missile"},
-{ko:"로켓", vi:"Rocket, Rocket"},
-{ko:"핵무기", vi:"Vũ khí hạt nhân, Nuclear weapon"},
-{ko:"칼", vi:"Dao, Knife"},
-{ko:"전투기", vi:"Máy bay chiến đấu, Fighter jet"},
-{ko:"헬리콥터", vi:"Trực thăng, Helicopter"},
-{ko:"장갑차", vi:"Xe bọc thép, Armored vehicle"},
-{ko:"군함", vi:"Tàu chiến, Warship"},
-{ko:"잠수함", vi:"Tàu ngầm, Submarine"},
-{ko:"항공모함", vi:"Tàu sân bay, Aircraft carrier"},
-{ko:"드론", vi:"Máy bay không người lái, Drone"},
-{ko:"비밀", vi:"Bí mật, Secret"},  
-{ko:"기뢰", vi:"Thủy lôi (mìn biển), Naval mine"},
-{ko:"어뢰", vi:"Ngư lôi, Torpedo"},
-{ko:"핵", vi:"Hạt nhân / hạt nhân nguyên tử, Nuclear"},
 {ko:"아우", vi:"Em trai (cách gọi thân mật), Younger brother"},
 {ko:"노래", vi:"Bài hát, Song"},
 {ko:"노래하다", vi:"Hát, Sing"},
@@ -1140,12 +1097,8 @@ var WORDS = [
 {ko:"근무모/ 근무복/ 근무화", vi:"Mũ công vụ, Duty cap/Quân phục công vụ, Duty uniform/Giày công vụ, Duty shoes"},
 {ko:"전투모/ 전투복/ 전투화", vi:"Mũ chiến đấu, Combat helmet/Quân phục chiến đấu, Combat uniform/Giày chiến đấu, Combat boots"},
 {ko:"의무대", vi:"Quân y, Medical unit"},
- /* Vũ khí */ 
-{ko:"무기", vi:"Weapon"},
-{ko:"자주포", vi:"Pháo tự hành, Self-propelled artillery"},
-{ko:"포", vi:"Pháo, Cannon"},
-{ko:"견인포", vi:"Pháo kéo, Towed artillery"},
-{ko:"박격포", vi:"Súng cối, Mortar"},
+
+  /* Nghề nghiệp */ 
 {ko:"기자", vi:"Nhà báo/Phóng viên, Reporter"},
 {ko:"군인", vi:"Soldier"},
 {ko:"의사", vi:"Doctor"},
@@ -1507,6 +1460,7 @@ var WORDS = [
 {ko:"공책", vi:"Vở, Notebook"},
 {ko:"자", vi:"Thước kẻ, Ruler"},
 {ko:"가위", vi:"Kéo, Scissors"},
+{ko:"칼", vi:"Dao, Knife"},
 {ko:"사전", vi:"Từ điển, Dictionary"},
 
   /* Khác */
@@ -1517,6 +1471,7 @@ var WORDS = [
 {ko:"잘못", vi:"Lỗi / điều sai, Fault"}, 
 {ko:"잘못짚다", vi:"Hiểu sai / đoán sai, Misjudge"},
 {ko:"잘못하다", vi:"Do wrong"},
+ 
   /* Thiên nhiên */
 {ko:"별", vi:"Star"},
 {ko:"나무", vi:"Tree"},
@@ -1545,7 +1500,8 @@ var WORDS = [
 {ko:"닭", vi:"Chicken"},
 {ko:"낙타", vi:"Lạc đà, Camel"},
 {ko:"동물/ 동물원", vi:"Động vật/ Sở thú, Zoo"},
-/* Vị trí */
+
+  /* Vị trí */
 {ko:"위치", vi:"Position"},
 {ko:"층", vi:"Floor"},
 {ko:"밑", vi:"Under"},
@@ -1562,11 +1518,13 @@ var WORDS = [
 {ko:"한강", vi:"Han River"},
 {ko:"건물", vi:"Building"},
 {ko:"근처", vi:"Gần đây / khu vực gần, Nearby"},
-/* Phương hướng */
+
+  /* Phương hướng */
 {ko:"방향", vi:"Hướng, Direction"},
 {ko:"왼쪽, 좌측", vi:"Left"},
 {ko:"오른쪽, 우측", vi:"Right"},
-/* Động từ */
+
+  /* Động từ */
 {ko:"가다", vi:"Go"},
 {ko:"오다", vi:"Come"},
 {ko:"나가다", vi:"Go out"},
@@ -1621,6 +1579,7 @@ var WORDS = [
 {ko:"인사하다", vi:"Greet"},
 {ko:"만나다", vi:"Meet"},
 {ko:"확인하다", vi:"Xác nhận / kiểm tra, Confirm / Check"},
+
   /* Tính từ */
 {ko:"짧다", vi:"Short"},
 {ko:"길다", vi:"Long"},
@@ -1649,11 +1608,13 @@ var WORDS = [
 {ko:"잃어버리다", vi:"To lose"},
 {ko:"대하다", vi:"Đối xử / đối diện, To treat / face"},
 {ko:"같다", vi:"Same / Similar"},
+  
   /* Tri giác */
 {ko:"보다", vi:"See / Watch"},
 {ko:"보이다", vi:"Được nhìn thấy, Be seen"},
 {ko:"듣다", vi:"Listen"},
 {ko:"읽다", vi:"Read"},
+ 
   /* Tính từ – Miêu tả */
 {ko:"좋다", vi:"Good"},
 {ko:"나쁘다", vi:"Bad"},
@@ -1672,11 +1633,13 @@ var WORDS = [
 {ko:"불편하다", vi:"Uncomfortable"},
 {ko:"편하다", vi:"Comfortable"},
 {ko:"귀엽다", vi:"Cute"},
+
   /* Biểu hiện & mức độ */
 {ko:"어떻다", vi:"Như thế nào, How"},
 {ko:"어떠하다", vi:"Như thế nào (trang trọng), How (formal)"},
 {ko:"천천히 하다", vi:"Làm chậm rãi, Do slowly"},
- /* Trạng từ */
+
+  /* Trạng từ */
 {ko:"아주/매우", vi:"Rất, Very"},
 {ko:"그냥", vi:"Cứ / đơn giản là, Just"},
 {ko:"그렇게", vi:"Như vậy, Like that"},
@@ -1738,5 +1701,56 @@ var WORDS = [
 {ko:"피", vi:"Máu, Blood"},
 {ko:"심장", vi:"Tim, Heart"},
 {ko:"폐", vi:"Phổi, Lung"},
-{ko:"위", vi:"Dạ dày, Stomach"} 
+{ko:"위", vi:"Dạ dày, Stomach"}, 
+
+    /* Quân đội */
+{ko:"전투", vi:"Trận chiến, Battle"},
+{ko:"공격", vi:"Tấn công, Attack"},
+{ko:"방어", vi:"Phòng thủ, Defense"},
+{ko:"방어하다", vi:"Phòng thủ, Defend"},
+{ko:"사격", vi:"Bắn, Fire"},
+{ko:"사격하다", vi:"Bắn súng, Shoot"},
+{ko:"사격장", vi:"Trường bắn"},
+{ko:"적군", vi:"Quân địch, Enemy forces"},
+{ko:"아군", vi:"Quân ta, Allied forces"},
+{ko:"지휘", vi:"Chỉ huy, Command"},
+{ko:"지휘하다", vi:"Chỉ huy, Command"},
+{ko:"지휘관", vi:"Sĩ quan chỉ huy, Commander"},
+{ko:"지원", vi:"Hỗ trợ, Support"},
+{ko:"지원하다", vi:"Hỗ trợ, Support"},
+{ko:"집합", vi:"Tập hợp, Assembly"},
+{ko:"집합하다", vi:"Tập hợp, Assemble"},
+{ko:"점호", vi:"Điểm danh, Roll call"},
+{ko:"점호하다", vi:"Điểm danh, Call roll"},
+{ko:"경례", vi:"Chào quân đội, Salute"},
+{ko:"근무", vi:"Trực / nhiệm vụ, Duty"},
+{ko:"의무", vi:"Nhiệm vụ, Duty / Obligation"},
+{ko:"근무하다", vi:"Làm nhiệm vụ, Be on duty"},
+{ko:"생활관", vi:"Khu sinh hoạt, Living quarters"},
+{ko:"생활하다", vi:"Sinh sống, Live"},
+{ko:"일상생활", vi:"Sinh hoạt thường ngày, Daily life"},
+{ko:"생활", vi:"Sinh hoạt / cuộc sống, Life / Living"},
+{ko:"휴가", vi:"Nghỉ phép, Leave vacation"},
+{ko:"교육생", vi:"Học viên, Trainee"},
+{ko:"교관", vi:"Huấn luyện viên, Instructor"},
+{ko:"총", vi:"Súng, Gun"},
+{ko:"미사일", vi:"Tên lửa, Missile"},
+{ko:"로켓", vi:"Rocket, Rocket"},
+{ko:"핵무기", vi:"Vũ khí hạt nhân, Nuclear weapon"},
+{ko:"전투기", vi:"Máy bay chiến đấu, Fighter jet"},
+{ko:"헬리콥터", vi:"Trực thăng, Helicopter"},
+{ko:"장갑차", vi:"Xe bọc thép, Armored vehicle"},
+{ko:"무기", vi:"Weapon"},
+{ko:"자주포", vi:"Pháo tự hành, Self-propelled artillery"},
+{ko:"포", vi:"Pháo, Cannon"},
+{ko:"견인포", vi:"Pháo kéo, Towed artillery"},
+{ko:"박격포", vi:"Súng cối, Mortar"},
+{ko:"군함", vi:"Tàu chiến, Warship"},
+{ko:"잠수함", vi:"Tàu ngầm, Submarine"},
+{ko:"항공모함", vi:"Tàu sân bay, Aircraft carrier"},
+{ko:"드론", vi:"Máy bay không người lái, Drone"},
+{ko:"비밀", vi:"Bí mật, Secret"},  
+{ko:"기뢰", vi:"Thủy lôi (mìn biển), Naval mine"},
+{ko:"어뢰", vi:"Ngư lôi, Torpedo"},
+{ko:"핵", vi:"Hạt nhân / hạt nhân nguyên tử, Nuclear"}
 ];
