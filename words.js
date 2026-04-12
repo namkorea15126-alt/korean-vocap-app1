@@ -776,7 +776,7 @@ var WORDS = [
 {ko:"남산", vi:"Núi Namsan, Namsan"},
 {ko:"대전", vi:"Thành phố Daejeon, Daejeon"},
 {ko:"대구", vi:"Thành phố Daegu, Daegu"},
-{ko:"서울역", vi:"Ga Seoul, Seoul Station"},
+{ko:"서울", vi:"Thành phố Seoul, Seoul"},
 {ko:"시청", vi:"UBND Thành phố"},
 {ko:"도청", vi:"UBND Tỉnh"},
 {ko:"다행히", vi:"May mắn thay, Fortunately"},
