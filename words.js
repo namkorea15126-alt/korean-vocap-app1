@@ -111,10 +111,10 @@ var WORDS = [
 {ko:"사회", vi:"Xã hội / dẫn chương trình, Society / Host"},  
 {ko:"소지품", vi:"Đồ mang theo, Belongings"},
 {ko:"바구니", vi:"Cái giỏ, Basket"},
-{ko:"검색하다", vi:"Tìm kiếm, Search"},
 {ko:"보안", vi:"An ninh, Security"},
 {ko:"보안하다", vi:"(Ít dùng → bảo mật là 보안을 유지하다) Bảo vệ an ninh, Secure"},
 
+{ko:"검색하다", vi:"Tìm kiếm, Search"},
 {ko:"스스로", vi:"Tự mình, By oneself"},
 {ko:"자동", vi:"Tự động, Automatic"},
 {ko:"자동문", vi:"Cửa tự động, Automatic door"},
