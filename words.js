@@ -500,7 +500,6 @@ var WORDS = [
 {ko:"동아리", vi:"Câu lạc bộ, Club"},
 {ko:"신분증", vi:"Chứng minh nhân thân / thẻ ID, ID card"},
 {ko:"시험지", vi:"Đề thi / giấy thi, Test paper"},
-{ko:"확인", vi:"Sự xác nhận / kiểm tra, Confirmation / Check"},
 {ko:"궁", vi:"Cung điện, Palace"},
 {ko:"무역", vi:"Thương mại / buôn bán quốc tế, Trade"},
 {ko:"상황", vi:"Tình huống / tình hình, Situation"},
@@ -1632,6 +1631,7 @@ var WORDS = [
 {ko:"답하다", vi:"Trả lời (trang trọng), Reply"},
 {ko:"인사하다", vi:"Greet"},
 {ko:"만나다", vi:"Meet"},
+{ko:"확인", vi:"Sự xác nhận / kiểm tra, Confirmation / Check"},
 {ko:"확인하다", vi:"Xác nhận / kiểm tra, Confirm / Check"},
 
   /* Tính từ */
