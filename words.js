@@ -7,7 +7,18 @@ var WORDS = [
 {ko:"부족하다", vi:"Thiếu, Be 부족 / Lack"},
 {ko:"부족", vi:"Sự thiếu, Lack"},
 
-  
+{ko:"넘다", vi:"Vượt qua / qua, Cross / 넘다"},
+{ko:"가위-바위-보", vi:"Kéo - búa - bao, Rock-paper-scissors"},
+{ko:"청혼하다", vi:"Cầu hôn (trực tiếp), Propose marriage"},
+{ko:"구혼하다", vi:"Cầu hôn (gián tiếp), Seek marriage"},
+{ko:"통역", vi:"Phiên dịch, Interpretation"},
+{ko:"도움", vi:"Sự giúp đỡ, Help"},
+{ko:"요청하다", vi:"Yêu cầu, Request"},
+{ko:"발생하다", vi:"Xảy ra, Occur"},
+{ko:"해결하다", vi:"Giải quyết, Solve"},
+{ko:"태우다", vi:"Đốt / chở (ai đó), Burn / Give a ride"},
+
+
 {ko:"가스", vi:"Khí / gas, Gas"},
 {ko:"밸브", vi:"Van (kỹ thuật), Valve"},
 {ko:"다이아몬드", vi:"Kim cương, Diamond"},
@@ -194,6 +205,7 @@ var WORDS = [
 {ko:"모바일", vi:"Di động, Mobile"},
 {ko:"수고하세요", vi:"Cảm ơn bạn đã vất vả / chúc làm việc tốt, Thank you for your effort"},
 {ko:"체류/ 체류하다", vi:"Lưu trú, Stay"},
+{ko:"숙박", vi:"Lưu trú, Accommodation"},
 {ko:"키보드", vi:"Bàn phím, Keyboard"},
 {ko:"누르다", vi:"Nhấn / ấn, Press"},
 {ko:"충전", vi:"Sạc (pin), Charging"},
