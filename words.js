@@ -7,6 +7,31 @@ var WORDS = [
 {ko:"부족하다", vi:"Thiếu, Be 부족 / Lack"},
 {ko:"부족", vi:"Sự thiếu, Lack"},
 
+
+
+
+{ko:"놀이터", vi:"Sân chơi, Playground"},
+{ko:"품질", vi:"Chất lượng, Quality"},
+{ko:"품격", vi:"Phẩm chất / đẳng cấp, Dignity / Class"},
+{ko:"조절하다", vi:"Điều chỉnh, Adjust"},
+{ko:"높이", vi:"Chiều cao, Height"},
+{ko:"물론", vi:"Tất nhiên, Of course"},
+
+
+{ko:"여쭤보다", vi:"Hỏi (kính ngữ), Ask politely"},
+{ko:"모르면 여쭤봐도 돼요", vi:"Nếu không biết thì có thể hỏi, You can ask if you don’t know"},
+{ko:"연락처", vi:"Thông tin liên lạc, Contact"},
+{ko:"저장하다", vi:"Lưu (dữ liệu), Save"},
+{ko:"계기", vi:"Cơ hội / dịp / động lực, Opportunity / Motive"},
+{ko:"계기하다", vi:"(Ít dùng → thường dùng 계기가 되다) Trở thành cơ hội, Become an opportunity"},
+{ko:"금지", vi:"Cấm, Prohibition"},
+{ko:"음식물", vi:"Thức ăn (chất), Food"},
+{ko:"고민", vi:"Sự lo lắng / suy nghĩ, Worry / Concern"},
+{ko:"조언", vi:"Lời khuyên, Advice"},
+{ko:"살", vi:"Mỡ / cân nặng, Fat / Weight"},
+{ko:"빼다", vi:"Giảm / lấy ra / rút ra, Lose / Remove / Take out"},
+
+  
 {ko:"넘다", vi:"Vượt qua / qua, Cross / 넘다"},
 {ko:"가위-바위-보", vi:"Kéo - búa - bao, Rock-paper-scissors"},
 {ko:"청혼하다", vi:"Cầu hôn (trực tiếp), Propose marriage"},
@@ -276,7 +301,6 @@ var WORDS = [
 {ko:"지다", vi:"Thua / lặn (mặt trời), Lose / Set"},
 {ko:"비기다", vi:"Hòa (trận đấu), Draw / Tie"},
 {ko:"영", vi:"Số 0 / số không, Zero"},
-{ko:"물론", vi:"Tất nhiên, Of course"},
 {ko:"차다", vi:"Lạnh / đá (đồ uống), Cold / Chilly"},
 {ko:"쓰다", vi:"Viết / dùng / đắng, Write / Use / Bitter"},
 {ko:"생기", vi:"Sức sống / sinh khí, Vitality"},
@@ -536,6 +560,7 @@ var WORDS = [
 {ko:"체력단련실", vi:"Phòng tập thể lực, Fitness room / Gym"},
 {ko:"체력단련", vi:"Rèn luyện thể lực, Physical training"},
 {ko:"헬스클럽", vi:"Câu lạc bộ thể hình, Health club / Gym"},
+{ko:"헬스장", vi:"Phòng gym, Gym"},
 {ko:"이발소", vi:"Barber shop"},
 {ko:"지하", vi:"Tầng hầm / dưới đất, Underground / Basement"},
 {ko:"동물박물관", vi:"Bảo tàng động vật, Animal museum"},
@@ -816,7 +841,6 @@ var WORDS = [
 {ko:"들어봅시다", vi:"Hãy nghe thử nhé, Let's listen"},  
 {ko:"보고 싶다", vi:"Want to see / Miss"},  
 {ko:"얻다", vi:"Nhận được / đạt được, Obtain / Get"},   
-{ko:"품질", vi:"Quality"},
 {ko:"날짜", vi:"Ngày tháng, Date"},
 {ko:"순차", vi:"Theo thứ tự, Sequence"}, 
 {ko:"달", vi:"Month / Moon"},
