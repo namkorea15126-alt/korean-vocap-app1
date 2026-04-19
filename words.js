@@ -1811,7 +1811,6 @@ var WORDS = [
 {ko:"휴가", vi:"Nghỉ phép, Leave vacation"},
 {ko:"교육생", vi:"Học viên, Trainee"},
 {ko:"교관", vi:"Huấn luyện viên, Instructor"},
-{ko:"총", vi:"Súng, Gun"},
 {ko:"미사일", vi:"Tên lửa, Missile"},
 {ko:"로켓", vi:"Rocket, Rocket"},
 {ko:"핵무기", vi:"Vũ khí hạt nhân, Nuclear weapon"},
