@@ -435,7 +435,7 @@ var WORDS = [
 {ko:"내무", vi:"Nội vụ (trong quân đội), Internal affairs"},
 {ko:"에베레스트", vi:"Núi Everest, Mount Everest"},
 
-{ko:"세우다", vi:"Dựng lên / lập / đặt, Build / Establish"},
+{ko:"세우다", vi:"Dừng lại, Dựng lên / lập / đặt, Build / Establish"},
 {ko:"안부", vi:"Sức khỏe / tình hình (hỏi thăm), Well-being"},
 {ko:"전하다", vi:"Truyền đạt / gửi, Deliver / Convey"},
 {ko:"안부를 전하다", vi:"Gửi lời hỏi thăm, Send regards"},
@@ -1763,7 +1763,7 @@ var WORDS = [
 {ko:"손가락", vi:"Ngón tay, Finger"},
 {ko:"손톱", vi:"Móng tay, Fingernail"},
 {ko:"가슴", vi:"Ngực, Chest"},
-{ko:"배", vi:"Bụng, Belly / Abdomen"},
+{ko:"배", vi:"Bụng, Belly / Abdomen, Lê, Tàu"},
 {ko:"허리", vi:"Eo / lưng dưới, Waist"},
 {ko:"등", vi:"Lưng, Back"},
 {ko:"엉덩이", vi:"Mông, Buttocks"},
