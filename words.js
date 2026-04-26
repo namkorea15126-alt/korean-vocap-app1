@@ -653,7 +653,6 @@ var WORDS = [
 {ko:"깨다", vi:"Đập vỡ / tỉnh dậy, Break / Wake up"},
 {ko:"캐다", vi:"Đào / khai thác (khoai, khoáng sản), Dig / Harvest"},
 {ko:"비다", vi:"Trống / rỗng, Empty"},
-{ko:"지다", vi:"Lặn / thua / gánh, Set / Lose / Carry"},
 {ko:"대학", vi:"Đại học, College"},
 {ko:"대학생", vi:"Sinh viên đại học, University student"},
 {ko:"대학교", vi:"Trường đại học, University"},
