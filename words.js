@@ -19,7 +19,7 @@ var WORDS = [
 {ko:"거리", vi:"Khoảng cách / đường phố, Distance / Street"},
 {ko:"삼거리", vi:"Ngã ba, Three-way intersection"},
 {ko:"사거리", vi:"Ngã tư, Four-way intersection"},
-{ko:"사고팔다", vi:"(Sai → 사고팔다) Mua bán, Buy and sell"},
+{ko:"사고팔다", vi:"Mua bán, Buy and sell"},
 {ko:"자유롭다", vi:"Tự do, Free"},
 {ko:"분위기", vi:"Bầu không khí, Atmosphere"},
 {ko:"많아지다", vi:"Trở nên nhiều hơn, Increase"},
