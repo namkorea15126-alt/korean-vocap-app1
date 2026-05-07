@@ -3,6 +3,15 @@ var WORDS = [
 
 
 
+{ko:"초-중-말", vi:"Đầu - giữa - cuối, Beginning - middle - end"},
+{ko:"담기다", vi:"Được chứa / được đựng, Be contained"},
+{ko:"예전", vi:"Ngày xưa / trước đây, Former times / Before"},
+{ko:"이후", vi:"Sau đó / kể từ đó, After / Since then"},
+{ko:"그다음", vi:"Tiếp theo, Next"},
+{ko:"바뀌다", vi:"Bị thay đổi, Be changed"},
+{ko:"일출", vi:"Mặt trời mọc, Sunrise"},
+{ko:"일몰", vi:"Mặt trời lặn, Sunset"},
+
 {ko:"계기", vi:"Nối tiếp"},
 {ko:"녹음", vi:"Ghi âm / cây xanh, Recording / Greenery"},
 {ko:"녹음하다", vi:"Ghi âm, Record"},
@@ -33,9 +42,8 @@ var WORDS = [
 {ko:"연주하다", vi:"Biểu diễn (nhạc), Perform"},
 {ko:"간단하다", vi:"Đơn giản, Simple"},
 {ko:"단순하다", vi:"Đơn giản (không phức tạp), Simple"},
-{ko:"어른", vi:"Người lớn, Adult"},
-{ko:"태어나다", vi:"Sinh ra, Be born"},
-{ko:"서다", vi:"Đứng, Stand"},
+
+
 {ko:"지르다", vi:"La hét / hét lên, Shout"},
 {ko:"거리", vi:"Khoảng cách / đường phố, Distance / Street"},
 {ko:"삼거리", vi:"Ngã ba, Three-way intersection"},
@@ -314,13 +322,16 @@ var WORDS = [
 {ko:"유적", vi:"Di tích, Relic"},
 {ko:"유적지", vi:"Khu di tích, Historic site"},
 {ko:"타워/ 탑", vi:"Tháp, Tower"},
-{ko:"전자제품", vi:"Thiết bị điện tử, Electronics"},
-{ko:"전기/ 전자", vi:"Điện, Electricity/ Điện tử, Electronic"},
+
 {ko:"제품", vi:"Sản phẩm, Product"},
+{ko:"전자제품", vi:"Thiết bị điện tử, Electronics"},
+{ko:"가전", vi:"Đồ gia dụng điện tử, Home appliances"},
+{ko:"가전제품", vi:"Thiết bị điện gia dụng, Home appliances"},
+{ko:"전기/ 전자", vi:"Điện, Electricity/ Điện tử, Electronic"},
+
 {ko:"출퇴근", vi:"Đi làm và tan làm, Commute"},
 {ko:"출퇴근하다", vi:"Đi làm về, Commute"},
 
-{ko:"수료식", vi:"Lễ hoàn thành khóa học, Completion ceremony"},
 {ko:"모임", vi:"Cuộc họp / tụ họp, Gathering"},
 {ko:"가벼운 자리", vi:"Buổi gặp nhẹ / thân mật, Casual meeting"},
 {ko:"개월", vi:"Tháng (đếm), Month(s)"},
@@ -379,13 +390,19 @@ var WORDS = [
 {ko:"여보세요", vi:"Alo (điện thoại), Hello"},
 {ko:"원하다", vi:"Muốn, Want"},
 {ko:"동료", vi:"Đồng nghiệp"},
+
+{ko:"입학", vi:"Nhập học, Admission"},
+{ko:"졸업", vi:"Sự tốt nghiệp, Graduation"},
+{ko:"졸업하다", vi:"Tốt nghiệp, Graduate"},
 {ko:"입교/ 입교하다", vi:"Nhập học (vào trường/khóa huấn luyện), Enrollment / Admission"},
+{ko:"수료식", vi:"Lễ hoàn thành khóa học, Completion ceremony"},
 {ko:"입대/ 입대하다", vi:"Nhập ngũ, Enlist"},
 {ko:"제대/ 제대하다", vi:" Xuất ngũ, Discharge"},
+  
 {ko:"자신", vi:"Bản thân / tự tin, Oneself / Confidence"},
 {ko:"유원지", vi:"Khu vui chơi, Amusement park"},
 {ko:"놀이터", vi:"Sân chơi, Playground"},
-{ko:"동선", vi:"Lộ trình di chuyển, Route / Flow line"},
+
 
 {ko:"역사적", vi:"Mang tính lịch sử, Historical"},
 {ko:"나무아미타불", vi:"Nam mô A Di Đà Phật, Namo Amitabha"},
@@ -472,7 +489,7 @@ var WORDS = [
 {ko:"하나님", vi:"Chúa / Thượng đế, God"},
 {ko:"갈아입다", vi:"Thay quần áo, Change clothes"},
 {ko:"갈아신다", vi:"Thay giày, Change shoes"},
-{ko:"갈아타다", vi:"Chuyển tuyến / đổi xe, Transfer"},
+
 {ko:"임관하다", vi:"Nhậm chức (sĩ quan), Be commissioned"},
 {ko:"개인", vi:"Cá nhân, Individual"},
 {ko:"빈", vi:"Trống / rỗng, Empty"},
@@ -717,8 +734,7 @@ var WORDS = [
 {ko:"스타디움", vi:"Sân vận động, Stadium"},
 {ko:"매치", vi:"Trận đấu, Match"},
 {ko:"무료/ 무료로", vi:"Miễn phí, For free"},
-{ko:"졸업", vi:"Sự tốt nghiệp, Graduation"},
-{ko:"졸업하다", vi:"Tốt nghiệp, Graduate"},
+
 {ko:"시즌", vi:"Mùa / mùa giải, Season"},
 {ko:"사관학교", vi:"Trường sĩ quan / học viện quân sự, Military academy"},
 {ko:"동아리", vi:"Câu lạc bộ, Club"},
@@ -822,7 +838,7 @@ var WORDS = [
 {ko:"축제", vi:"Lễ hội, Festival"},
 {ko:"진급", vi:"Thăng cấp, Promotion"},
 {ko:"집들이", vi:"Tiệc tân gia, Housewarming"},
-{ko:"입학", vi:"Nhập học, Admission"},
+
 {ko:"아메리카노", vi:"Cà phê Americano, Americano coffee"},
 {ko:"구이", vi:"Món nướng, Grilled dish"},
 {ko:"바비큐", vi:"Thịt nướng BBQ, Barbecue"},
@@ -939,6 +955,8 @@ var WORDS = [
 {ko:"출타", vi:"Ra ngoài có phép, Authorized leave"},
 {ko:"외출", vi:"Ra ngoài (có phép), Going out"},
 {ko:"자유 시간", vi:"Thời gian tự do, Free time"},
+{ko:"자유", vi:"Tự do, Freedom"},
+{ko:"자율", vi:"Tự giác / tự quản, Autonomy / Self-discipline"},
 {ko:"자유롭다", vi:"Tự do, Free"},
 {ko:"독서/ 독서하다", vi:"Đọc sách, Reading"},
 {ko:"기차/ 기차역", vi:"Train/ Ga tàu hỏa, Train station"},
@@ -963,10 +981,12 @@ var WORDS = [
 {ko:"퇴직하다", vi:"Nghỉ hưu / thôi việc, Retire"},
 {ko:"퇴임하다", vi:"Mãn nhiệm, Từ chức (chức vụ cao), Step down"},
 {ko:"이시다", vi:"Là (kính ngữ của ‘이다’), Be (honorific)"},
-{ko:"형제", vi:"Anh em, Siblings"},
-{ko:"가족", vi:"Gia đình, Family"},
+
+{ko:"갈아타다", vi:"Chuyển tuyến / đổi xe, Transfer"},
 {ko:"환승/ 환승하다", vi:"Chuyển tuyến / đổi xe, Transfer"},
 {ko:"호선", vi:"Tuyến (tàu điện), Line"},
+{ko:"동선", vi:"Lộ trình di chuyển, Route / Flow line"},
+
 {ko:"다르다", vi:"Different"},
 {ko:"비교", vi:"So sánh, Compare"},
 {ko:"땅", vi:"Đất / mặt đất, Land / Ground"},
@@ -1004,18 +1024,16 @@ var WORDS = [
 {ko:"도청", vi:"UBND Tỉnh"},
 {ko:"다행히", vi:"May mắn thay, Fortunately"},
 {ko:"만들다", vi:"Làm / tạo ra, Make"},
+
 {ko:"앉다", vi:"Ngồi, Sit"},
-{ko:"어떻게", vi:"Như thế nào, How"},
 {ko:"일어서다", vi:"Đứng lên, Stand up"},
+{ko:"서다", vi:"Đứng, Stand"},
+  
+{ko:"어떻게", vi:"Như thế nào, How"},
+
 {ko:"조용히", vi:"Yên lặng, Quietly"},
 
-{ko:"나", vi:"Tôi, I"},
-{ko:"저희", vi:"Chúng tôi (khiêm nhường), We (humble)"},
-{ko:"남동생", vi:"Em trai, Younger brother"},
-{ko:"고모", vi:"Cô (bên nội), Paternal aunt"},
-{ko:"고모부", vi:"Chồng của cô, Uncle by marriage"},
-{ko:"외할머니", vi:"Bà ngoại, Maternal grandmother"},
-{ko:"부부", vi:"Vợ chồng, Couple"},
+
 {ko:"선배", vi:"Tiền bối, Senior"},
 {ko:"후배", vi:"Hậu bối / đàn em, Junior"},
 {ko:"사장/ 사장님", vi:"Giám đốc / chủ, Boss"},
@@ -1385,6 +1403,17 @@ var WORDS = [
 {ko:"회사원", vi:"Nhân viên công ty, thánh đường"},
 {ko:"주부", vi:"Nội trợ, Housewife"},
 {ko:"주무관님", vi:"Quản lý chính"},
+
+
+{ko:"가족", vi:"Gia đình, Family"},
+{ko:"나", vi:"Tôi, I"},
+{ko:"저희", vi:"Chúng tôi (khiêm nhường), We (humble)"},
+{ko:"남동생", vi:"Em trai, Younger brother"},
+{ko:"고모", vi:"Cô (bên nội), Paternal aunt"},
+{ko:"고모부", vi:"Chồng của cô, Uncle by marriage"},
+{ko:"외할머니", vi:"Bà ngoại, Maternal grandmother"},
+{ko:"부부", vi:"Vợ chồng, Couple"},
+{ko:"형제", vi:"Anh em, Siblings"},
 {ko:"부모님", vi:"Bố mẹ (kính ngữ), Parents"},
 {ko:"아버지", vi:"Bố, cha, Father"},
 {ko:"어머니", vi:"Mẹ, Mother"},
@@ -1395,13 +1424,19 @@ var WORDS = [
 {ko:"동생", vi:"Em, Younger sibling"},
 {ko:"삼촌", vi:"Chú, bác trai, Uncle"},
 {ko:"이모", vi:"Dì, Aunt"},
+{ko:"아들/ 딸", vi:"Son/Daughter"},
+{ko:"아이", vi:"Trẻ em, Child"},
+{ko:"어른", vi:"Người lớn, Adult"},
+{ko:"태어나다", vi:"Sinh ra, Be born"},
+
+
+  
 {ko:"씨", vi:"Hậu tố xưng hô lịch sự, Polite suffix"},
 {ko:"자기", vi:"Bản thân / anh-em (thân mật), Honey / Self"},
 {ko:"내", vi:"Của tôi / tôi (dạng bổ nghĩa), My"},
-{ko:"아들/ 딸", vi:"Son/Daughter"},
 {ko:"손님/ 승객", vi:"Khách, Guest/Hành khách, Passenger"},
 {ko:"한국인", vi:"Người Hàn Quốc, Korean"},
-{ko:"아이", vi:"Trẻ em, Child"},
+
 {ko:"남자/여자", vi:"Nam giới, Man/Nữ giới, Woman"},
 {ko:"국립", vi:"Quốc lập, National"},
 {ko:"국가", vi:"Quốc gia, Nation"},
