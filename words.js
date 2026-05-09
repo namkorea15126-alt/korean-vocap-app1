@@ -1424,7 +1424,7 @@ var WORDS = [
 {ko:"주무관님", vi:"Quản lý chính"},
 
 
-  */ Gia đình /*
+  /* Gia đình */
 {ko:"가족", vi:"Gia đình, Family"},
 {ko:"나", vi:"Tôi, I"},
 {ko:"저희", vi:"Chúng tôi (khiêm nhường), We (humble)"},
