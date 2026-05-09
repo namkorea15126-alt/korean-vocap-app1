@@ -198,7 +198,7 @@ var WORDS = [
 {ko:"다짐", vi:"Sự quyết tâm, Resolution"},
 {ko:"다짐하다", vi:"Quyết tâm, Resolve"},
 {ko:"때로", vi:"Đôi khi, Sometimes"},
-{ko:"연인", vi:"Người yêu, Lover"},
+
 
 {ko:"공문", vi:"Công văn, Official document"},
 {ko:"종목", vi:"Môn / hạng mục, Event / Category"},
@@ -418,8 +418,7 @@ var WORDS = [
 {ko:"골프", vi:"Golf, Golf"},
 {ko:"골프장", vi:"Sân golf, Golf course"},
 {ko:"곳", vi:"Nơi / chỗ, Place"},
-{ko:"까다", vi:"Bóc / lột (vỏ), Peel"},
-{ko:"깎다", vi:"Gọt / cắt / giảm, Cut / Trim / Reduce"},
+
 
 {ko:"년", vi:"Năm (đơn vị), Year (counter)"},
 {ko:"눕다", vi:"Nằm, Lie down"},
@@ -1067,9 +1066,7 @@ var WORDS = [
 {ko:"언제나", vi:"Luôn luôn, Always"},
 {ko:"기뻐하다", vi:"Vui mừng, Be glad"},
 {ko:"화가", vi:"Họa sĩ, Painter"},  
-{ko:"곱다", vi:"Đẹp, mịn, dịu (màu sắc, da), Beautiful / Fine"},
-{ko:"고맙다", vi:"Biết ơn / cảm ơn, Thankful"},
-{ko:"반갑다", vi:"Vui mừng khi gặp, Glad / Nice to meet"}, 
+
 {ko:"나열하다", vi:"Liệt kê, List / Enumerate"},
 {ko:"서비스", vi:"Dịch vụ, Service"},
 {ko:"들어봅시다", vi:"Hãy nghe thử nhé, Let's listen"},  
@@ -1417,7 +1414,6 @@ var WORDS = [
 {ko:"학생", vi:"Học sinh, sinh viên, Student"},
 {ko:"가수", vi:"Ca sĩ, Singer"},
 {ko:"배우", vi:"Diễn viên, Actor"},
-{ko:"요리사/ 주방장", vi:"Đầu bếp/ Bếp trưởng, Chef"},
 {ko:"농부", vi:"Nông dân, Farmer"},
 {ko:"운전사", vi:"Tài xế, Driver"},
 {ko:"조종사", vi:"Phi công, Pilot"},
@@ -1428,6 +1424,7 @@ var WORDS = [
 {ko:"주무관님", vi:"Quản lý chính"},
 
 
+  */ Gia đình /*
 {ko:"가족", vi:"Gia đình, Family"},
 {ko:"나", vi:"Tôi, I"},
 {ko:"저희", vi:"Chúng tôi (khiêm nhường), We (humble)"},
@@ -1457,14 +1454,12 @@ var WORDS = [
 {ko:"애기", vi:"(Thường viết → 아기) Em bé, Baby"},
 {ko:"시집", vi:"Nhà chồng / tập thơ, Husband's family / Poetry collection"},
 {ko:"시집가다", vi:"Đi lấy chồng, Get married (woman)"},
-
-  
+{ko:"연인", vi:"Người yêu, Lover"},
+ {ko:"남자/여자", vi:"Nam giới, Man/Nữ giới, Woman"}, 
 {ko:"씨", vi:"Hậu tố xưng hô lịch sự, Polite suffix"},
 {ko:"자기", vi:"Bản thân / anh-em (thân mật), Honey / Self"},
 {ko:"내", vi:"Của tôi / tôi (dạng bổ nghĩa), My"},
 {ko:"한국인", vi:"Người Hàn Quốc, Korean"},
-
-{ko:"남자/여자", vi:"Nam giới, Man/Nữ giới, Woman"},
 
 {ko:"요금소", vi:"Trạm thu phí, Toll booth"},
 {ko:"국립", vi:"Quốc lập, National"},
@@ -1477,7 +1472,6 @@ var WORDS = [
 {ko:"공원", vi:"Công viên, Park"},
 {ko:"학교", vi:"Trường học, School"},
 {ko:"교실", vi:"Phòng học, Classroom"},
-{ko:"부엌", vi:"Bếp, Kitchen"},  
 {ko:"거실", vi:"Phòng khách, Living room"},
 {ko:"침실", vi:"Phòng ngủ, Bedroom"},
 {ko:"체력 단련실", vi:"Phòng tập thể lực, Gym"},
@@ -1511,11 +1505,7 @@ var WORDS = [
 {ko:"컴퓨터", vi:"Computer"},
 {ko:"텔레비전", vi:"Television"},
 {ko:"라디오", vi:"Radio"},
-{ko:"부엌용품", vi:"Đồ dùng nhà bếp, Kitchen utensils"},
-{ko:"그릇/ 접시", vi:"Bowl/ Plate"},
-{ko:"냄비", vi:"Nồi, Pot"},
-{ko:"전기밥솥", vi:"Nồi cơm điện, Rice cooker"},
-{ko:"프라이팬", vi:"Chảo chiên, Frying pan"},
+
 {ko:"젓가락/ 숟가락/ 포크", vi:"Chopsticks/ Spoon/ Fork"},
 {ko:"컵", vi:"Cốc, Cup"},
 {ko:"비누", vi:"Xà phòng, Soap"},
@@ -1916,8 +1906,7 @@ var WORDS = [
 {ko:"샤워", vi:"Shower"},
 {ko:"샤워하다", vi:"Take a shower"},
 {ko:"청소하다", vi:"Clean"},
-{ko:"요리하다", vi:"Cook"},
-{ko:"설거지하다", vi:"Rửa bát, Wash dishes"},
+
 {ko:"다림질하다", vi:"Là ủi, Iron clothes"},
 {ko:"양치하다", vi:"Đánh răng, Brush teeth"},
 {ko:"화장하다", vi:"Trang điểm, Put on makeup"},
@@ -1946,6 +1935,25 @@ var WORDS = [
 {ko:"확인", vi:"Sự xác nhận / kiểm tra, Confirmation / Check"},
 {ko:"확인하다", vi:"Xác nhận / kiểm tra, Confirm / Check"},
 
+
+
+  
+  /* Bếp */
+ {ko:"요리하다", vi:"Cook"},
+{ko:"설거지하다", vi:"Rửa bát, Wash dishes"},
+{ko:"요리사/ 주방장", vi:"Đầu bếp/ Bếp trưởng, Chef"},
+{ko:"부엌용품", vi:"Đồ dùng nhà bếp, Kitchen utensils"},
+{ko:"부엌", vi:"Bếp, Kitchen"}, 
+{ko:"까다", vi:"Bóc / lột (vỏ), Peel"},
+{ko:"깎다", vi:"Gọt / cắt / giảm, Cut / Trim / Reduce"},
+{ko:"그릇/ 접시", vi:"Bowl/ Plate"},
+{ko:"냄비", vi:"Nồi, Pot"},
+{ko:"전기밥솥", vi:"Nồi cơm điện, Rice cooker"},
+{ko:"프라이팬", vi:"Chảo chiên, Frying pan"},
+
+
+  
+  
   /* Tính từ */
 {ko:"짧다", vi:"Short"},
 {ko:"길다", vi:"Long"},
@@ -1960,6 +1968,9 @@ var WORDS = [
 {ko:"뜨겁다", vi:"Hot"},
 {ko:"느리다", vi:"Slow"},
 {ko:"멋있다", vi:"Đẹp trai, Cool"},
+{ko:"곱다", vi:"Đẹp, mịn, dịu (màu sắc, da), Beautiful / Fine"},
+{ko:"고맙다", vi:"Biết ơn / cảm ơn, Thankful"},
+{ko:"반갑다", vi:"Vui mừng khi gặp, Glad / Nice to meet"}, 
 {ko:"무섭다", vi:"Scary"},
 {ko:"어렵다", vi:"Difficult"},
 {ko:"쉽다", vi:"Easy"},
@@ -1974,13 +1985,20 @@ var WORDS = [
 {ko:"잃어버리다", vi:"To lose"},
 {ko:"대하다", vi:"Đối xử / đối diện, To treat / face"},
 {ko:"같다", vi:"Same / Similar"},
+
+
+
   
   /* Tri giác */
 {ko:"보다", vi:"See / Watch"},
 {ko:"보이다", vi:"Được nhìn thấy, Be seen"},
 {ko:"듣다", vi:"Listen"},
 {ko:"읽다", vi:"Read"},
- 
+
+
+
+
+  
   /* Tính từ – Miêu tả */
 {ko:"좋다", vi:"Good"},
 {ko:"나쁘다", vi:"Bad"},
@@ -2000,11 +2018,19 @@ var WORDS = [
 {ko:"편하다", vi:"Comfortable"},
 {ko:"귀엽다", vi:"Cute"},
 
+
+
+
+  
   /* Biểu hiện & mức độ */
 {ko:"어떻다", vi:"Như thế nào, How"},
 {ko:"어떠하다", vi:"Như thế nào (trang trọng), How (formal)"},
 {ko:"천천히 하다", vi:"Làm chậm rãi, Do slowly"},
 
+
+
+
+  
   /* Trạng từ */
 {ko:"아주/매우", vi:"Rất, Very"},
 {ko:"그냥", vi:"Cứ / đơn giản là, Just"},
@@ -2029,6 +2055,11 @@ var WORDS = [
 {ko:"회사 차량", vi:"Xe công ty, Company vehicle"},
 {ko:"목걸이", vi:"Dây chuyền, Necklace"},
 {ko:"목도리", vi:"Khăn quàng cổ, Scarf"},
+
+
+
+
+
   
     /* Con người */
 {ko:"몸", vi:"Cơ thể, Body"},
@@ -2072,6 +2103,11 @@ var WORDS = [
 {ko:"폐", vi:"Phổi, Lung"},
 {ko:"위", vi:"Dạ dày, Stomach"}, 
 
+
+
+
+
+  
     /* Quân đội */
 {ko:"전투", vi:"Trận chiến, Battle"},
 {ko:"공격", vi:"Tấn công, Attack"},
