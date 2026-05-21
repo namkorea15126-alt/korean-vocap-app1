@@ -998,23 +998,7 @@ var WORDS = [
 {ko:"기다리다", vi:"Wait"},
 {ko:"난방", vi:"Sưởi ấm, Heating"},
 {ko:"냉방", vi:"Làm mát, Air conditioning"},
-{ko:"무엇을 도와드릴까요?", vi:"Tôi có thể giúp gì cho bạn?, How may I help you?"},
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-  
+{ko:"무엇을 도와드릴까요?", vi:"Tôi có thể giúp gì cho bạn?, How may I help you?"}, 
 {ko:"슬프다", vi:"Buồn, Sad"},
 {ko:"데이트/ 데이트하다", vi:"Hẹn hò, Date/ To date"},
 {ko:"출타", vi:"Ra ngoài có phép, Authorized leave"},
@@ -1413,6 +1397,16 @@ var WORDS = [
 {ko:"고모부", vi:"Chồng của cô, Uncle by marriage"},
 {ko:"외할머니", vi:"Bà ngoại, Maternal grandmother"},
 {ko:"부부", vi:"Vợ chồng, Couple"},
+
+
+
+
+
+
+
+
+
+
 {ko:"형제", vi:"Anh em, Siblings"},
 {ko:"부모님", vi:"Bố mẹ (kính ngữ), Parents"},
 {ko:"아버지", vi:"Bố, cha, Father"},
