@@ -38,7 +38,7 @@ var WORDS = [
 {ko:"열차", vi:"Tàu hỏa, Train"},
 {ko:"상징", vi:"Biểu tượng, Symbol"},
 {ko:"상징하다", vi:"Tượng trưng cho, Symbolize"},
-{ko:"주염", vi:"(Sai chính tả → 주연) Vai chính, Leading role"},
+{ko:"수염", vi:"Râu, Beard"},
 {ko:"연초", vi:"Đầu năm, Beginning of the year"},
 {ko:"연중", vi:"Suốt năm, Throughout the year"},
 {ko:"연말", vi:"Cuối năm, End of the year"},
