@@ -997,7 +997,7 @@ var WORDS = [
 {ko:"마르다", vi:"Khô / gầy, Dry / Thin"},
 {ko:"잔잔", vi:"Sự yên lặng / êm đềm, Calmness"},
 {ko:"잔잔하다", vi:"Êm đềm / yên ả, Calm"},
-{ko:"미지근하다", vi:"Âm ấm, Lukewarm"},
+{ko:"미지근하다", vi:"Âm ấm, lãnh đạm, thờ ơ, Lukewarm"},
 {ko:"튼튼하다", vi:"Chắc chắn / khỏe mạnh, Strong / Sturdy"},
 {ko:"약하다", vi:"Yếu, Weak"},
 {ko:"신나다", vi:"Hào hứng, Be excited"},
