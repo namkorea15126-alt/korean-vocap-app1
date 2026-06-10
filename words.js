@@ -1,6 +1,9 @@
 var WORDS = [ 
 
   /* Giao thông / Di chuyển */
+{ko:"빗길", vi:"Đường trời mưa, Rainy road"},
+{ko:"운행", vi:"Sự vận hành (xe cộ), Operation"},
+{ko:"자가용", vi:"Xe riêng, Private car"},
 {ko:"가다", vi:"Go"},
 {ko:"오다", vi:"Come"},
 {ko:"나가다", vi:"Go out"},
@@ -185,6 +188,9 @@ var WORDS = [
 {ko:"건강하다", vi:"Healthy"},
   
   /* Học tập */
+{ko:"핵심", vi:"Cốt lõi / trọng tâm, Core / Key point"},
+{ko:"밑줄", vi:"Gạch chân, Underline"},
+{ko:"부분", vi:"Phần, Part"},
 {ko:"사다/ 구매하다", vi:"Buy/ Purchase"},
 {ko:"일/ 일하다", vi:"Work"},
 {ko:"공부/ 공부하다", vi:"Study"},
@@ -308,6 +314,11 @@ var WORDS = [
 {ko:"통과/ 통과하다", vi:"Vượt qua / thông qua, Pass/Vượt qua / đậu (kỳ thi, kiểm tra), Pass"},
   
   /* Xã hội / Hoạt động */
+{ko:"시민", vi:"Công dân, Citizen"},
+{ko:"홍보", vi:"Quảng bá, Promotion"},
+{ko:"선거", vi:"Bầu cử, Election"},
+{ko:"예절", vi:"Lễ nghi, Etiquette"},
+{ko:"환경보호", vi:"Bảo vệ môi trường, Environmental protection"},
 {ko:"이야기", vi:"Câu chuyện / nói chuyện, Story / Talk"},
 {ko:"묻다", vi:"Ask"},
 {ko:"대답하다", vi:"Trả lời, Answer"},
@@ -438,6 +449,17 @@ var WORDS = [
 {ko:"공연", vi:"Buổi biểu diễn, Performance"},
   
   /* Đời sống hằng ngày */
+{ko:"생활화", vi:"Sự trở thành thói quen trong đời sống, Habitualization"},
+{ko:"사연", vi:"Câu chuyện / hoàn cảnh, Story / Circumstance"},
+{ko:"환송", vi:"Sự tiễn đưa, Farewell"},
+{ko:"환송하다", vi:"Tiễn đưa, See off"},
+{ko:"환송회", vi:"Tiệc chia tay, Farewell party"},
+{ko:"추억", vi:"Kỷ niệm, Memory"},
+{ko:"인원수", vi:"Số người, Number of people"},
+{ko:"보살피다", vi:"Chăm sóc, Take care of"},
+{ko:"습관", vi:"Thói quen, Habit"},
+{ko:"즐기다", vi:"Tận hưởng, Enjoy"},
+{ko:"살피다", vi:"Quan sát / xem xét, Examine / Look over"},
 {ko:"마시다", vi:"Drink"},
 {ko:"쉬다", vi:"Rest"},
 {ko:"목욕하다", vi:"Take a bath"},
@@ -702,6 +724,11 @@ var WORDS = [
 {ko:"돕다", vi:"Giúp đỡ, Help"},
   
   /* Con người / Quan hệ */
+{ko:"부모", vi:"Cha mẹ, Parents"},
+{ko:"이웃", vi:"Hàng xóm, Neighbor"},
+{ko:"성인", vi:"Người trưởng thành, Adult"},
+{ko:"입속", vi:"Trong miệng, Inside the mouth"},
+{ko:"치아", vi:"Răng, Teeth"},
 {ko:"도와주다", vi:"Giúp đỡ, Help"},
 {ko:"별말씀을요", vi:"Không có gì đâu, You're welcome"},
 {ko:"부러워하다", vi:"Ghen tị / ngưỡng mộ, Envy"},
@@ -836,6 +863,8 @@ var WORDS = [
 {ko:"위", vi:"Dạ dày, Stomach"},
   
   /* Thời gian / Dịp lễ */
+{ko:"동시", vi:"Đồng thời, Simultaneously"},
+{ko:"후기", vi:"Đánh giá sau sử dụng / hậu kỳ, Review"},
 {ko:"어젯밤", vi:"Đêm qua, Last night"},
 {ko:"박", vi:"Đêm / quả bầu, Night / Gourd"},
 {ko:"얼마", vi:"Bao nhiêu / bao lâu, How much / How long"},
@@ -1032,6 +1061,16 @@ var WORDS = [
 {ko:"특별하다", vi:"Special"},
   
   /* Khái niệm / Trừu tượng */
+{ko:"이어", vi:"Tiếp theo / nối tiếp, Following / Continuing"},
+{ko:"저렴", vi:"Sự rẻ, Affordability"},
+{ko:"특정", vi:"Sự xác định cụ thể, Specification"},
+{ko:"임시", vi:"Tạm thời, Temporary"},
+{ko:"가능", vi:"Khả năng / có thể, Possible"},
+{ko:"경우", vi:"Trường hợp, Case"},
+{ko:"효과", vi:"Hiệu quả, Effect"},
+{ko:"수단", vi:"Phương tiện / biện pháp, Means / Method"},
+{ko:"비율", vi:"Tỷ lệ, Ratio"},
+{ko:"그대로", vi:"Nguyên như vậy, As it is"},
 {ko:"단점", vi:"Nhược điểm, Weakness"},
 {ko:"기", vi:"Khí / năng lượng / kỳ, Energy / Spirit"},
 {ko:"대상", vi:"Đối tượng / giải lớn, Target / Grand prize"},
@@ -1167,6 +1206,9 @@ var WORDS = [
 {ko:"기능", vi:"Chức năng, Function"},
   
   /* Ăn uống / Sức khỏe */
+{ko:"단백질", vi:"Chất đạm, Protein"},
+{ko:"재료", vi:"Nguyên liệu, Ingredient / Material"},
+{ko:"식품", vi:"Thực phẩm, Food products"},
 {ko:"한턱 쏘다", vi:"Đãi ăn / bao ăn, Treat someone"},
 {ko:"도시락", vi:"Cơm hộp, Lunch box"},
 {ko:"갈비/ 갈비탕", vi:"Sườn, Ribs/Canh sườn, Rib soup"},
@@ -1268,6 +1310,26 @@ var WORDS = [
 {ko:"시외", vi:"Ngoại ô, Suburbs"},
   
   /* Hành động phổ biến */
+{ko:"찾아가다", vi:"Tìm đến / đến thăm, Go to visit"},
+{ko:"제공하다", vi:"Cung cấp, Provide"},
+{ko:"교체하다", vi:"Thay thế, Replace"},
+{ko:"밝혀내다", vi:"Làm sáng tỏ / phát hiện ra, Reveal / Discover"},
+{ko:"피하다", vi:"Tránh, Avoid"},
+{ko:"특정하다", vi:"Chỉ rõ / xác định, Specify"},
+{ko:"배려하다", vi:"Quan tâm / cân nhắc cho người khác, Be considerate"},
+{ko:"굽다", vi:"Nướng / cúi người, Grill / Bend"},
+{ko:"피하다", vi:"Tránh, Avoid"},
+{ko:"담다", vi:"Đựng / chứa, Put in / Contain"},
+{ko:"담기다", vi:"Được chứa / được đựng, Be contained"},
+{ko:"상상하다", vi:"Tưởng tượng, Imagine"},
+{ko:"실천하다", vi:"Thực hiện / thực hành, Practice / Carry out"},
+{ko:"응답하다", vi:"Trả lời, Respond"},
+{ko:"미루다", vi:"Hoãn lại, Postpone"},
+{ko:"덮다", vi:"Đậy / phủ, Cover"},
+{ko:"입력하다", vi:"Nhập liệu, Input"},
+{ko:"전송", vi:"Truyền gửi, Transmission"},
+{ko:"게시", vi:"Đăng tải / niêm yết, Posting"},
+{ko:"내려받다", vi:"Tải xuống, Download"},
 {ko:"도와주다", vi:"Giúp đỡ, Help"},
 {ko:"복사하다", vi:"Sao chép, Copy"},
 {ko:"빌리다", vi:"Mượn, Borrow"},
@@ -1317,6 +1379,13 @@ var WORDS = [
 {ko:"신다", vi:"Mang / đi (giày, tất), Wear (shoes/socks)"},
   
   /* Công việc / Nghề nghiệp */
+{ko:"운영하다", vi:"Vận hành / điều hành, Operate / Manage"},
+{ko:"전문", vi:"Chuyên môn / chuyên về, Specialty / Professional"},
+{ko:"기사", vi:"Bài báo / tài xế / kỹ sư, Article / Driver / Engineer"},
+{ko:"기업", vi:"Doanh nghiệp, Company"},
+{ko:"취업", vi:"Xin được việc / có việc làm, Employment"},
+{ko:"업무", vi:"Công việc / nghiệp vụ, Work / Task"},
+{ko:"직장인", vi:"Người đi làm, Office worker"},
 {ko:"성과", vi:"Thành quả, Achievement"},
 {ko:"포상", vi:"Khen thưởng, Reward"},
 {ko:"진행자", vi:"Người dẫn chương trình, Host / Presenter"},
@@ -1377,6 +1446,8 @@ var WORDS = [
 {ko:"취직하다", vi:"Xin được việc, Get a job"},
   
   /* Mua sắm / Cửa hàng */
+{ko:"매장", vi:"Cửa hàng, Store"},
+{ko:"저렴하다", vi:"Rẻ, Inexpensive"},
 {ko:"당첨", vi:"Trúng thưởng, Winning"},
 {ko:"당첨되다", vi:"Được trúng thưởng, Win"},
 {ko:"당첨금", vi:"Tiền trúng thưởng, Prize money"},
@@ -1488,7 +1559,7 @@ var WORDS = [
 {ko:"서비스", vi:"Dịch vụ, Service"},
 {ko:"인형", vi:"Doll"},
   
-  /* Tự nhiên / Thế giới */
+  /* Tự nhiên / Động vật */
 {ko:"대양", vi:"Đại dương, Ocean"},
 {ko:"단풍", vi:"Lá đỏ mùa thu, Autumn leaves"},
 {ko:"언덕", vi:"Đồi, Hill"},
@@ -1543,6 +1614,9 @@ var WORDS = [
 {ko:"곰", vi:"Con gấu, Bear"},
 {ko:"배", vi:"Pear / Belly / Boat"},
 {ko:"발", vi:"Foot"},
+{ko:"수놈", vi:"Con đực, Male animal"},
+{ko:"암놈", vi:"Con cái, Female animal"},
+{ko:"애완견", vi:"Chó nuôi cảnh, Pet dog"}, 
   
   /* Thể thao / Thi đấu */
 {ko:"스포츠", vi:"Thể thao, Sports"},
@@ -1604,8 +1678,13 @@ var WORDS = [
   /* Ngữ pháp / Biểu hiện */
 {ko:"여쭤보다", vi:"Hỏi (kính ngữ), Ask politely"},
 {ko:"모르면 여쭤봐도 돼요", vi:"Nếu không biết thì có thể hỏi, You can ask if you don’t know"},
-
+{ko:"뵙다", vi:"Gặp (kính ngữ), Meet (honorific)"},
+  
   /* Địa điểm / Công trình */
+{ko:"매장", vi:"Cửa hàng, Store"},
+{ko:"계단", vi:"Cầu thang, Stairs"},
+{ko:"공연장", vi:"Nhà hát / nơi biểu diễn, Performance hall"},
+{ko:"전망대", vi:"Đài quan sát, Observatory"},
 {ko:"요금소", vi:"Trạm thu phí, Toll booth"},
 {ko:"공원", vi:"Công viên, Park"},
 {ko:"학교", vi:"Trường học, School"},
@@ -1641,6 +1720,12 @@ var WORDS = [
 {ko:"기념관", vi:"Nhà tưởng niệm, Memorial hall"},
 
   /* Công nghệ / Điện tử */
+{ko:"부품", vi:"Linh kiện, Component"},
+{ko:"교체", vi:"Sự thay thế, Replacement"},
+{ko:"입력하다", vi:"Nhập liệu, Input"},
+{ko:"전원", vi:"Toàn bộ / nguồn điện, All members / Power"},
+{ko:"진동", vi:"Rung động, Vibration"},
+{ko:"제품", vi:"Sản phẩm, Product"},
 {ko:"전원", vi:"Toàn bộ / nguồn điện, All members / Power"},
 {ko:"인터넷", vi:" Internet"},
 {ko:"복사기", vi:"Máy photocopy, Copier"},
@@ -1673,6 +1758,8 @@ var WORDS = [
 {ko:"라디오", vi:"Radio"},
 
   /* Đồ dùng sinh hoạt / vệ sinh */
+{ko:"부품", vi:"Linh kiện, Component"},
+{ko:"손수건", vi:"Khăn tay, Handkerchief"},
 {ko:"요리하다", vi:"Cook"},
 {ko:"설거지하다", vi:"Rửa bát, Wash dishes"},
 {ko:"요리사/ 주방장", vi:"Đầu bếp/ Bếp trưởng, Chef"},
@@ -1698,6 +1785,7 @@ var WORDS = [
 {ko:"쓰레기", vi:"Rác"},
 
   /* Quần áo & phụ kiện */
+{ko:"의류", vi:"Quần áo / may mặc, Clothing"},
 {ko:"옷", vi:"Quần áo, Clothes"},
 {ko:"옷장", vi:"Tủ quần áo, Wardrobe"},
 {ko:"겨울옷", vi:"Quần áo mùa đông, Winter clothes"},
@@ -1722,7 +1810,10 @@ var WORDS = [
 {ko:"의자", vi:"Chair"},
 {ko:"탁자", vi:"Table"},
 
-  /* Ảnh & truyền thông */   
+  /* Ảnh & truyền thông */
+{ko:"기사", vi:"Bài báo, Article"},
+{ko:"홍보", vi:"Quảng bá, Promotion"},
+{ko:"촬영", vi:"Quay phim / chụp ảnh, Filming / Shooting"},
 {ko:"사진", vi:"Photo"},
 {ko:"카메라/ 사진기", vi:"Camera"},
 {ko:"사진 찍다", vi:"Chụp ảnh, Take photos"},
@@ -1969,6 +2060,8 @@ var WORDS = [
 {ko:"부부", vi:"Vợ chồng, Couple"},
 
   /* Bưu điện / Giao nhận */
+{ko:"문의", vi:"Sự hỏi / thắc mắc, Inquiry"},
+{ko:"배송되다", vi:"Được giao hàng, Be delivered"},
 {ko:"부치다", vi:"Gửi (bưu phẩm), Send / Mail"},
 {ko:"소포", vi:"Bưu kiện, Parcel"},
 
@@ -1977,6 +2070,11 @@ var WORDS = [
 {ko:"교회", vi:"Nhà thờ, Church"},
 
   /* Ngôn ngữ / Ngữ pháp */
+{ko:"능동", vi:"Chủ động, Active voice / Initiative"},
+{ko:"피동", vi:"Bị động, Passive voice"},
+{ko:"타동사", vi:"Ngoại động từ, Transitive verb"},
+{ko:"자동사", vi:"Nội động từ, Intransitive verb"},
+{ko:"조사", vi:"Trợ từ, Particle"},
 {ko:"언어", vi:"Ngôn ngữ, Language"},
 {ko:"외래어", vi:"Từ vay mượn, Loanword"},
 {ko:"가지 언어", vi:"Nhiều ngôn ngữ, Various languages"},
@@ -1996,6 +2094,7 @@ var WORDS = [
 {ko:"의미", vi:"Ý nghĩa, Meaning"},  
 
   /* Quốc gia/ quê hương / địa lý */
+{ko:"지방", vi:"Địa phương / chất béo, Region / Fat"},
 {ko:"한국인", vi:"Người Hàn Quốc, Korean"},
 {ko:"국립", vi:"Quốc lập, National"},
 {ko:"국가", vi:"Quốc gia, Nation"},
@@ -2133,6 +2232,9 @@ var WORDS = [
 {ko:"어떠하다", vi:"Như thế nào (trang trọng), How (formal)"},
 
   /* Trạng từ thông dụng */
+{ko:"내내", vi:"Suốt, Throughout"},
+{ko:"반짝", vi:"Lấp lánh, Sparkle"},
+{ko:"거의", vi:"Hầu như, Almost"},
 {ko:"천천히 하다", vi:"Làm chậm rãi, Do slowly"},
 {ko:"아주/매우", vi:"Rất, Very"},
 {ko:"그냥", vi:"Cứ / đơn giản là, Just"},
@@ -2152,7 +2254,30 @@ var WORDS = [
 {ko:"아마", vi:"Probably"},
 {ko:"처럼", vi:"Như / giống như, Like / As"},
 
+  /* Từ Hán Hàn phổ biến */
+{ko:"문의", vi:"Thắc mắc / liên hệ, Inquiry"},
+{ko:"전송", vi:"Truyền gửi, Transmission"},
+{ko:"가능", vi:"Khả năng / có thể, Possible"},
+{ko:"게시", vi:"Đăng tải / niêm yết, Posting"},
+
+  /* Cảm xúc & Giấc mơ */
+{ko:"꿈나라", vi:"Thế giới giấc mơ, Dreamland"},
+  
   /* Tính từ miêu tả kích thước & trạng thái */
+{ko:"저렴하다", vi:"Rẻ, Inexpensive"},
+{ko:"밝혀지다", vi:"Được làm sáng tỏ, Be revealed"},
+{ko:"잔잔하다", vi:"Êm đềm / yên ả, Calm"},
+{ko:"당하다", vi:"Bị (chịu tác động), Suffer / Be subjected to"},
+{ko:"망가지다", vi:"Bị hỏng, Break down"},
+{ko:"붐비다", vi:"Đông đúc, Be crowded"},
+{ko:"뒤늦다", vi:"Muộn màng, Late"},
+{ko:"풍부하다", vi:"Phong phú / dồi dào, Abundant"},
+{ko:"튼튼하다", vi:"Khỏe mạnh / chắc chắn, Strong / Sturdy"},
+{ko:"부드럽다", vi:"Mềm mại, Soft"},
+{ko:"포근하다", vi:"Ấm áp, Cozy / Warm"},
+{ko:"가능", vi:"Khả năng / có thể, Possible"},
+{ko:"길어지다", vi:"Dài ra, Become longer"},
+{ko:"줄다", vi:"Giảm xuống, Decrease"},
 {ko:"짧다", vi:"Short"},
 {ko:"길다", vi:"Long"},
 {ko:"넓다", vi:"Wide"},
@@ -2167,6 +2292,9 @@ var WORDS = [
 {ko:"느리다", vi:"Slow"},
 
   /* Vị trí / Phương hướng */
+{ko:"편", vi:"Phía / bên / tập (phim), Side / Episode"},
+{ko:"속", vi:"Bên trong, Inside"},
+{ko:"이하", vi:"Trở xuống / dưới, Below"},
 {ko:"맞은편", vi:"Opposite"},
 {ko:"건너편", vi:"Bên kia / đối diện, Across / Opposite"},
 {ko:"위", vi:"Above"},
