@@ -219,7 +219,7 @@ var WORDS = [
 {ko:"명령문", vi:"Câu mệnh lệnh, Imperative sentence"},
 {ko:"분위기", vi:"Bầu không khí, Atmosphere"},
 {ko:"소설책", vi:"Sách tiểu thuyết, Novel"},
-{ko:"전망", vi:"Triển vọng / quang cảnh, Prospect / View"},
+{ko:"전망", vi:"Triển vọng / Tầm nhìn, Prospect"},
 {ko:"콘서트", vi:"Buổi hòa nhạc, Concert"},
 {ko:"추석", vi:"Tết Trung thu Hàn Quốc, Chuseok"},
 {ko:"추석날", vi:"Ngày Chuseok, Chuseok day"},
