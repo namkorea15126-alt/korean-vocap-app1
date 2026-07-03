@@ -1,7 +1,11 @@
 var WORDS = [ 
 
 
-
+{ko:"교차", vi:"Sự giao nhau / giao cắt, Intersection / Crossing"},
+{ko:"교차점", vi:"Điểm giao nhau, Intersection point"},
+{ko:"교차하다", vi:"Giao nhau / cắt nhau, Intersect / Cross"},
+{ko:"교차되다", vi:"Được giao nhau / giao cắt, Be crossed / Intersect"},
+{ko:"교차로", vi:"Ngã tư / giao lộ, Intersection"},
 
 {ko:"점점", vi:"Dần dần, Gradually"},
 {ko:"닮다", vi:"Giống, Resemble"},
