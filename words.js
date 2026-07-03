@@ -1087,7 +1087,7 @@ var WORDS = [
 {ko:"지키다", vi:"Giữ / tuân thủ, Keep / Follow"},
 {ko:"짧게", vi:"Ngắn gọn, Briefly"},
 {ko:"버리다", vi:"Vứt bỏ, Throw away"},
-{ko:"상자/ 박스", vi:"Hộp, Thùng, Box"},
+{ko:"박스", vi:"Hộp, Thùng, Box"},
 {ko:"옮기다", vi:"Di chuyển / chuyển, Move / Transfer"},
 {ko:"얼른", vi:"Nhanh lên / mau, Quickly"},
 {ko:"따로", vi:"Riêng / riêng biệt, Separately"},
