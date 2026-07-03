@@ -381,7 +381,7 @@ var WORDS = [
 {ko:"귀국", vi:"Sự về nước, Return to one's country"},
 {ko:"귀국하다", vi:"Về nước, Return to one's country"},
 {ko:"깔끔하다", vi:"Gọn gàng / sạch sẽ, Neat / Clean"},
-{ko:"다지다", vi:"Làm chắc / củng cố, Strengthen"},
+{ko:"다지다", vi:"Băm, Củng cố, Strengthen"},
 {ko:"담그다", vi:"Ngâm, Soak"},
 {ko:"드라마", vi:"Phim truyền hình, Drama"},
 {ko:"무", vi:"Củ cải, Radish"},
