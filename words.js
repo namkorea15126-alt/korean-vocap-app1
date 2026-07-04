@@ -631,7 +631,7 @@ var WORDS = [
 {ko:"위독", vi:"Tình trạng nguy kịch, Critical condition"},
 {ko:"위독하다", vi:"Nguy kịch, Be critical"},
 {ko:"신체검사", vi:"Khám sức khỏe, Physical exam"},
-{ko:"안부", vi:"Sức khỏe / tình hình (hỏi thăm), Well-being"},
+{ko:"안부", vi:"Hỏi thăm, Well-being"},
 {ko:"취기", vi:"Men say, Intoxication"},
 {ko:"취하다", vi:"Say (rượu), Get drunk"},
 {ko:"낫다", vi:"Khỏi bệnh / tốt hơn, Get better"},
