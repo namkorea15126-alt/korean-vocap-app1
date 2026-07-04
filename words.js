@@ -1331,7 +1331,7 @@ var WORDS = [
 {ko:"기념일", vi:"Ngày kỷ niệm, Anniversary"},
 {ko:"몇", vi:"Mấy / bao nhiêu, How many"},
 {ko:"연초", vi:"Đầu năm, Beginning of the year"},
-{ko:"연중", vi:"Suốt năm, Throughout the year"},
+{ko:"연중", vi:"Giữa năm năm, Middle of the year"},
 {ko:"연말", vi:"Cuối năm, End of the year"},
 {ko:"명절", vi:"Ngày lễ truyền thống, Holiday"},
 {ko:"새해", vi:"Năm mới, New Year"},
