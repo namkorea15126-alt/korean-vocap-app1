@@ -32,7 +32,6 @@ var WORDS = [
 {ko:"친지", vi:"Người thân / họ hàng, Relatives and acquaintances"},
 {ko:"탄수화물", vi:"Tinh bột / carbohydrate, Carbohydrate"},
 {ko:"훌륭하다", vi:"Xuất sắc / tuyệt vời, Excellent"},
-{ko:"임관", vi:"Được phong quân hàm / bổ nhiệm sĩ quan, Commissioning as an officer"},
 
 {ko:"문병하다", vi:"Đi thăm người bệnh, Visit a sick person"},
 {ko:"문병객", vi:"Người đến thăm bệnh, Visitor of a patient"},
@@ -1946,6 +1945,7 @@ var WORDS = [
 {ko:"제대", vi:"Xuất ngũ, Discharge"},
 {ko:"제대하다", vi:"Xuất ngũ, Discharge"},
 {ko:"무관님", vi:"Tuỳ viên quân sự"},
+{ko:"임관", vi:"Nhậm chức (sĩ quan), Be commissioned"},
 {ko:"임관하다", vi:"Nhậm chức (sĩ quan), Be commissioned"},
 {ko:"관리자", vi:"Quản lý, Manager"},
 {ko:"점원", vi:"Nhân viên bán hàng, Clerk"},
