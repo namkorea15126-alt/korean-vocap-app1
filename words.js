@@ -30,7 +30,7 @@ var WORDS = [
 {ko:"구체화하다", vi:"Cụ thể hóa, Materialize / Specify"},
 {ko:"금연", vi:"Sự cai thuốc / cấm hút thuốc, No smoking"},
 {ko:"금연하다", vi:"Cai thuốc, Quit smoking"},
-{ko:"금연석", vi:"Ghế không hút thuốc, Non-smoking seat"},
+{ko:"금연석", vi:"Chỗ cấm hút thuôcd, Non-smoking seat"},
 {ko:"노력", vi:"Sự nỗ lực, Effort"},
 {ko:"노력하다", vi:"Nỗ lực, Make an effort"},
 {ko:"훈련소", vi:"Trung tâm huấn luyện, Training camp"},
