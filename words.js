@@ -1405,7 +1405,6 @@ var WORDS = [
 {ko:"넣다", vi:"Đặt vào / cho vào, Put in"},
 {ko:"늦게", vi:"Muộn, Late"},
 {ko:"문자", vi:"Ký tự / tin nhắn, Character / Text message"},
-{ko:"편리하다", vi:"Tiện lợi, Convenient"},
 {ko:"아무것", vi:"Bất cứ cái gì, Anything"},
 {ko:"아무것도", vi:"Không cái gì, Nothing"},
 {ko:"전혀", vi:"Hoàn toàn không, Not at all"},
