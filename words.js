@@ -2153,7 +2153,6 @@ var WORDS = [
 {ko:"도와주다", vi:"Giúp đỡ, Help"},
 {ko:"복사하다", vi:"Sao chép, Copy"},
 {ko:"빌리다", vi:"Mượn, Borrow"},
-{ko:"결정하다", vi:"Quyết định, Decide"},
 {ko:"관람하다", vi:"Xem / tham quan, Watch / Visit"},
 {ko:"참여하다", vi:"Tham gia, Participate"},
 {ko:"진행하다", vi:"Tiến hành, Proceed"},
