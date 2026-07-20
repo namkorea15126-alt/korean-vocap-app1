@@ -1546,7 +1546,6 @@ var WORDS = [
 {ko:"검색하다", vi:"Tìm kiếm, Search"},
 {ko:"스스로", vi:"Tự mình, By oneself"},
 {ko:"자동", vi:"Tự động, Automatic"},
-{ko:"신청서", vi:"Đơn đăng ký, Application form"},
 {ko:"소지품", vi:"Đồ mang theo, Belongings"},
 {ko:"바구니", vi:"Cái giỏ, Basket"},
 {ko:"여보세요", vi:"Alo (điện thoại), Hello"},
