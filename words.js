@@ -1,6 +1,32 @@
 var WORDS = [ 
 
 
+
+
+
+{ko:"장사", vi:"Buôn bán, Business / Trade"},
+{ko:"장사하다", vi:"Buôn bán, Do business"},
+{ko:"장사꾼", vi:"Người buôn bán, Merchant"},
+{ko:"전시회", vi:"Triển lãm, Exhibition"},
+{ko:"전통적", vi:"Mang tính truyền thống, Traditional"},
+{ko:"전통문화", vi:"Văn hóa truyền thống, Traditional culture"},
+{ko:"정월 대보름", vi:"Rằm tháng Giêng, First Full Moon Festival"},
+{ko:"조상", vi:"Tổ tiên, Ancestor"},
+{ko:"차례", vi:"Lễ cúng tổ tiên, Memorial rite"},
+{ko:"존댓말", vi:"Kính ngữ, Honorific speech"},
+{ko:"존대", vi:"Sự kính trọng / cách nói kính ngữ, Honorific treatment"},
+{ko:"존대하다", vi:"Kính trọng / dùng kính ngữ, Speak honorifically / Show respect"},
+{ko:"쥐불놀이", vi:"Trò chơi đốt cỏ truyền thống vào Rằm tháng Giêng, Traditional fire play"},
+{ko:"통하다", vi:"Thông / thông qua / có hiệu lực, Pass / Go through / Work"},
+{ko:"통합", vi:"Sự thống nhất / hợp nhất, Integration"},
+{ko:"통합하다", vi:"Thống nhất / hợp nhất, Integrate"},
+{ko:"통학", vi:"Việc đi học từ nhà, Commuting to school"},
+{ko:"통학하다", vi:"Đi học từ nhà, Commute to school"},
+{ko:"푹신", vi:"Sự mềm mại, Softness"},
+{ko:"푹신하다", vi:"Mềm, Êm, Soft / Cushiony"},
+{ko:"햇곡식", vi:"Ngũ cốc mới thu hoạch, Newly harvested grain"},
+{ko:"햇볕", vi:"Ánh nắng mặt trời, Sunlight"},
+
 {ko:"조사하다", vi:"Điều tra, Investigate"},
 {ko:"조상", vi:"Tổ tiên, Ancestor"},
 {ko:"보름", vi:"Rằm / 15 ngày, Full moon / Fifteen days"},
