@@ -3213,7 +3213,6 @@ var WORDS = [
 {ko:"처럼", vi:"Như / giống như, Like / As"},
 
   /* Từ Hán Hàn phổ biến */
-{ko:"문의", vi:"Thắc mắc / liên hệ, Inquiry"},
 {ko:"전송", vi:"Truyền gửi, Transmission"},
 {ko:"가능", vi:"Khả năng / có thể, Possible"},
 {ko:"게시", vi:"Đăng tải / niêm yết, Posting"},
