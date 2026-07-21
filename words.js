@@ -2403,7 +2403,6 @@ var WORDS = [
 {ko:"시외", vi:"Ngoại ô, Suburbs"},
   
   /* Hành động phổ biến */
-{ko:"찾아가다", vi:"Tìm đến / đến thăm, Go to visit"},
 {ko:"제공하다", vi:"Cung cấp, Provide"},
 {ko:"교체하다", vi:"Thay thế, Replace"},
 {ko:"밝혀내다", vi:"Làm sáng tỏ / phát hiện ra, Reveal / Discover"},
