@@ -2402,7 +2402,6 @@ var WORDS = [
 {ko:"그만두다", vi:"Nghỉ / bỏ (việc gì), Quit / Stop"},
 {ko:"벌다", vi:"Kiếm (tiền), Earn"},
 {ko:"지르다", vi:"La hét / hét lên, Shout"},
-{ko:"즐기다", vi:"Tận hưởng / thưởng thức, Enjoy"},
 {ko:"바라다", vi:"Hy vọng / mong muốn, Hope / Wish"},
 {ko:"꿈꾸다", vi:"Mơ ước / mơ, Dream"},
 {ko:"넘다", vi:"Vượt qua / qua, Cross"},
