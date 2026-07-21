@@ -1085,7 +1085,6 @@ var WORDS = [
 {ko:"자전거", vi:"Xe đạp, Bicycle"},
 {ko:"지하철역", vi:"Ga tàu điện ngầm, Subway station"},
 {ko:"정류장", vi:"Stop"},
-{ko:"요금소", vi:"Trạm thu phí, Toll booth"},
 {ko:"승객", vi:"Hành khách, Passenger"},
 {ko:"출퇴근", vi:"Đi làm và tan làm, Commute"},
 {ko:"출퇴근하다", vi:"Đi làm về, Commute"},
