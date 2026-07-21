@@ -1,5 +1,30 @@
 var WORDS = [ 
 
+
+
+{ko:"조치", vi:"Biện pháp / xử lý, Measure / Action"},
+{ko:"조치하다", vi:"Thực hiện biện pháp / xử lý, Take measures / Handle"},
+{ko:"참다", vi:"Chịu đựng / nhịn, Endure / Hold back"},
+{ko:"참담하다", vi:"Thảm thương / bi thảm, Miserable / Devastating"},
+{ko:"참다못하다", vi:"Không thể chịu đựng thêm nữa, Be unable to endure any longer"},
+{ko:"참담", vi:"Sự thảm thương / bi thảm, Misery / Devastation"},
+{ko:"참답다", vi:"Đúng nghĩa / chân chính, True / Genuine"},
+{ko:"소극", vi:"Sự thụ động, Passivity"},
+{ko:"소극적", vi:"Thụ động, Passive"},
+{ko:"진하다", vi:"Đậm / đặc, Strong / Thick"},
+{ko:"딱딱하다", vi:"Cứng / cứng nhắc, Hard / Stiff"},
+{ko:"가시", vi:"Gai / xương cá, Thorn / Fish bone"},
+{ko:"가시다", vi:"Rửa sạch / súc / biến mất, Rinse / Wash away / Disappear"},
+{ko:"내성", vi:"Tính hướng nội / sức đề kháng, Introversion / Resistance"},
+{ko:"내성적", vi:"Hướng nội, Introverted"},
+{ko:"외향", vi:"Tính hướng ngoại, Extroversion"},
+{ko:"외향성", vi:"Tính hướng ngoại, Extroversion"},
+{ko:"외향적", vi:"Hướng ngoại, Extroverted"},
+{ko:"의심", vi:"Sự nghi ngờ, Doubt / Suspicion"},
+{ko:"의심하다", vi:"Nghi ngờ, Doubt / Suspect"},
+{ko:"의심되다", vi:"Bị nghi ngờ / đáng nghi, Be suspected"},
+{ko:"의심스럽다", vi:"Đáng nghi / đáng ngờ, Suspicious / Doubtful"},
+
 {ko:"학습되다", vi:"Được học / được tiếp thu, Be learned"},
 {ko:"고향편", vi:"Phía quê hương / chuyến về quê, Hometown side / Trip home"},
 {ko:"범주", vi:"Phạm trù / danh mục, Category / Category group"},
