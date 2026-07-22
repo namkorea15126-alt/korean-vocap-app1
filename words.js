@@ -156,7 +156,6 @@ var WORDS = [
 {ko:"신청하다", vi:"Đăng ký / nộp đơn, Apply"},
 {ko:"명증", vi:"Sự rõ ràng, Clarity"},
 {ko:"명증하다", vi:"Rõ ràng, Be evident / Be clear"},
-{ko:"명증시키다", vi:"Làm cho rõ ràng, Clarify"},
 {ko:"무사고", vi:"Không xảy ra tai nạn, Accident-free"},
 {ko:"문의하다", vi:"Hỏi / liên hệ để hỏi, Inquire"},
 {ko:"믿다", vi:"Tin tưởng, Believe / Trust"},
