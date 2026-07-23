@@ -2150,7 +2150,6 @@ var WORDS = [
 {ko:"확실하다", vi:"Chắc chắn, Be sure"},
 {ko:"알맞다", vi:"Phù hợp, Suitable"},
 {ko:"훨씬", vi:"Hơn nhiều, Much more"},
-{ko:"영원하다", vi:"Vĩnh viễn, Eternal"},
 {ko:"소중하다", vi:"Quý giá, Precious"},
 {ko:"소중", vi:"Sự quý giá, Preciousness"},
 {ko:"그치다", vi:"Ngừng / dừng (mưa), Stop"},
