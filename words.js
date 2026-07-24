@@ -1172,7 +1172,7 @@ var WORDS = [
 {ko:"생강", vi:"Gừng, Ginger"},
 {ko:"석사", vi:"Thạc sĩ, Master's degree"},
 {ko:"섞다", vi:"Trộn, Mix"},
-{ko:"성실하다", vi:"Chăm chỉ / chân thành, Diligent / Sincere"},
+{ko:"성실하다", vi:"Thành thật / chân thành"},
 {ko:"소금물", vi:"Nước muối, Salt water"},
 {ko:"순서", vi:"Thứ tự, Order"},
 {ko:"실력", vi:"Năng lực / trình độ, Ability / Skill"},
